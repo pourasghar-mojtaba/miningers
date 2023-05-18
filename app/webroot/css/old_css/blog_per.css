@@ -1,0 +1,233 @@
+/* CSS Document */
+.posts
+{
+	float:right;
+	margin-right: 81px;
+}
+.posts section
+{
+	width:600px;
+	box-shadow:0 0 3px rgba(0,0,0,0.2);
+	background:rgba(255,255,255,0.9);
+}
+.posts section header
+{
+	border-bottom:1px solid rgba(0,0,0,0.05);
+	padding-bottom:10px;
+	margin:5px;
+}
+.posts section header h1
+{
+	font-family:"b mitra","W_mitra", tahoma;
+	color:rgba(0,102,204,1) !important;
+	font-size:16px;
+ 	padding:10px;
+}
+.posts section header span
+{
+	color:rgba(0,153,255,1);
+	font-size:10px;
+	margin-top:-10px;
+	padding:0 5px 0 5px;
+	float:left;
+	border-left:1px solid rgba(0,153,255,1);
+}
+.posts section article
+{
+	padding:10px;
+	color:rgba(102,102,102,1);
+}
+.posts section article h2,
+.posts section article h3
+{
+	margin:0 0 10px 0;
+	color:rgba(51,51,51,1);
+	font-size:12px;
+}
+.posts section figure
+{
+	margin:0;
+}
+.posts section figure img
+{
+	max-width:560px;
+	height:auto;
+	margin:7px;
+	box-shadow:0 0 5px rgba(51,102,153,0.3);
+	border:3px #fff solid;
+}
+.posts section figure figcaption
+{
+	margin:-5px 10px 20px 0;
+	font-size:11px;
+	font-style:italic;
+	color:rgba(153,153,153,1);
+}
+.posts section article a
+{
+	color:rgba(0,153,255,1);
+}
+.posts footer
+{
+	clear:both;
+	border-top:1px dotted rgba(0,0,0,0.1);
+	padding-top:10px;
+}
+.posts footer ul.tags
+{
+	width:100%;
+	padding:10px;
+}
+.posts footer ul.tags li
+{
+	font-size:10px;
+	display:inline-block;
+	padding:5px;
+	color:rgba(255,255,255,1);
+	background:rgba(0,102,204,0.7);
+	border-radius:5px;
+	cursor:pointer;
+	margin-left: 5px;
+}
+.posts footer ul.tags li:hover
+{
+	background:rgba(0,102,255,1);
+}
+.posts footer ul.share
+{
+	text-align:left;
+}
+.posts footer ul.share li
+{
+	display:inline-block;
+	margin-left:5px;
+}
+aside.archive
+{
+	float: right;
+	box-shadow:0 0 3px rgba(0,0,0,0.2);
+	background:rgba(255,255,255,0.9);
+	width:370px;
+	margin:13px;
+}
+aside.archive header
+{
+	color:rgba(102,102,102,1);
+	font-weight:bold;
+	padding:10px;
+}
+aside.archive form
+{
+	padding:10px;
+}
+aside.archive label
+{
+	display:inline-block;
+	margin:0 0 20px 0;
+}
+aside.archive select
+{
+	width:70px;
+	display:inline-block;
+	margin:0 0 20px 20px;
+	padding:5px;
+}
+aside.archive input[type="text"]
+{
+	width:90%;
+	display:inline-block;
+	margin: 0 0 20px 0 ;
+	padding:5px;
+}
+aside.archive input[type="submit"]
+{
+	background-color:rgba(0,102,204,1);
+	color:rgba(255,255,255,1);
+	padding:3px 10px 8px 10px;
+	border:none;
+	box-shadow:1px 1px 2px rgba(0,0,0,0.3);
+	cursor:pointer;
+}
+aside.archive input[type="submit"]:hover
+{
+	background-color:rgba(0,102,255,1);
+}
+header.reporterInfo
+{
+	width:985px;
+	background:rgba(102,102,102,1) url(../img/visit-card_bg.png) left no-repeat;
+	border-radius:6px;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-shadow:0 0 3px rgba(0,0,0,0.4);
+	min-height: 100px;
+	margin-right: 81px;
+}
+header.reporterInfo .titr
+{
+	font-family:Tahoma, Geneva, sans-serif, "B Homa";
+	font-size:14px;
+	color:rgba(255,204,51,1);
+	font-weight:bold;
+	display:block;
+	margin-bottom:10px;
+}
+header.reporterInfo .text
+{
+	font-family:Tahoma, Geneva, sans-serif, "B Homa";
+	font-size:12px;
+	color:rgba(204,204,204,1);
+	display:block;
+	margin-bottom:20px;
+}
+header.reporterInfo .text a
+{
+	color:#84d3e8;
+	font-weight: bold;
+}
+header.reporterInfo form
+{
+	display:inline-block;
+	width:980px;
+}
+header.reporterInfo form .profile_img
+{
+	width:100px;
+	height:100px;
+	display:inline-block;
+	margin-left:10px;
+	float:right;
+}
+header.reporterInfo form textarea
+{
+	width:740px;
+	height:80px;
+	display:inline-block;
+	margin-left:10px;
+	padding:10px;
+	float:right;
+	resize:none; 
+}
+header.reporterInfo form text[type="submit"]
+{
+	float:right;
+}
+#blog_attach_place
+{
+	float: left;
+}
+.attachment {
+    background: none repeat scroll 0 0 rgba(153, 0, 0, 0.8);
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-size: 11px;
+    margin-top: 5px;
+    padding: 0 0 0 5px;
+	margin-left: 6px;
+}
+.attachment .close {
+    float: left;
+    margin-left: -4px;
+}

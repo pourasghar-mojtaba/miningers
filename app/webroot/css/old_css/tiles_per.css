@@ -1,0 +1,586 @@
+﻿/* CSS Document */
+.tile
+{
+	position:relative;
+	margin:5px;
+	text-align:center;
+	color:white;
+	opacity:0.9;
+	border:none;
+	cursor:pointer;
+	font-size:11px;
+}
+.tile:hover
+{
+	opacity:1;
+}
+.tile.size3 > .symbol
+{
+	position:absolute;
+	width:100%;
+	overflow:hidden;
+	top:20px;
+	left:0;
+}
+.tile.size3 > .symbol img.icon
+{
+	position:absolute;
+	margin-left:50%;
+	left:-25px;
+}
+.tile.size3 > .symbol span.data
+{
+	margin-left:50%;
+	left:30px;
+}
+
+/*=====================================================*/
+/*tiles size : */
+.tile.size_2
+{
+	width:30px;
+	height:30px;
+}
+.tile.size_1
+{
+	width:50px;
+	height:50px;
+}
+.tile.size0
+{
+	width:72px;
+	height:70px;
+}
+.tile.size1
+{
+	width:100px;
+	height:100px;
+}
+.tile.size2
+{
+	width:150px;
+	height:150px;
+}
+.tile.size3
+{
+	width:310px;
+	height:150px;
+}
+.tile.size4
+{
+	width:630px;
+	height:310px;
+	cursor:default;
+}
+.tile.btn
+{
+	height:30px;
+}
+
+/*=====================================================*/
+/*tiles color : */
+.tile.white1
+{
+	background-color:#eee;
+}
+.tile.white1:hover
+{
+	background-color:#fff;
+}
+.tile.green1
+{
+	background-color:#009933;
+}
+.tile.green1:hover
+{
+	background-color:#00C440;
+}
+.tile.green2
+{
+	background-color:#00CC33;
+}
+.tile.gray1
+{
+	background-color:#666666;
+}
+.tile.gray1:hover
+{
+	background-color:#888;
+}
+.tile.gray2
+{
+	background-color:#333333;
+}
+.tile.gray2:hover
+{
+	background-color:#555555;
+}
+
+.tile.orange
+{
+	background-color:#f58303;
+}
+.tile.orange:hover
+{
+	background-color:#fc992c;
+}
+
+.tile.blue1
+{
+	background-color:#336699;
+}
+.tile.blue1:hover
+{
+	background-color:#4B87C2;
+}
+.tile.blue2
+{
+	background-color:#0066CC;
+}
+.tile.blue3
+{
+	background-color:rgb(51,102,153);
+}
+.tile.blue3:hover
+{
+	background-color:rgb(63,125,188);
+}
+.tile.blueLinkedIn
+{
+	background-color:#1C87BD;
+}
+.tile.blueLinkedIn:hover
+{
+	background-color:#33A9E1;
+}
+.tile.pink1
+{
+	background-color:#CC0099;
+}
+.tile.pink1:hover
+{
+	background-color:#FF17C6;
+}
+.tile.violet1
+{
+	background-color:#7C42BD;
+}
+.tile.violet1:hover
+{
+	background-color:#BA62D0;
+}
+.tile.orange1
+{
+	background-color:rgb(255,153,0);
+}
+.tile.orange1:hover
+{
+	background-color:rgb(254,116,14);
+}
+.tile.skyBlue
+{
+	background-color:rgb(80,175,242);
+}
+.tile.skyBlue:hover
+{
+	background-color:rgb(134,199,247);
+}
+.tile.lajani
+{
+	background-color:#669900;
+}
+.tile.lajani:hover
+{
+	background-color:#8ACC00;
+}
+.tile.red
+{
+	background-color:rgb(204,0,0);
+}
+.tile.red:hover
+{
+	background-color:rgb(255,15,15);
+}
+.tile.green
+{
+	background-color:#44b41f;
+}
+.tile.green:hover
+{
+	background-color:#67de3f;
+}
+.tile.atashi
+{
+	background-color:#DDB000;
+}
+.tile.atashi:hover
+{
+	background-color:#FFCC00;
+}
+
+/*tile data position*/
+
+.tile.size_2 > .symbol
+{
+	position:absolute;
+	top:5px;
+	right:5px;
+	width:20px;
+	height:20px;
+}
+.tile.size_1 > .symbol
+{
+	position:absolute;
+	top:2px;
+	right:2px;
+}
+.tile.size_1 > header
+{
+	position:absolute;
+	top:25px;
+	left:5px;
+	font-size:20px;
+}
+
+.tile.size3 > .symbol,
+.tile.size2 > .symbol
+{
+	position:absolute;
+	width:100%;
+	height:100px;
+	overflow:hidden;
+	top:20px;
+	left:0;
+}
+.tile.size3 > .symbol img.icon,
+.tile.size2 > .symbol img.icon
+{
+	position:absolute;
+	margin-left:-25px;
+	top:0;
+	left:50%;
+}
+.tile.size0 > .symbol .data
+{
+	position:absolute;
+	top:5px;
+	left:0;
+	text-align:center;
+	width:100%;
+	display:block;
+	font-size:18px;
+}
+.tile.size0 > .symbol > img
+{
+	position:absolute;
+	margin-left:-25px;
+	top:0;
+	left:50%;
+}
+.tile.size0 > header
+{
+	position:absolute;
+	top:50px;
+	left:0;
+	text-align:center;
+	width:100%;
+	display:block;
+	font-size:10px;
+}
+.tile.size3 > header
+{
+	position:absolute;
+	height:30px;
+	top:125px;
+	right:5px;
+	font-size:16px;
+}
+.tile.size2 > header
+{
+	position:absolute;
+	top:125px;
+	width:100%;
+	text-align:center;
+}
+.tile.size3 > .symbol span.data
+{
+	position:absolute;
+	margin-left:50%;
+	left:30px;
+	top:20px;
+	font-size:30px;
+	font-family: 'Baumans', sans-serif;
+}
+.tile.btn .symbol
+{
+	display:inline-block;
+	margin:0;
+	width:30px;
+	height:100%;
+}
+.tile.btn:hover a
+{
+	text-decoration:none;
+}
+.tile.btn .symbol .topMenuIcons
+{
+	margin-top:3px;
+}
+.tile.btn header
+{
+	display:inline-block !important;
+	height:20px;
+	font-size:12px;
+	padding:5px 5px;
+	vertical-align:top;
+}
+.freeHeight
+{
+	height:auto;
+}
+.socialNetwork
+{
+}
+.socialNetwork > div
+{
+	position:relative;
+	padding:5px 5px 0 30px;
+	width: auto;
+	display:inline-block;
+	height:20px;
+	text-align:right;
+}
+.socialNetwork > div .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) no-repeat;
+	position:absolute;
+	top:3px;
+	left:5px;
+}
+.socialNetwork > .like > .symbol
+{
+	width:15px;
+	height:19px;
+	background-position:0px 0px;
+}
+.socialNetwork > .dislike > .symbol
+{
+	width:15px;
+	height:19px;
+	background-position:-15px 0px ;
+}
+.socialNetwork > .comment > .symbol
+{
+	width:20px;
+	height:19px;
+	background-position:-30px 0px ;
+}
+.socialNetwork > .delete > .symbol
+{
+	width:20px;
+	height:19px;
+	background: url(../img/metroIcons/trash.png) no-repeat;
+}
+.socialNetwork > .share
+{
+	width:auto;
+	height:19px;
+	background-position:-30px 0px ;
+}
+.socialNetwork > .unshare
+{
+	background-color:rgb(204,0,0);
+	height:19px;
+	width: auto;
+}
+.socialNetwork  > .unshare:hover
+{
+	background-color:rgb(255,15,15);
+}
+
+.socialNetwork > .unshare .more
+{
+    width:auto;
+	padding-left:50px;
+	display:inline-block;
+}
+
+.socialNetwork > .share .more
+{
+    width:auto;
+	padding-left:50px;
+	display:inline-block;
+}
+.socialNetwork > .unshare .numb,.share .numb
+{
+	background-color:rgba(0,0,0,0.3);
+	width:80px;
+	height:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	position:absolute;
+	top:0;
+	left:0;
+	padding:5px 5px 0 0 
+}
+.socialNetwork > .share .symbol
+{
+	width:20px;
+	height:17px;
+	background-position:-50px 0px ;
+}
+.socialNetwork > .unshare .symbol
+{
+	width:20px;
+	height:17px;
+	background-position:-50px 0px ;
+}
+.subMenu1 > .symbol {
+    background: url("../img/icons/social_activity_icon.png") no-repeat scroll -307px 0 transparent;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+
+.tile.help > .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -347px 0 ;
+}
+.outOfBox
+{
+	position:absolute;
+	left:-35px;
+	display:none;
+	
+}
+.favorite
+{
+	top:0px;
+}
+.favorite > .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -110px 0 ;
+}
+.fbShare
+{
+	top:40px;
+}
+.fbShare > .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -70px 0 ;
+}
+.gplusShare
+{
+	top:80px;
+}
+.gplusShare > .symbol
+{
+	background:url(../img/icons/google-plus-24.png) ;
+}
+.linkedInShare
+{
+	bottom:50px;
+}
+.linkedInShare > .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -90px 0 ;
+}
+.topMenuIcons
+{
+	display:inline-block;
+	background-image:url(../img/icons/social_activity_icon.png);
+}
+.subMenu1 > .symbol
+{
+	display:inline-block;
+	background:url(../img/icons/social_activity_icon.png) -307px 0 no-repeat;
+	width:20px;
+	height:20px;
+}
+.tile.help > .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -347px 0 ;
+}
+
+.MenuHome
+{
+	background-position:-204px 0;
+	width:20px;
+	height:20px;
+}
+.MenuPeople
+{
+	background-position:-184px 0;
+	width:20px;
+	height:14px;
+}
+.MenuCompanies
+{
+	background-position:-224px 0;
+	width:20px;
+	height:24px;
+}
+.MenuCompose
+{
+	background-position:-246px 0;
+	width:20px;
+	height:20px;
+}
+.MenuMessage
+{
+	background-position:-286px 0;
+	width:20px;
+	height:21px;
+}
+.MenuMessage
+{
+	background-position:-286px 0;
+	width:20px;
+	height:21px;
+}
+.postLink
+{
+}
+.postLink > .symbol
+{
+	right:7px !important;
+	top:7px !important;
+	width:15px !important;
+	height:15px !important;
+	background:url(../img/icons/social_activity_icon.png) -167px 0 ;
+}
+.postImage
+{
+}
+.postImage > .symbol
+{
+	background: url("../img/icons/social_activity_icon.png") repeat scroll -147px 0 rgba(0, 0, 0, 0);
+    height: 15px !important;
+    right: 6px !important;
+    top: 7px !important;
+    width: 19px !important;
+}
+.btn.login 
+.btn.register 
+{
+	display:inline-block;
+}
+.btn.login .symbol
+{
+	background:url(../img/icons/social_activity_icon.png) -367px 0 ;
+	width:25px;
+	height:16px;
+	margin:7px 2px 0 5px;
+}
+.btn.next .symbol
+{
+	position:absolute;
+	width:20px;
+	height:20px;
+	bottom:5px;
+	left:5px;
+	background:url(../img/icons/social_activity_icon.png) -327px 0;
+}
+
+
+

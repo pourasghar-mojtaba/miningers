@@ -1,0 +1,37 @@
+
+.toolbar_container
+{
+	padding-top:5px;
+	margin:20px 0px;
+	text-align:right;
+	height:28px;
+	border-top:solid 1px #888888;
+    border-bottom:solid 1px #888888;
+}
+.toolbar_container_list
+{
+	text-align:right;
+	height:39px;
+}
+.toolbar_container .toolbar, .toolbar_container_list .toolbar 
+{
+	float:left;
+}
+
+.created_modified_zone
+{
+	margin:10px 0px;
+	padding:5px;
+	font-style:italic;
+	color:#666;
+}
+.created_modified_zone .created_date
+{
+	padding: 1px 3px 1px 1px;
+	background-color:#f0f0f0;
+}
+.created_modified_zone .modified_date
+{
+    padding: 1px 3px 1px 1px;
+    background-color:#f0f0f0;
+}

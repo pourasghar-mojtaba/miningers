@@ -1,0 +1,383 @@
+﻿/* CSS Document */
+#content
+{
+	height:100%;
+}
+#rightPanel
+{
+	width:330px;
+	height:100%;
+	/*background-color:#CCC;*/
+	float:right;
+	 
+	 box-sizing:border-box;
+	-moz-box-sizing:border-box; /* Firefox */
+	/*border-left:1px solid rgba(0,0,0,0.2);*/
+	 margin-right: 56px;
+}
+aside #profilePanel {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #CCCCCC;
+    height: auto;
+    padding: 5px;
+    position: relative;
+    width: 329px;
+}
+aside #category {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #CCCCCC;
+    height: auto;
+    margin-top: 18px;
+    padding: 5px;
+    position: relative;
+   /* top: 1028px;*/
+    width: 329px;
+    /*z-index: 30;*/
+}
+#rightPanel h2
+{
+	margin-right:10px;
+	font-size:12px;
+	color:rgba(51,51,51,1);
+	text-shadow:1px 1px 1px rgba(255,255,255,1);
+}
+#rightPanel ul.resultGroup
+{
+	margin-right:10px;
+}
+#rightPanel ul.resultGroup li
+{
+	margin-bottom:10px;
+	color:rgba(0,102,204,1);
+}
+#rightPanel ul.resultGroup li.active
+{
+	font-weight:bold;
+	color:rgba(0,51,204,1);
+}
+#rightPanel form.selectForm
+{
+}
+#rightPanel form.selectForm label
+{
+	margin-right:10px;
+	color:rgba(51,51,51,1);
+	height:30px;
+	display:block;
+}
+#rightPanel form.selectForm label img
+{
+	margin-bottom:-10px;
+}
+#rightPanel form.selectForm
+{
+	margin-bottom:-5px;
+}
+.searchPanels
+{
+	width:70%;
+	background-color:#CCC;
+	float:right;
+	margin:0;
+}
+.searchPanels form.search
+{
+	margin:20px;
+	width:300px;
+	height:50px;
+	float:right;
+	position:relative;
+}
+.searchPanels form.search .searchBox2
+{
+	height:35px;
+	width:300px;
+	border:1px inset rgba(0,0,0,0.2);
+	border-radius:10px;
+	overflow:hidden;
+	position:relative;
+}
+.searchPanels form.search .searchBox2 label
+{
+	position:absolute;
+	right:10px;
+	top:5px;
+	color:rgba(204,102,0,0.6);
+	
+}
+.searchPanels form.search .searchBox2 > .more
+{
+	float:right;
+	width:15px;
+	height:35px;
+	background:#000;
+}
+.searchPanels form.search .searchBox2 > .more .trail
+{
+	width:0;
+	margin:15px 3px 0 0;
+	border:5px;
+	border-style:solid;
+	border-color:rgba(255,255,255,1) transparent transparent transparent;
+}
+.searchPanels form.search .searchBox2 > .more:hover
+{
+	background:#333;
+	cursor:pointer;
+}
+.searchPanels form.search .searchBox2 input[type="text"]
+{
+	border:none;
+	float:right;
+	width:240px;
+	padding:5px;
+	height:25px;
+	color:rgba(204,102,0,1);
+}
+.searchPanels form.search .searchBox2 input[type="submit"]
+{
+	float:right;
+	width:35px;
+	height:35px;
+	padding:0;
+	margin:0;
+	color:transparent;
+	border:none;
+	background:#000 no-repeat center center;
+	background-image:url(../img/icons/folder_search_32.png);
+	cursor:pointer;
+}
+.searchPanels form.search > p
+{
+	width:200px;
+	position:absolute;
+	left:0;
+	top:25px;
+	background:rgba(0,0,0,0.8);
+	border-radius:5px;
+	box-shadow:0 0 5px rgba(0,0,0,0.4);
+	padding:5px;
+	color:rgba(204,204,204,1);
+	display:none;
+	z-index:2;
+}
+.searchPanels form.search > p label
+{
+	margin-bottom:10px;
+	float:right;
+	width:100%;
+}
+.searchPanels form.search > p label img
+{
+	margin-bottom:-10px;
+}
+
+.searchPanels span.showFilter
+{
+	float:right;
+	display:inline;
+	color:rgba(102,102,102,1);
+	font-size:11px;
+	text-shadow:1px 1px 1px rgba(255,255,255,0.7);
+	margin:30px 0 0 0;
+}
+.searchPanels span.showFilter:hover
+{
+	color:rgba(0,102,255,1);
+	cursor:pointer;
+}
+.searchPanels span.select
+{
+	float:right;
+	display:inline;
+	color:rgba(102,102,102,1);
+	font-size:11px;
+	text-shadow:1px 1px 1px rgba(255,255,255,0.7);
+	margin:10px;
+}
+.searchPanels span.select:hover
+{
+	color:rgba(0,102,255,1);
+	cursor:pointer;
+}
+.searchPanels form.industeries
+{
+	display:none;
+	float:right;
+	width:100%;
+}
+.searchPanels form.industeries ul.industeriesList
+{
+	float:right;
+	width:90%;
+	margin:10px 5% 10px 5%;
+}
+.searchPanels form.industeries ul.industeriesList li
+{
+	float:right;
+	width:50%;
+	height:30px;
+}
+.searchPanels form.industeries input[type="submit"]
+{
+	float:left;
+	margin:10px;
+}
+.searchResult
+{
+	float:right;
+	width:62%;
+	height:100%;
+	background:#fff;
+	margin-right: 15px;
+}
+.searchResult ul.result
+{
+}
+.searchResult ul.result li
+{
+	margin:5px;
+	height:120px;
+}
+.searchResult ul.result li .ax
+{
+	float:right;
+	width:100px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .ax img
+{
+	float:right;
+	width:inherit;
+	height:auto;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:590px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:560px;
+	height:110px;
+	overflow:hidden;
+	position:relative;
+}
+.searchResult ul.result li h1
+{
+	display:inline-block;
+	font-size:12px;
+	color:rgba(51,51,51,1);
+	margin:5px;
+}
+.searchResult ul.result li h1.atAddress
+{
+	color:rgba(0,102,255,1);
+}
+.searchResult ul.result li h2
+{
+	display:inline-block;
+	font-size:12px;
+	color:#666666;
+	text-align:right;
+	border-left:1px outset rgba(0,0,0,0.6);
+	margin:0 5px 5px 0;
+	padding:5px;
+}
+.searchResult ul.result li h2.website
+{
+	color:#666666;
+	border:none;
+}
+.searchResult ul.result li .details
+{
+	display:block;
+	margin:0 5px 0 5px;
+	color:rgba(102,102,102,1);
+	text-align:justify;
+}
+.searchResult ul.result li .btn
+{
+	position:absolute;
+	top:-40px;
+	left:5px;
+    padding: 6px;
+}
+.searchpageLayout
+{
+	float:right;
+	width:100%;
+	height:35px;
+	text-align:center;
+	direction:ltr;
+}
+.searchpageLayout ul.pagesNumber
+{
+	display:inline-block;
+	height:35px;
+}
+.searchpageLayout ul.pagesNumber li
+{
+	display:inline-block;
+	padding:5px;
+	border-radius:10px;
+	cursor:pointer;
+	font-weight:bold;
+	color:rgba(102,102,102,1);
+}
+.searchpageLayout ul.pagesNumber li.active
+{
+	color:rgba(0,102,255,1);
+}
+.searchpageLayout ul.pagesNumber li:hover
+{
+	background-color:rgba(0,255,255,0.5);
+}
+.searchpageLayout div
+{
+	display:inline-block;
+	width:32px;
+	height:32px;
+	margin-bottom:-10px;
+	border-radius:10px;
+	cursor:pointer;
+}
+.searchpageLayout div:hover
+{
+	background-color:rgba(102,204,255,0.5);
+}
+.searchpageLayout .prePage
+{
+	background:url(../img/icons/pre.png);
+}
+.searchpageLayout .prePage:hover
+{
+	margin-right:5px;
+}
+.searchpageLayout .nextPage
+{
+	background:url(../img/icons/next.png);
+}
+.searchpageLayout .nextPage:hover
+{
+	margin-right:5px;
+}
+
+#user_type_box
+{
+	float: right;
+	margin-right: 0px;
+}
+#user_type_box label
+{
+	margin-right:20px;
+}
+
+#view_tags{
+	text-align: right;
+	direction: rtl;
+}

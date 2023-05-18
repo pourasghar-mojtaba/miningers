@@ -1,0 +1,52 @@
+/* CSS Document */
+.myForm
+{
+	position:relative;
+	/*width:500px;*/
+	line-height:175%;
+	background:rgba(51,51,51,1);
+}
+.myForm > header
+{
+	text-align:center;
+	display:inline-block;
+	width:100%;
+	padding:10px 0;
+	color:rgb(255,255,255);
+	background:rgb(51,153,204);
+}
+.myForm table
+{
+	width:100%;
+}
+.myForm table tr
+{
+	width:100%;
+}
+.myForm table tr td
+{
+	padding:5px;
+}
+.myForm table tr td label ,.myForm div label
+{
+	color:rgba(204,204,204,1);
+	display:block;
+}
+.myForm table tr td input[type="text"],
+.myForm table tr td textarea,
+.myForm table tr td select
+{
+	border:none;
+	height:30px;
+	width:100%;
+	font-family: tahoma;
+}
+.myForm .extraComments
+{
+	font-size:10px;
+	font-style:oblique;
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	color:rgba(255,204,204,1);
+}

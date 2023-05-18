@@ -1,0 +1,340 @@
+.lightFace_statusbar  {
+	margin: 0;
+	padding: 0;
+	/*border-collapse: collapse;*/
+	position: absolute;
+	top: -9000px;
+	left: -9000px;
+	font-family:Tahoma, Geneva, sans-serif;
+	background:  #CCCCCC url(bg.png) repeat;
+	color:rgba(51,51,51,1);
+	text-shadow:1px 1px 1px #fff;
+	
+    border-radius: 10px 10px 10px 10px;
+}
+
+ 
+
+.lightFace_statusbar td {
+	padding: 0;
+	margin: 0;
+	background-color: transparent;
+	vertical-align: top;
+	font-family: 'tahoma';
+	font-size: 11px;
+}
+
+
+.lightFace_statusbar .topLeft {
+	background-position: top left;
+}
+
+.lightFace_statusbar .topRight {
+	background-position: top right;
+}
+
+.lightFace_statusbar .bottomLeft {
+	background-position: bottom left;
+}
+
+.lightFace_statusbar .bottomRight {
+	background-position: bottom right;
+}
+
+
+.lightFace_statusbar .lightFace_statusbarContent {
+	position: relative;
+}
+
+.lightFace_statusbar .loading {
+	display: block;
+	margin: 10px auto;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarTitle {
+	font-size: 14px;
+	color: #333333;
+	border-radius: 10px 10px 0 0;
+	background:  #CCCC00 url(bg.png) repeat;
+	font-weight: bold;
+	margin: -4px;
+	margin-bottom: 0;
+	padding: 5px 10px;
+	font-family: F_pooneh,"B Titr","2 Titr","Times New Roman",Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	min-height: 30px;
+    /*border-bottom: 1px dotted #FFFFFF;*/
+    color: #333333;
+}
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarGreenTitle {
+	font-size: 14px;
+	color: #333333;
+	border-radius: 10px 10px 0 0;
+	background:  #54d814 url(bg.png) repeat;
+	font-weight: bold;
+	margin: -4px;
+	margin-bottom: 0;
+	padding: 5px 10px;
+	font-family: F_pooneh,"B Titr","2 Titr","Times New Roman",Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	min-height: 30px;
+    /*border-bottom: 1px dotted #FFFFFF;*/
+    color: #333333;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarRedTitle {
+	font-size: 14px;
+	color: #333333;
+	border-radius: 10px 10px 0 0;
+	background:  #ff3e3e url(bg.png) repeat;
+	font-weight: bold;
+	margin: -4px;
+	margin-bottom: 0;
+	padding: 5px 10px;
+	font-family: F_pooneh,"B Titr","2 Titr","Times New Roman",Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	min-height: 30px;
+    /*border-bottom: 1px dotted #FFFFFF;*/
+    color: #333333;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarDraggable {
+	cursor:move;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarMessage {
+	overflow: auto;
+	margin: 0;
+	position: relative;
+	padding: 5px 10px;
+	border: 1px solid #fff;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarMessage h3,
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarMessage h4,
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarMessage h5,
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarMessage h6 {
+	margin-top: 6px;
+}
+
+.lightFace_statusbar .lightFace_statusbarContent .lightFace_statusbarFooter {
+	background:  #CCCCCC url(bg.png) repeat;
+    color: #CCCCCC;
+	/*border-top: 1px solid #ccc;*/
+	padding: 6px 10px;
+	text-align: right;
+}
+
+/*.lightFace_statusbar .lightFace_statusbarFooter input[type='button'] {
+	border: 1px solid #666;
+	border-top-color: #e7e7e7;
+	border-left-color: #e7e7e7;
+	background-color: #f0f0f0;
+	padding: 1px 0 2px;
+	line-height: 16px;
+	vertical-align: middle;
+	margin-left: 5px;
+	cursor: pointer;
+	font-size: 13px;
+	display: inline-block;
+	font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+	font-weight: bold;
+	white-space: nowrap;
+	border:2px outset buttonface;
+	border-style: inset;
+	text-align:center;
+}
+
+.lightFace_statusbar .lightFace_statusbarFooter input[type='button'].lightFace_statusbarBlue {
+	border-color: #0e1f5b;
+	border-top-color: #d9dfea;
+	border-left-color: #d9dfea;
+	background-color: #3b598a;
+	color: #fff;
+}
+*/
+
+.lightFace_statusbar .lightFace_statusbarFooter label {
+	font-size: 13px;
+	cursor:pointer;
+	/*font-weight:bold;*/
+	padding:2px 6px 2px 6px;
+	text-align:center;
+	vertical-align:top;
+	white-space:nowrap;
+	margin-left:3px;
+	background-position:0 0;
+	line-height:20px;
+	display:inline-block;
+	-moz-border-radius:5px 5px 5px 5px;
+	background-position:0 -96px;
+	color:#FFFFFF;
+	-moz-box-shadow:0 0 5px black;
+	border:2px solid #CCCCCC;
+}
+.lightFace_statusbar .lightFace_statusbarFooter label : hover{
+	-moz-box-shadow:0 0 5px 006633;
+}
+.lightFace_statusbar .lightFace_statusbarFooter label input {
+	background:none;
+	border:0 !important;
+	cursor:pointer;
+	font-family:  Tahoma, Verdana, Arial, sans-serif;
+	margin:0;
+	white-space:nowrap;
+	text-align:center;
+	color:#fff;
+	font-size:13px;
+	border: 2px outset buttonface;
+	text-indent:0;
+	text-shadow:none;
+	display:inline-block;
+
+	font-size:13px;
+
+}
+
+/* ie6 hacks */
+* html .lightFace_statusbar .lightFace_statusbarFooter label input { border:0; }
+
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbarblue {
+	/*border-color: #29447E #29447E #1A356E;*/
+	background-position:0 -0px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-moz-box-shadow:0 0 5px black;
+	background-color:#898989;
+	border:2px solid #CCCCCC;
+	color:#FFFFFF;
+}
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbarblue.lightFace_statusbarfocusblue { 
+  background-color: #d3d3d3; 
+  background-image:none; }
+
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbargreen {
+	/*border-color: #3B6E22 #3B6E22 #2C5115;*/
+	background-position:0 -96px;	
+	-moz-border-radius:5px 5px 5px 5px;
+	-moz-box-shadow:0 0 5px black;
+	background-color:#38bc12;
+	border:2px solid #CCCCCC;
+	color:#FFFFFF;
+	
+}
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbargreen :hover{
+	/*background-color: #69A74E; 
+    background-image:none;*/
+	/*background-position:0 -48px;
+	border:solid 2px #CCC;
+	cursor:pointer;
+	
+	-moz-box-shadow: 0 0 10px #090;
+   -webkit-box-shadow: 0  0 10px #090;
+   box-shadow: 0  0 10px #090;*/
+}
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbargreen.lightFace_statusbarfocusgreen { 
+background-color: #69A74E; 
+background-image:none; }
+
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbarblue input,
+.lightFace_statusbar .lightFace_statusbarFooter label.lightFace_statusbargreen input {
+	color:#fff;
+}
+
+
+.lightFace_statusbar .hiddenButton {
+	visibility: hidden;
+}
+
+.lightFace_statusbar .lightFace_statusbarOverlay {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	/*
+	background-image: url(fbloader.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	*/
+	background:url(fbloader.gif) center center no-repeat #fff;
+}
+
+.lightFace_statusbar .lightFace_statusbarMessageBox	{ 
+	overflow: auto;
+	padding: 10px 10px;
+	min-height: 20px;
+	position:relative;
+	font-family:Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	/*background:url(bg-multimedia.jpg);*/
+}
+
+.lightFace_statusbar .lightFaceMessageBoxImage {
+	overflow: hidden;
+	padding: 0;
+	background:url(fbloader.gif) center center no-repeat #fff;
+}
+
+.lightFace_statusbar .lightFaceMessageBoxImage img {
+	display: block;
+}
+.lightFace_statusbar_backdiv
+{
+	opacity: 0.55;
+	position: absolute;
+	background:url(trans-bg.png);
+	top:0;
+	left:0;
+	z-index: 50;
+}
+/*.error_icon1 {
+background-image:url("error_image1.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon2 {
+background-image:url("error_image2.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon3 {
+background-image:url("error_image3.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon1_anim {
+height:33px;
+left:20px;
+position:absolute;
+top:20px;
+width:30px;
+background-image:url("!.gif");
+}
+.btn_border {
+    border-bottom: medium dotted #999999;
+    height: 2px;
+    width: 165px;
+	margin-bottom:5px;
+	float:right;
+}*/
+.clear_line {
+    clear:both;
+}
+
+

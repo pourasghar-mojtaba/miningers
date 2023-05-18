@@ -1,0 +1,134 @@
+<!-- topbar starts -->
+	  
+	<!-- topbar ends -->
+		<div class="container-fluid">
+		<div class="row-fluid">
+				
+			<!-- right menu starts -->
+				<?php echo $this->element('Admin/right_menu'); ?>       
+			<!-- right menu ends -->
+			
+			<div id="content" class="span10">
+			<!-- content starts -->
+			
+				<?php if($this->Session->check('Message.flash')) {?>
+				<div >
+					  <?php echo $this->Session->flash(); ?>
+				</div>
+				<?php } ?>
+				 
+			 <div class="row-fluid sortable ui-sortable">	
+				<div class="box span12">
+					<div data-original-title="" class="box-header well">
+						<h2><?php echo __('users'); ?></h2>
+						<div class="box-icon">
+							<a class="btn btn-minimize btn-round" href="#"><i class="icon-chevron-up"></i></a>
+						</div>
+					</div>
+					<div class="box-content">
+					<?php echo $this->Form->create('User', array('id'=>'SearchFrom','name'=>'SearchFrom')); ?>
+						<div class="row-fluid">
+							<div class="span6">
+								<div id="DataTables_Table_0_length" class="dataTables_length">
+									<label>
+									 <a href="<?php echo  __SITE_URL."admin/users/user_export" ?>"><?php echo $this->Html->image('/img/icons/excel.png'); ?></a>
+									 <?php echo __('records_per_page'); ?> :
+									<select size="1" aria-controls="DataTables_Table_0" onchange="if (this.value) window.location.href=this.value">
+										<?php
+	
+											if(isset($_REQUEST['filter']) && $_REQUEST['filter']==50)
+												echo "<option value='". __SITE_URL."admin/users/index?filter=50 ' selected='selected'>50</option>";
+												else echo"<option value='". __SITE_URL."admin/users/index?filter=50 '>50</option>";	
+											if(isset($_REQUEST['filter']) && $_REQUEST['filter']==100)
+												echo "<option value='". __SITE_URL."admin/users/index?filter=100 ' selected='selected'>100</option>";
+												else echo"<option value='". __SITE_URL."admin/users/index?filter=100 '>100</option>";			
+												if(isset($_REQUEST['filter']) && $_REQUEST['filter']==150)
+												echo "<option value='". __SITE_URL."admin/users/index?filter=150 ' selected='selected'>150</option>";
+												else echo"<option value='". __SITE_URL."admin/users/index?filter=150 '>150</option>";
+											if(isset($_REQUEST['filter']) && $_REQUEST['filter']==200)
+												echo "<option value='". __SITE_URL."admin/users/index?filter=200 ' selected='selected'>200</option>";
+												else echo"<option value='". __SITE_URL."admin/users/index?filter=200 '>200</option>";
+										?>
+									</select> 
+									</label>
+								</div>
+							</div>
+							<div class="span6">
+								
+								<div class="dataTables_filter" id="DataTables_Table_0_filter">
+								<label><?php echo __('search'); ?>: <input type="text" name="data[User][search]" aria-controls="DataTables_Table_0"></label>
+								</div>
+							  	
+							</div>
+						</div>
+						</form>
+						<table class="table table-bordered table-striped table-condensed">
+							  <thead>
+								  <tr>
+									  <th><?php echo $this->Paginator->sort('Postad.post_id', __('id'));?></th>
+									  <th><?php echo $this->Paginator->sort('User.nme',__('name'));?></th>
+									  <th><?php echo $this->Paginator->sort('Postad.base_amount',__('base_amount'));?></th>   
+									  <th><?php echo $this->Paginator->sort('Postad.sale_reference_id',__('refid'));?></th>  
+									  <th><?php echo $this->Paginator->sort('Bank.bank_name',__('bank_name'));?></th>  
+									  <th><?php echo $this->Paginator->sort('Bankmessage.message',__('message'));?></th>  
+									  <th><?php echo $this->Paginator->sort('Postad.created',__('created'));?></th>                                         
+								  </tr>
+							  </thead>   
+							  <tbody>
+							  <?php 
+							  	if(!empty($users))
+								{
+									foreach($users as $user)
+									{
+										
+								?>
+										<tr>								
+											<td class="center">
+												 
+													<?php echo $user['Appuser']['id']; ?>
+												 
+											</td>
+											<td class="center"><?php echo $user['User']['name']; ?></td>
+											<td class="center"><?php echo $user['Appuser']['price']; ?></td>   
+											<td class="center"><?php echo $user['Appuser']['sale_reference_id']; ?></td>  
+											<td class="center"><?php echo $user['Bank']['bank_name']; ?></td>  
+											<td class="center"><?php echo $user['Bankmessage']['message']; ?></td>  
+											<td class="center"><?php echo $user['Appuser']['created']; ?></td>                                    
+										</tr>  
+								<?php
+								
+									}
+								}
+							  ?>                                
+							  </tbody>
+						 </table> 
+						 <div class="pagination pagination-centered">
+						  <ul>
+						  <?php echo $this->Paginator->prev(__('prev'), array('tag'=>'li'), null, array('disabledTag'=>'a','tag'=>'li','class' => 'prev disabled'));?>
+							<!--<li><a href="#">Prev</a></li>->
+							<!--<li class="active">
+							  <a href="#">1</a>
+							</li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>-->
+							<?php echo $this->Paginator->numbers(array('tag'=>'li','separator'=>'','currentClass'=>'active','currentTag'=>'a'));?>
+							<!--<li><a href="#">Next</a></li>-->
+							<?php echo $this->Paginator->next(__('next'), array('tag'=>'li'), null, array('disabledTag'=>'a','tag'=>'li','class' => 'next disabled'));?>
+						  </ul>
+						</div>     
+					</div>
+				</div><!--/span-->
+			</div>
+		
+    
+					<!-- content ends -->
+			</div><!--/#content.span10-->
+	</div><!--/fluid-row-->
+</div>				
+	
+
+
+
+
+	

@@ -1,0 +1,479 @@
+﻿/* CSS Document */
+ .profileHeader
+{
+	float:right;
+	position:relative;
+	width:700px;
+	height:300px;
+	background:#FDF9F9;
+	/*border-radius:10px;*/
+	box-shadow:0 0 5px rgba(0,0,0,0.5);
+}
+ .profileHeader .coverImage
+{
+	width:700px;
+	height:250px;
+	background:repeat #333;
+	position: relative;
+	/*border-radius:10px;*/
+	overflow:hidden;
+}
+ .profileHeader .coverImage .item1
+{
+	width:700px;
+	height:250px;
+	/*background:url(../img/cover.jpg);*/
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:1;
+}
+ .profileHeader .coverImage .item2
+{
+	width:700px;
+	height:250px;
+	background:#fff url(../img/visit-card_bg.png) left center no-repeat;
+	position:absolute;
+	left:0;
+}
+ .profileHeader .coverImage .item1
+{
+	box-shadow:0 0 15px rgba(0,0,0,0.9);
+}
+ .profileHeader .coverImage .middleContent
+{
+	float:right;
+	margin:10px 20% 10px 20%;
+	width:60%;
+	height:210px;
+}
+ .profileHeader .coverImage .middleContent .profileImage
+{
+	margin:0 auto;
+	width:100px;
+	height:100px;
+	overflow:hidden;
+	border-radius:10px;
+	box-shadow:0 0 5px rgba(0,0,0,0.5);
+}
+ .profileHeader .coverImage .middleContent .profileImage img
+{
+	width:100px;
+	height: auto;
+}
+ .profileHeader .coverImage .middleContent div.AtAddress
+{
+	color:#50AFF2;
+	text-align:center;
+	text-shadow:0 0 5px #000;
+	font-weight:bold;
+}
+ .profileHeader .coverImage .middleContent span
+{
+	display:block;
+	margin-bottom:10px;
+	text-align:center;
+	font-weight:bold;
+	font-size:14px;
+	color:#fff;
+	text-shadow:0 0 5px #000;
+}
+ .profileHeader .coverImage .item2 .middleContent
+{
+	float:right;
+	margin:10px;
+	width:700px;
+	height:210px;
+}
+ .profileHeader .coverImage .item2 .middleContent .profileImage
+{
+	width:200px;
+	height:200px;
+	float:right;
+	margin:15px 5px 20px 10px;
+}
+ .profileHeader .coverImage .item2 .middleContent .profileImage img
+{
+	width:200px;
+	height:auto;
+}
+ .profileHeader .coverImage .item2 .middleContent h1.name
+{
+	font-size:14px;
+	float:right;
+	margin:20px 5px;
+}
+ .profileHeader .coverImage .item2 .middleContent h2.AtAddress
+{
+	font-size:14px;
+	color:rgba(102,102,102,1);
+	display:inline;
+	float:right;
+	margin:20px 5px;
+}
+ .profileHeader .coverImage .item2 .middleContent h2.location
+{
+	width:420px;
+	display:inline;
+	font-weight:100;
+	font-size:12px;
+	color:rgba(102,102,102,1);
+	float:right;
+	margin:5px 5px 0px 5px;
+}
+ .profileHeader .coverImage .item2 .middleContent h2.website
+{
+	display:inline;
+	font-weight:100;
+	width:420px;
+	font-size:12px;
+	color:rgba(102,102,102,1);
+	float:right;
+	margin:5px 5px 0px 5px;
+}
+ .profileHeader .coverImage .item2 .middleContent h3.more
+{
+	line-height:30px;
+	display:block;
+	font-weight:100;
+	width:450px;
+	font-size:12px;
+	color:rgba(102,102,102,1);
+	float:right;
+	margin:10px 0px 5px 5px;
+}
+ .profileHeader .btn
+{
+	float:right;
+	margin:11px 12px 0 0 ;
+	
+}
+ .profileHeader .btn .message_icon
+{
+	float:right;
+	margin:-7px -10px 0 5px;
+}
+ .profileHeader .btn .editProfile_icon
+{
+	float:right;
+	margin:-7px -10px 0 5px;
+}
+ .profileHeader ul.amars
+{
+	float:right;
+}
+ .profileHeader ul.amars li
+{
+	padding:5px 10px 5px 10px;
+	float:right;
+	height:40px;
+}
+ .profileHeader ul.amars span:first-child
+{
+	 
+	display:block;
+	color:#444;
+	font-weight:bold;
+}
+ .profileHeader ul.amars span:last-child
+{
+	font-size:12px;
+	color:#686868;
+}
+ .profileHeader .profileMenu
+{
+	position:relative;
+	float:left;
+	margin:15px 0 0 10px;
+}
+ .profileHeader .profileMenu .menuBtn
+{
+	width:18px;
+	height:16px;
+	background:url(../img/menu.png) left;
+}
+ .profileHeader .profileMenu .menuBtn:hover
+{
+	cursor:pointer;
+}
+ .profileHeader .profileMenu .menuBtn:hover,
+ .profileHeader .profileMenu .menuBtn.active
+{
+	background-position:right;
+}
+ .profileContent
+{
+	/*margin-top:20px;*/
+	float:left;
+	position:relative;
+	width:700px;
+	/*background:#DCDCDC;*/
+	padding:10px 0 10px 0 ;
+	/*border-radius:10px;*/
+	/*box-shadow:0 0 5px rgba(0,0,0,0.5);*/
+}
+ .profileContent ul.posts
+{
+	float:right;
+	margin:0 2% 0 2%;
+	width:96%;
+}
+ .profileContent ul.posts li
+{
+	float:right;
+	width:100%;
+	min-height:80px;
+	padding:5px 0 5px 0;
+	position:relative;
+}
+ .profileContent ul.posts .seperator_Hor
+{
+	width:96%;
+	margin:5px 2% 5px 2%;
+	float:right;
+}
+ .profileContent ul.posts li .profileImage
+{
+	width:60px;
+	height:60px;
+	border-radius:5px;
+	overflow:hidden;
+	float:right;
+	margin-left:5px;
+}
+ .profileContent ul.posts li .profileImage img
+{
+	width:60px;
+	height:60px;
+}
+ .profileContent ul.posts li h2
+{
+	display:inline-block;
+	margin:0;
+	padding:0;
+}
+ .profileContent ul.posts li h2 span:nth-child(1)
+{
+	font-size:14px;
+	color:#3D302E;
+}
+ .profileContent ul.posts li h2 span:nth-child(2)
+{
+	font-size:14px;
+	color:#646464;
+	font-weight:100;
+}
+ .profileContent ul.posts li h2 span:nth-child(3) img
+{
+	margin-bottom:-3px;
+}
+ .profileContent ul.posts li .contex
+{
+	font-size:11px;
+	color:#644A39;
+	padding:5px;
+}
+ .profileContent ul.posts li .extraBtn
+{
+	position:absolute;
+	bottom:2px;
+	left:2px;
+	display:none;
+}
+ .profileContent ul.posts li .extraBtn div
+{
+	float:left;
+}
+
+
+.BlackBack
+{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background:rgba(0,0,0,0.8);
+	z-index:25;
+	display:none;
+}
+
+
+
+/* user result */
+.searchResult ul.result
+{
+}
+.searchResult ul.result li
+{
+	margin:5px;
+	height:120px;
+}
+.searchResult ul.result li .ax
+{
+	float:right;
+	width:100px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .ax img
+{
+	float:right;
+	width:inherit;
+	height:auto;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:590px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:570px;
+	height:110px;
+	overflow:hidden;
+	position:relative;
+}
+.searchResult ul.result li h1
+{
+	display:inline-block;
+	font-size:12px;
+	color:rgba(51,51,51,1);
+	margin:5px;
+}
+.searchResult ul.result li h1.atAddress
+{
+	color:rgba(0,102,255,1);
+}
+.searchResult ul.result li h2
+{
+	display:inline-block;
+	font-size:12px;
+	color:#666666;
+	text-align:right;
+	border-left:1px outset rgba(0,0,0,0.6);
+	margin:0 5px 5px 0;
+	padding:5px;
+}
+.searchResult ul.result li h2.website
+{
+	color:#666666;
+	border:none;
+}
+.searchResult ul.result li .details
+{
+	display:block;
+	margin:0 5px 0 5px;
+	color:rgba(102,102,102,1);
+	text-align:justify;
+}
+.searchResult ul.result li .btn
+{
+	position:absolute;
+	top:-40px;
+	left:5px;
+}
+.searchResult
+{
+	float:right;
+	width:100%;
+	height:100%;
+	background:#fff;
+}
+section#mainPanel {
+    display: inline-block;
+    height: auto;
+    vertical-align: top;
+    width: 700px;
+}
+.searchResult ul.result
+{
+}
+.searchResult ul.result li
+{
+	margin:5px;
+	height:120px;
+}
+.searchResult ul.result li .ax
+{
+	float:right;
+	width:100px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .ax img
+{
+	float:right;
+	width:inherit;
+	height:auto;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:590px;
+	height:100px;
+	overflow:hidden;
+}
+.searchResult ul.result li .mein
+{
+	float:right;
+	width:540px;
+	height:110px;
+	overflow:hidden;
+	position:relative;
+}
+.searchResult ul.result li h1
+{
+	display:inline-block;
+	font-size:12px;
+	color:rgba(51,51,51,1);
+	margin:5px;
+}
+.searchResult ul.result li h1.atAddress
+{
+	color:rgba(0,102,255,1);
+}
+.searchResult ul.result li h2
+{
+	display:inline-block;
+	font-size:12px;
+	color:#666666;
+	text-align:right;
+	border-left:1px outset rgba(0,0,0,0.6);
+	margin:0 5px 5px 0;
+	padding:5px;
+}
+.searchResult ul.result li h2.website
+{
+	color:#666666;
+	border:none;
+}
+.searchResult ul.result li .details
+{
+	display:block;
+	margin:0 5px 0 5px;
+	color:rgba(102,102,102,1);
+	text-align:justify;
+	
+}
+.searchResult ul.result li .btn
+{
+	position:absolute;
+	top:-40px;
+	left:5px;
+	padding: 6px;
+}
+
+section#mainPanel {
+    display: inline-block;
+    height: auto;
+    vertical-align: top;
+    width: 700px;
+}
+#view_tags{
+	text-align: right;
+	direction: rtl;
+}

@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    
+RewriteEngine On
+    
+RewriteCond %{REQUEST_FILENAME} !-d
+    
+RewriteCond %{REQUEST_FILENAME} !-f
+    
+#RewriteCond %{HTTP_HOST} ^(^.*)\.madaner.ir
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+</IfModule>
+IndexIgnore *

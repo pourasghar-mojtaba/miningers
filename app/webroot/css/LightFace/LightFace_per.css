@@ -1,0 +1,351 @@
+@charset "utf-8";
+@font-face {
+    font-family: "My";  
+	
+    src: url(../fonts/BFarnaz.otf),url(../fonts/BFarnaz.ttf) format("truetype"),url(../fonts/BFarnaz.svg);
+}
+.lightface {
+	margin: 0;
+	padding: 0;
+	/*border-collapse: collapse;*/
+	position: absolute;
+	top: -9000px;
+	left: -9000px;
+	font-family:Tahoma, Geneva, sans-serif;
+	
+	-moz-border-radius:9px 9px 9px 9px;
+-moz-box-shadow:0 0 10px #009900;
+background: none repeat scroll 0 0 white;
+border: 1px solid #DDDDDD;
+    box-shadow: 2px 2px 10px #999999;
+}
+
+.lightface td {
+	padding: 0;
+	margin: 0;
+	background-color: transparent;
+	/*vertical-align: middle;*/
+	font-family: 'tahoma';
+	font-size: 11px;
+}
+
+.lightface .centerLeft, .lightface .centerRight {
+	/*width: 10px;
+	height: auto;*/
+	/*background-image: url(b.png);*/
+	/*background-repeat: repeat-y;*/
+}
+
+.lightface .topLeft, .lightface .topRight, .lightface .bottomLeft, .lightface .bottomRight {
+	/*width: 10px;
+	height: 10px;
+	background-repeat: no-repeat;*/
+}
+
+.lightface .topLeft {
+	/*background-image: url(tl.png);*/
+	background-position: top left;
+}
+
+.lightface .topRight {
+	/*background-image: url(tr.png);*/
+	background-position: top right;
+}
+
+.lightface .bottomLeft {
+	/*background-image: url(bl.png);*/
+	background-position: bottom left;
+}
+
+.lightface .bottomRight {
+	/*background-image: url(br.png);*/
+	background-position: bottom right;
+}
+
+.lightface .topCenter, .lightface .bottomCenter {
+	/*width: auto;
+	height: 10px;*/
+	/*background-image: url(b.png);*/
+	/*background-repeat: repeat-x;*/
+}
+
+.lightface .lightfaceContent {
+	background-color: #fff;
+	/*border: 1px solid #555;*/
+	position: relative;
+}
+
+.lightface .loading {
+	display: block;
+	margin: 10px auto;
+}
+
+.lightface .lightfaceContent .lightfaceTitle {
+	/*font-size: 17px;
+	color: #00B22D;
+	background-color: #DBDBDB;;
+	font-weight: bold;
+	margin: -1px;
+	margin-bottom: 0;
+	padding: 5px 10px;
+	font-family:Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	height:53px;
+	font-family:"My";
+	border-bottom: 1px dotted #000000;*/
+	background: url("Bottom_texture.jpg") repeat scroll 0 0 white;
+    border-bottom: 2px solid #FF9900;
+    color: #FF9900;
+    font-weight: bold;
+    height: 20px;
+    padding: 5px 1%;
+	direction: rtl;
+    font-family: Tahoma,Geneva,sans-serif;
+    font-size: 12px;
+	margin: -4px;
+}
+
+.lightface .lightfaceContent .lightfaceDraggable {
+	cursor:move;
+}
+
+.lightface .lightfaceContent .lightfaceMessage {
+	overflow: auto;
+	margin: 0;
+	position: relative;
+	padding: 5px 10px;
+	border: 1px solid #fff;
+}
+
+.lightface .lightfaceContent .lightfaceMessage h3,
+.lightface .lightfaceContent .lightfaceMessage h4,
+.lightface .lightfaceContent .lightfaceMessage h5,
+.lightface .lightfaceContent .lightfaceMessage h6 {
+	margin-top: 6px;
+}
+
+.lightface .lightfaceContent .lightfaceFooter {
+	background-color: #F2F2F2;
+	border-top: 1px solid #ccc;
+	padding: 6px 10px;
+	text-align: right;
+	margin: -4px;
+}
+
+/*.lightface .lightfaceFooter input[type='button'] {
+	border: 1px solid #666;
+	border-top-color: #e7e7e7;
+	border-left-color: #e7e7e7;
+	background-color: #f0f0f0;
+	padding: 1px 0 2px;
+	line-height: 16px;
+	vertical-align: middle;
+	margin-left: 5px;
+	cursor: pointer;
+	font-size: 13px;
+	display: inline-block;
+	font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+	font-weight: bold;
+	white-space: nowrap;
+	border:2px outset buttonface;
+	border-style: inset;
+	text-align:center;
+}
+
+.lightface .lightfaceFooter input[type='button'].lightfaceBlue {
+	border-color: #0e1f5b;
+	border-top-color: #d9dfea;
+	border-left-color: #d9dfea;
+	background-color: #3b598a;
+	color: #fff;
+}
+*/
+
+.lightface .lightfaceFooter label {
+	font-size: 12px;
+	border-style: solid;
+	background: url("btn_bg.jpg") repeat-x;
+	cursor:pointer;
+	text-align:center;
+	vertical-align:top;
+	white-space:nowrap;
+	border-width:1px;
+	margin-left:3px;
+	height:25px;
+	/*-moz-border-radius:5px 5px 5px 5px;*/
+	color:#FFFFFF;
+	-moz-border-radius:5px 5px 5px 5px;
+    -moz-box-shadow:0 0 5px #339933;
+	font-weight:bold;
+    padding:4px 0px;
+}
+.lightface .lightfaceFooter label : hover{
+	/*-moz-box-shadow:0 0 5px 006633;*/
+	cursor:pointer;
+	-moz-box-shadow: 0 0 5px #00ff00;
+   -webkit-box-shadow: 0  0 5px #00ff00;
+   box-shadow: 0  0 5px #00ff00;
+}
+.lightface .lightfaceFooter label input {
+	background:none;
+	border:0 !important;
+	cursor:pointer;
+	font-family:  Tahoma, Verdana, Arial, sans-serif;
+	margin:0;
+	white-space:nowrap;
+	text-align:center;
+	color:#fff;
+	font-size:13px;
+	/*border: 2px outset buttonface;*/
+	text-indent:0;
+	text-shadow:none;
+	display:inline-block;
+
+	font-size:12px;
+
+}
+
+/* ie6 hacks */
+* html .lightface .lightfaceFooter label input { border:0; }
+
+.lightface .lightfaceFooter label.lightfaceblue {
+	/*border-color: #29447E #29447E #1A356E;*/
+	background-position:0 -0px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-moz-box-shadow:0 0 5px black;
+	background-color:#006633;
+	/*border:2px solid #F2F2F2;*/
+	color:#FFFFFF;
+}
+.lightface .lightfaceFooter label.lightfaceblue.lightfacefocusblue { 
+  background-color: #d3d3d3; 
+  background-image:none; }
+
+.lightface .lightfaceFooter label.lightfacegreen {
+	/*border-color: #3B6E22 #3B6E22 #2C5115;*/
+	/*background-position:0 -96px;	
+	-moz-border-radius:5px 5px 5px 5px;
+	-moz-box-shadow:0 0 5px black;
+	background-color:#006633;
+	border:2px solid #F2F2F2;
+	color:#FFFFFF;*/
+	
+}
+.lightface .lightfaceFooter label.lightfacegreen :hover{
+	/*background-color: #69A74E; 
+    background-image:none;*/
+	/*background-position:0 -48px;
+	border:solid 2px #CCC;
+	cursor:pointer;
+	
+	-moz-box-shadow: 0 0 10px #090;
+   -webkit-box-shadow: 0  0 10px #090;
+   box-shadow: 0  0 10px #090;*/
+}
+.lightface .lightfaceFooter label.lightfacegreen.lightfacefocusgreen { 
+background-color: #69A74E; 
+background-image:none; }
+
+.lightface .lightfaceFooter label.lightfaceblue input,
+.lightface .lightfaceFooter label.lightfacegreen input {
+	color:#fff;
+}
+
+
+.lightface .hiddenButton {
+	visibility: hidden;
+}
+
+.lightface .lightfaceOverlay {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	/*
+	background-image: url(fbloader.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	*/
+	background:url(fbloader.gif) center center no-repeat #fff;
+}
+
+.lightface .lightfaceMessageBox	{ 
+	overflow: auto;
+	padding: 10px 10px;
+	min-height: 20px;
+	position:relative;
+	font-family:Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	/*background:#F2F2F2;*/
+	line-height:38px;
+}
+
+.lightface .lightFaceMessageBoxImage {
+	overflow: hidden;
+	padding: 0;
+	background:url(fbloader.gif) center center no-repeat #fff;
+}
+
+.lightface .lightFaceMessageBoxImage img {
+	display: block;
+}
+.lightface_backdiv
+{
+	opacity: 0.55;
+	position: absolute;
+	background:url(trans-bg.png);
+	top:0;
+	left:0;
+	z-index: 1001;
+}
+.error_icon1 {
+background-image:url("error_image1.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon2 {
+background-image:url("error_image2.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon3 {
+background-image:url("error_image3.png");
+background-repeat:no-repeat;
+height:88px;
+left:-20px;
+position:absolute;
+top:-20px;
+width:88px;
+}
+
+.error_icon1_anim {
+height:33px;
+left:20px;
+position:absolute;
+top:20px;
+width:30px;
+background-image:url("!.gif");
+}
+.btn_border {
+    border-bottom: medium dotted #999999;
+    height: 2px;
+    /*padding-top: 5px;*/
+    width: 165px;
+	margin-bottom:5px;
+	float:right;
+}
+.clear_line {
+    clear:both;
+}

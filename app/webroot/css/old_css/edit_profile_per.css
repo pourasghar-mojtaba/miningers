@@ -1,0 +1,236 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.mainBox
+{
+	float:right;
+	width:96%;
+	min-height:100px;
+	padding:10px 2% 10px 2%;
+	background-color:rgba(220,220,220,1);
+	/*border-radius:10px;*/
+	box-shadow:0 0 5px rgba(0,0,0,0.5);
+	position: relative;
+}
+.mainBox > h1
+{
+	padding-right:30px;
+	font-size:14px;
+	color:rgba(51,51,51,1);
+	margin-bottom:5px;
+}
+.mainBox > h1 .editProfile_icon
+{
+	float:right;
+	width:32px;
+	margin-top:-7px;
+}
+.mainBox .seperator_Hor
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	float:right;
+}
+.mainBox span
+{
+	display:inline-block;
+	color:rgba(102,102,102,1);
+	padding-bottom:10px;
+	width:100%;
+}
+.mainBox form
+{
+	width:100%;
+	min-height:100px;
+	display:block;
+	margin-bottom:20px;
+	float:right;
+}
+.mainBox form.edit_profile input[type="submit"]
+{
+	float:left;
+}
+
+.mainBox form.profile_image #image_img,
+.mainBox form.cover_image #cover_image_img
+{
+	height:100px;
+	float:left;
+}
+.delete_cover_image{
+  opacity:0.8;
+  background-color: #1b1b1b;
+  border-radius: 4px;
+  border: 1px solid #6c6a6al;
+  padding: 3px;
+  color: #ffffff;
+  width: 80px;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  left:37px;
+  top: 200px;
+}
+.delete_image{
+  opacity:0.8;
+  background-color: #1b1b1b;
+  border-radius: 4px;
+  border: 1px solid #6c6a6al;
+  padding: 3px;
+  color: #ffffff;
+  width: 65px;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  left:20px;
+  top: 393px;
+}
+.delete_pdf{
+  opacity:0.8;
+  background-color: #1b1b1b;
+  border-radius: 4px;
+  border: 1px solid #6c6a6al;
+  padding: 3px;
+  color: #ffffff;
+  width: 60px;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  left:18px;
+  top: 623px;
+}
+
+.mainBox form.edit_profile table
+{
+	width:711px;
+}
+.mainBox form.edit_profile tr
+{
+	padding-top:10px;
+	display:block;
+	border-bottom:1px dotted rgba(0,0,0,0.5);
+	width:95%;
+}
+.mainBox form.edit_profile tr:last-child
+{
+	border-bottom:none;
+}
+.mainBox form.edit_profile td
+{
+	min-height:50px;
+	display:block;
+}
+.mainBox form.edit_profile tr span.help,
+.mainBox > span.help
+{
+	font-size:11px;
+	color:rgba(153,153,153,1);
+	text-shadow:-1px 1px 1px rgba(255,255,255,0.8);
+	padding:2px 20px 2px 5px;
+	background:url(../img/icons/label_16.png) no-repeat right center;
+}
+.mainBox form.edit_profile tr a
+{
+	color:rgba(0,153,204,1);
+}
+span.help
+{
+	font-size:11px;
+	color:rgba(153,153,153,1);
+	text-shadow:-1px 1px 1px rgba(255,255,255,0.8);
+	padding:2px 20px 2px 5px;
+	background:url(../img/icons/label_16.png) no-repeat right center;
+}
+.mainBox form.edit_profile tr span.help span
+{
+	display:inline;
+}
+.mainBox form.edit_profile tr > td > label
+{
+	width: auto;
+	display:inline-block;
+	float:right;
+	margin-left: 10px;
+	min-width: 120px;
+}
+.mainBox form.edit_profile tr input[type="text"],
+.mainBox form.edit_profile tr input[type="password"],
+.mainBox form.edit_profile tr textarea , select
+{
+	width:200px;
+	padding:5px;
+	border-radius:5px;
+	border:none;
+	box-shadow:0 0 1px rgba(0,0,0,0.5);
+}
+.mainBox form.edit_profile tr textarea
+{
+	width:500px;
+}
+.mainBox form.edit_profile tr input[type="radio"],
+.mainBox form.edit_profile tr input[type="check"],
+.mainBox form.edit_profile tr span
+{
+	display:inline;
+}
+.mainBox form.edit_profile tr input[type="text"]:focus,
+.mainBox form.edit_profile tr textarea:focus
+{
+	box-shadow:0 0 5px rgba(0,102,255,0.5);
+}
+
+.edit_titr
+{
+	font-weight: bold;
+	border-bottom: 1px solid rgba(0,0,0,0.5);
+	padding-bottom: 20px;
+	color: #1254ed;
+	margin-bottom: 10px;
+}
+
+ ul.content_list
+{
+	color:#094775;
+	margin:5px 20px 20px 0;
+	list-style:url(../img/icons/label_162.png) inside;
+}
+ ul.content_list li
+{
+	margin:5px 2px 12px 3px;
+}
+
+select
+{
+	font-family: tahoma;
+}
+#image_loading{
+	height: 24px;
+}
+
+.ads{
+	line-height: 25px;
+}
+.ads th
+{
+	text-align: center;
+	background-color: #3d7cf3;
+	padding: 2px;
+}
+.ads td
+{
+	display: table;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

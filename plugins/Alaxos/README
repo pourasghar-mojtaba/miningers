@@ -1,0 +1,132 @@
+Alaxos Plugin for CakePHP 1.3
+==============================
+
+Version: 1.0.5
+Date: 2011-07-15
+Developer: Nicolas Rod <nico@alaxos.com>
+License: http://www.opensource.org/licenses/mit-license.php The MIT License
+Website: http://www.alaxos.net/blaxos/pages/view/plugin_alaxos
+
+This CakePHP plugin brings some utility Components, Behaviours and Helpers to your CakePHP application.
+
+Components
+-----------
+AlaxosAccessManagerComponent
+AlaxosCalendarComponent
+AlaxosFilterComponent
+AlaxosLoggerComponent
+ShibbolethAuthenticatorComponent
+
+Behaviours
+-----------
+CacheBehaviour
+CatalogBehaviour
+UserLinkerBehavior
+
+Views elements
+---------------
+menu/horizontal.ctp
+toolbar/tabs.ctp
+toolbar/toolbar.ctp
+flash_error.ctp
+flash_message.ctp
+
+Helpers
+--------
+AlaxosCalendarHelper
+AlaxosFormHelper
+AlaxosHtmlHelper
+AlaxosStarRaterHelper
+
+Templates
+----------
+vendors/shells/templates/alaxos/
+
+libs
+-----
+ArrayTool
+DateTool
+StringTool
++DifferenceEngine.php
++basics.php
+
+
+
+Installation
+-------------
+
+- Download the plugin and put it in your app/plugins folder
+- Configure the plugin according to your web application:
+
+	Some settings have to be read by CakePHP when the plugin is accessed. They can be found
+	in the 'acl/config/bootstrap.php' file.
+	
+	You have two options to use these settings, as CakePHP doesn't automatically load 
+	the bootstrap.php files in plugins:
+	
+	1.	Include the Alaxos plugin bootstrap.php file content in your app/config/bootstrap.php file
+	
+	    require_once(ROOT . DS . 'plugins' . DS . 'alaxos' . DS . 'config' . DS . 'bootstrap.php');
+        or
+        require_once(APP . DS . 'plugins' . DS . 'alaxos' . DS . 'config' . DS . 'bootstrap.php');
+		
+	or
+	
+	2.	Add the following code to your app/config/bootstrap.php file in order to make
+		bootstrap.php files for all plugins loaded:
+		
+		$plugin_paths = App::path('plugins');
+		foreach($plugin_paths as $plugin_path)
+		{
+			$f = new Folder($plugin_path);
+			$files = $f->read();
+			foreach($files[0] as $file)
+			{
+				if(file_exists($plugin_path . $file . DS . 'config' . DS . 'bootstrap.php'))
+				{
+					require_once $plugin_path . $file . DS . 'config' . DS . 'bootstrap.php';
+				}
+			}
+		}
+
+- Some functions related to date and time need the locale to be set before calling them.
+
+	A simple way to do it is for instance to add this code in you AppController:
+		
+		function beforeFilter()
+		{
+			DateTool :: set_current_locale('fr-fr');
+		}
+
+- Call the Components, Behaviours and Helpers by prefixing them with the plugin name.
+
+	Example:
+	
+	var $components = array('Alaxos.AlaxosFilter');	
+
+
+Templates design
+----------------
+
+The plugin includes some templates that allow to bake CRUD pages that use the FilterComponent, the AlaxosFormHelper and the AlaxosHtmlHelper. 
+This means that the generated pages contain search filters at the top of the 'index' pages and on 'add' and 'edit' pages the input fields may 
+automatically restrict the values to numbers or allow to use a datepicker for instance.
+
+The required JS code and some CSS styles are automatically included when the AlaxosHelpers are used. However, the CSS styles are very basic and concern
+small parts of the pages. There is nothing for instance that make the filter fields on index pages look nice. But this is on purpose, to let you customize 
+your pages as you want.
+
+There is however a basic CSS file in the plugin that can be used as a demo with the default CakePHP layout. It can be included instead of the cake.generic.css file.
+To use this sample CSS file, do the following:
+
+- copy the default.ctp layout file (cake/libs/view/layouts/default.ctp) into your app/views/layouts folder
+- replace the line:
+    
+    echo $this->Html->css('cake.generic');
+
+    by the line:
+
+    echo $this->Html->css('/alaxos/css/alaxos.generic');
+
+
+

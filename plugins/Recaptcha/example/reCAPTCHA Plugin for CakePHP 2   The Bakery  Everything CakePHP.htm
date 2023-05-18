@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<title>
+		reCAPTCHA Plugin for CakePHP 2 :: 
+		The Bakery: Everything CakePHP	</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="http://bakery.cakephp.org/favicon.ico" type="image/x-icon" rel="icon"><link href="http://bakery.cakephp.org/favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="http://bakery.cakephp.org/articles.rss" type="application/rss+xml" rel="alternate" title="15 Most Recent Articles"><link href="http://bakery.cakephp.org/comments.rss" type="application/rss+xml" rel="alternate" title="15 Most Recent Comments"><meta name="msapplication-task" content="name=CakePHP; action-uri=http://cakephp.org; icon-uri=img/ie/cakephp.ico">
+<meta name="msapplication-task" content="name=Bakery; action-uri=http://bakery.cakephp.org; icon-uri=img/ie/bakery.ico">
+<meta name="msapplication-task" content="name=Cookbook; action-uri=http://book.cakephp.org; icon-uri=img/ie/cookbook.ico">
+<meta name="msapplication-task" content="name=API; action-uri=http://api.cakephp.org; icon-uri=img/ie/api.ico">
+<meta name="msapplication-task" content="name=Repository; action-uri=http://github.com/cakephp/cakephp; icon-uri=img/ie/repository.ico">
+<meta name="msapplication-task" content="name=Tickets; action-uri=http://cakephp.lighthouseapp.com; icon-uri=img/ie/tickets.ico">
+<meta name="msapplication-task" content="name=Groups; action-uri=http://groups.google.com/group/cake-php; icon-uri=img/ie/groups.ico">
+<meta name="msapplication-task" content="name=Questions; action-uri=http://cakeqs.org; icon-uri=img/ie/questions.ico">
+<meta name="msapplication-starturl" content="./">
+<meta name="application-name" content="CakePHP">
+<meta name="msapplication-tooltip" content="CakePHP: The rapid application development framework for PHP">
+<link rel="stylesheet" type="text/css" href="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/style.css"><link rel="stylesheet" type="text/css" href="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/_cssapp.css"><!--[if lt IE 9]><script type="text/javascript" src="/js/html5shiv.js"></script><![endif]--></head>
+<body class="js">
+	<div id="container">
+		<div id="cakephp-global-navigation">
+	<ul class="dropdown responsive-menu">
+		<li class="main"><a href="http://cakephp.org/">CakePHP</a></li>
+		<li class="primary hasChild"><a href="#" class="empty">Downloads</a>
+			<ul class="second-level dropdown responsive-menu">
+				<li><a href="https://github.com/cakephp/cakephp/tags">Releases</a></li>
+				<li><a href="http://pear.cakephp.org/">Pear channel</a></li>
+			</ul>
+		</li>
+		<li class="primary hasChild"><a href="#" class="empty">Documentation</a>
+			<ul class="second-level dropdown responsive-menu">
+				<li class="cake-version hasChild"><a href="http://api.cakephp.org/">API</a>
+					<ul class="third-level dropdown responsive-menu">
+						<li><a href="http://api21.cakephp.org/">2.1</a>&nbsp;|</li>
+						<li><a href="http://api20.cakephp.org/">2.0</a>&nbsp;|</li>
+						<li><a href="http://api13.cakephp.org/">1.3</a>&nbsp;|</li>
+						<li><a href="http://api12.cakephp.org/">1.2</a>&nbsp;|</li>
+						<li><a href="http://api11.cakephp.org/">1.1</a></li>
+					</ul>
+				</li>
+				<li class="cake-version hasChild"><a href="http://book.cakephp.org/">Book</a>
+					<ul class="third-level dropdown responsive-menu">
+						<li><a href="http://book.cakephp.org/2.0/en/">2.x</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.3/en/">1.3</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.2/en/">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.1/en/">1.1</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li class="primary hasChild"><a href="#" class="empty">Community</a>
+			<ul class="second-level dropdown responsive-menu">
+				<li><a href="http://cakephp.lighthouseapp.com/">Issues</a></li>
+				<li><a href="http://bakery.cakephp.org/">Bakery</a></li>
+				<li><a href="http://plugins.cakephp.org/">Plugins &amp; packages</a></li>
+				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
+				<li><a href="http://groups.google.com/group/cake-php">Google Groups</a></li>
+				<li><a href="http://cakephp.org/logos">Logo</a></li>
+				<li><a href="http://ask.cakephp.org/">Q &amp; A</a></li>
+				<li><a href="http://tv.cakephp.org/">TV (Screencasts)</a></li>
+			</ul>
+		</li>
+		<li class="primary hasChild"><a href="http://cakephp.org/services">Services</a>
+			<ul class="second-level dropdown responsive-menu">
+				<li><a href="http://cakephp.org/services/certification">Certification</a></li>
+				<li><a href="http://cakephp.org/services/consultation">Consultation</a></li>
+				<li><a href="http://cakephp.org/services/support">Support</a></li>
+				<li><a href="http://training.cakephp.org/">Training</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+		<div class="top-bar">
+	<div class="inner-container">
+		
+		<div class="login">
+			<a href="http://bakery.cakephp.org/users/login">Login</a> <a href="http://bakery.cakephp.org/users/register">Register</a> 		</div>
+		
+	</div>
+</div>		<header class="masthead">
+			<div class="header-backing"></div>
+			<div class="row">
+				<h1 class="logo"><a href="http://bakery.cakephp.org/"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/cake-logo.png" alt="CakePHP : the rapid development php framework" width="70"></a></h1>
+				<h2 class="tagline no-button">
+					The Bakery				</h2>
+
+				<nav class="main-nav">
+					<ul class="navigation">
+						<li>
+							<a href="http://bakery.cakephp.org/articles">All articles</a>						</li>
+						<li>
+							<a href="http://bakery.cakephp.org/categories">Categories</a>						</li>
+						
+												
+					</ul>
+				</nav>
+							</div>
+		</header>
+
+		<div id="content">
+			
+			<div class="row">
+							</div>
+			<div class="row">
+							</div>
+			
+			<div class="row">
+		<article class="columns ten html">
+			<h1>reCAPTCHA Plugin for CakePHP 2</h1>
+			<span class="author">
+				by Jahdrien				<time datetime="2012-02-15">
+				on February 15, 2012				</time>
+			</span>
+			<div class="intro">I have updated and improved <a href="http://bakery.cakephp.org/articles/tbsmcd/2011/02/05/recaptcha_plugin_6">tbsmcd's reCAPTCHA Plugin</a> for CakePHP2.
+<br>
+<a href="https://github.com/Jahdrien/ReCaptcha-Plugin">https://github.com/Jahdrien/ReCaptcha-Plugin</a>
+<br></div>
+							<div id="content-page-1" class="body"><p>
+</p><h1>1. Get reCAPTCHA key.</h1>
+http://www.google.com/recaptcha
+<p></p>
+<p>
+</p><h1>2. Setting.</h1>
+Download recaptchalib.php.<br>
+And put it in "Recaptcha/Vendor".<br>
+http://code.google.com/p/recaptcha/downloads/list?q=label:phplib-Latest
+<p></p>
+<p>
+</p><h1>3. Config.</h1>
+Insert keys in Recaptcha/Config/key.php .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;$config = array(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Recaptcha' =&gt; array(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Public'
+  =&gt; 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Private'
+ =&gt; 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;);<br>
+<p></p>
+<p>
+</p><h1>4. Bootstrap.</h1>
+if you load your plugins one by one add<br>
+CakePlugin::load('Recaptcha');<br>
+<br>
+ReCaptcha/Config/bootstrap.php only reads your key.php config file<br>
+
+<p></p>
+<p>
+</p><h1>5. Controller.</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;public $components = array('Recaptcha.Recaptcha');<br>
+&nbsp;&nbsp;&nbsp;&nbsp;public $helpers = array('Recaptcha.Recaptcha');<br>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;or inside controller action<br>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;$this-&gt;helpers[] = 'Recaptcha.Recaptcha';<br>
+&nbsp;&nbsp;&nbsp;&nbsp;$this-&gt;Components-&gt;load('Recaptcha.Recaptcha')-&gt;startup($this);<br>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;always add in your controller action or in bootstrap<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Configure::load('Recaptcha.key');<br>
+
+<p></p>
+<p>
+</p><h1>6. View.</h1>
+Inside &lt;form&gt; tags:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;echo $this-&gt;Recaptcha-&gt;show(array $options);<br>
+&nbsp;&nbsp;&nbsp;&nbsp;$options : any recaptcha supported option 
+(theme, lang, custom_translations, custom_theme_widget, tabindex)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echo $this-&gt;Recaptcha-&gt;show(array(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'theme' =&gt; 'white',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'lang' =&gt; 'fr',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;));<br>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;echo $this-&gt;Recaptcha-&gt;error();<br>
+
+<p></p></div>
+						<p class="right pages-paging">
+						</p>
+		</article>
+		<div class="columns two">
+			<p>
+				<a href="http://bakery.cakephp.org/report/Article/4f3b9733-1eb4-4b6e-9786-6447adcbdab8" class="red medium radius button">Report</a>			</p>
+			<div>
+				<span class="category">
+				More on <a href="http://bakery.cakephp.org/articles/category/plugins">Plugins</a>				</span>
+			</div>
+					<div id="article_details" class="info">
+						
+						<ul>
+													</ul>
+						
+					</div>
+					<div id="ajax_tag" class="info"> <div id="article_tags">
+<h4>Tags</h4>
+<ul>
+	<li> <a href="http://bakery.cakephp.org/articles?by=plugin" class="small radius button">plugin</a> </li><li> <a href="http://bakery.cakephp.org/articles?by=recaptcha" class="small radius button">recaptcha</a> </li><li> <a href="http://bakery.cakephp.org/articles?by=cakephp20x" class="small radius button">cakephp 2.0.x</a> </li></ul>
+</div>
+ </div>
+
+									<div class="adsense smallSquare info">
+						<h4>Advertising</h4>
+						<script type="text/javascript"><!--
+google_ad_client = "pub-2042773218904579";
+google_ad_slot = "7910521635";
+google_ad_width = "120";
+google_ad_height = "240";
+
+//--></script>
+<script type="text/javascript" src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/show_ads.htm"></script>					</div>
+
+						
+		</div>		
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var switchTo5x=true;
+//]]>
+</script><span class="st_twitter_hcount"></span><span class="st_facebook_hcount"></span><span class="st_plusone_hcount"></span><span class="st_email_hcount"></span><span class="st_sharethis_hcount"></span><div class="row">
+	<h2>Comments</h2>
+	<div id="article-comments">
+				
+<div class="comments">
+	<a name="comments"></a>
+	<ul class="tree-block">
+	<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/bruno88"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/235b2ddcf10be80f2b6b81b9bcc6654b.jpg" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/bruno88">bruno88</a> posted on 05/04/12 11:15:49 PM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4fa46325-e708-4f39-8ae8-4261adcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4fa46325-e708-4f39-8ae8-4261adcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4fa46325-e708-4f39-8ae8-4261adcbdab8"></a>
+		<div class="body">
+			I don't know what I'm doing wrong :/ I placed the plugin in 
+'app/Plugin', I changed the key.php file and my bootstrap.php file. But 
+when I add the Component and Helper to my Controller, it constantly 
+gives me the Missing Component error:<br>
+	<br>
+	Error: RecaptchaComponent could not be found.<br>
+	<br>
+	Error: Create the class RecaptchaComponent below in file: app/Controller/Component/RecaptchaComponent.php<br>
+	<br>
+	I tried to copy the component to that folder, but the error persisted :( What am I doing wrong? :/		</div>
+</div></div></li>
+	<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/lily"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/44c1cfb430de77f385c2f5b02d60b18a.png" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/lily">lily</a> posted on 04/17/12 09:12:49 AM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4f8d3411-37ec-4f28-9600-124cadcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4f8d3411-37ec-4f28-9600-124cadcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4f8d3411-37ec-4f28-9600-124cadcbdab8"></a>
+		<div class="body">
+			this is my first using cakephp plugin, so maybe the question looks very stupid.<br>
+	<br>
+	it works fine, but i am not sure where i can put   'echo 
+$this-&gt;Recaptcha-&gt;error();', in the controller, or view? i want to
+ echo the error message<br>
+	Thanks again.		</div>
+</div></div></li>
+	<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/jahdrien"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/414f79c6ccdbc1111dedac7701c2599b.png" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/jahdrien">Jahdrien</a> posted on 03/02/12 05:02:32 PM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4f50fd28-629c-4c7a-865a-1854adcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4f50fd28-629c-4c7a-865a-1854adcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4f50fd28-629c-4c7a-865a-1854adcbdab8"></a>
+		<div class="body">
+			Sorry put it in "Recaptcha/Vendor" directory of the plugin wich should be in "app/Plugin".		</div>
+</div></div></li>
+	<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/jahdrien"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/414f79c6ccdbc1111dedac7701c2599b.png" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/jahdrien">Jahdrien</a> posted on 03/02/12 04:57:37 PM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4f50fc01-8a44-4be6-b750-1770adcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4f50fc01-8a44-4be6-b750-1770adcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4f50fc01-8a44-4be6-b750-1770adcbdab8"></a>
+		<div class="body">
+			Put it in app/Vendor		</div>
+</div></div></li>
+	<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/jaganryali"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/0f4a172cc60b916ba5838944935cf7a2.png" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/jaganryali">jaganryali</a> posted on 02/28/12 10:18:49 AM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4f4caa09-53cc-4265-a8a5-0255adcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4f4caa09-53cc-4265-a8a5-0255adcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4f4caa09-53cc-4265-a8a5-0255adcbdab8"></a>
+		<div class="body">
+			I'm beginner to cakephp. Please let me know 'recaptcha_plugin' directory.		</div>
+</div>
+
+	<ul>
+		<li><div class="single-comment row">
+	<div class="author-details columns one">
+		<div class="gravatar">
+			<a href="http://bakery.cakephp.org/users/view/jaganryali"><img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/0f4a172cc60b916ba5838944935cf7a2.png" class="gravatar" alt=""></a>		</div>
+	</div>
+	<div class="comment columns eleven">
+		<div class="actions">
+			<span class="date">
+				<a href="http://bakery.cakephp.org/users/view/jaganryali">jaganryali</a> posted on 02/28/12 10:22:25 AM			</span>
+							<ul>
+											<li><a href="http://bakery.cakephp.org/articles/jahdrien/2012/02/15/recaptcha_plugin_for_cakephp_2/comment:4f4caae1-4b94-47b4-b504-0291adcbdab8/quote:1#comments">Quote</a></li>
+											<li><a href="http://bakery.cakephp.org/report/Comment/4f4caae1-4b94-47b4-b504-0291adcbdab8">Report this</a></li>
+									</ul>
+					</div>
+		<a name="comment4f4caae1-4b94-47b4-b504-0291adcbdab8"></a>
+		<div class="body">
+			[quote]
+		I'm beginner to cakephp. Please let me know where i have to place 'recaptcha_plugin' directory.<br>
+		[end quote]		</div>
+</div></div></li>
+</ul>
+</div></li>
+</ul><a href="http://bakery.cakephp.org/users/login" class="small radius button">login</a> to post a comment.</div>
+
+<img src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/indicator.gif" id="busy-indicator" style="display:none;" alt="">	</div>
+	<div class="adsense textLeaderboard">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-2042773218904579";
+google_ad_slot = "9277502179";
+google_ad_width = "728";
+google_ad_height = "90";
+
+//--></script>
+<script type="text/javascript" src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/show_ads.htm"></script>	</div>
+</div>
+		</div>
+		<div class="footer-push"></div>
+	</div>
+
+	<footer class="mastend clearfix">
+	<div class="row">
+		<nav class="six columns">
+			<ul class="footer-nav">
+				<li><a href="http://bakery.cakephp.org/articles/view">Articles</a></li>
+				<li><a href="http://bakery.cakephp.org/categories">Categories</a></li>
+				<li><a href="http://bakery.cakephp.org/articles/category/news">News</a></li>
+			</ul>
+		</nav>
+	</div>
+	
+	<div class="row overlined">
+		<div class="columns six mini">
+			© 2005-2013 <a href="http://cakefoundation.org/">Cake Software Foundation, Inc.</a>		</div>
+		<div class="columns six mini right-align">
+				<a href="http://bakery.cakephp.org/pages/tos">Privacy Policy</a>				&nbsp;
+		</div>
+	</div>
+</footer>
+	<script type="text/javascript" src="reCAPTCHA%20Plugin%20for%20CakePHP%202%20%20%20The%20Bakery%20%20Everything%20CakePHP_files/_jsapp.js"></script>
+</body></html>

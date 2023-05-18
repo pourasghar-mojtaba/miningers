@@ -1,0 +1,3276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "name"
+msgstr "Full name"
+
+msgid "email"
+msgstr "Email address"
+
+msgid "confirm_email"
+msgstr "Confirm email"
+
+msgid "password"
+msgstr "Password"
+
+msgid "confirm_password"
+msgstr "Confirm password"
+
+msgid "add_user_successfully"
+msgstr "Your registration was successful."
+
+msgid "add_user_not_successfully"
+msgstr "Your registration was not successful."
+
+msgid "register"
+msgstr "Registration"
+
+msgid "login"
+msgstr "Login"
+
+msgid "logout"
+msgstr "Logout"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "remember_me"
+msgstr "Remember me"
+
+msgid "forget_password"
+msgstr "Forgot password?"
+
+msgid "pro_search"
+msgstr "Advanced search"
+
+msgid "search"
+msgstr "Search Miningers"
+
+msgid "site_title"
+msgstr "Miningers | Mining, Geology & Metallurgy, Geotechnics, Oil & Gas Professional Network"
+
+msgid "not_valid_login"
+msgstr "Email or password is incorrect."
+
+msgid "login_sucsess"
+msgstr "Welcome to Miningers"
+
+msgid "exist_email"
+msgstr "This email is already registered."
+
+msgid "register_successfully"
+msgstr "Your registration was successful and an activation link has been sent to your email. Please refer to your email and activate your account at Miningers."
+
+msgid "register_not_successfully"
+msgstr "Registration failed. Please try again later."
+
+msgid "exist_user_name"
+msgstr "This username is already taken. Choose a new username."
+
+msgid "correct_email"
+msgstr "The email address has been confirmed."
+
+msgid "your_account_activation_successfully"
+msgstr "Your account has been activated successfully."
+
+msgid "your_account_not_activate"
+msgstr "Your account is not active. Please try again later."
+
+msgid "not_exist_register_key"
+msgstr "Not exist any register key."
+
+msgid "incorrect_captcha"
+msgstr "The security code is incorrect."
+
+msgid "captcha"
+msgstr "Security code"
+
+msgid "join_to_madaner"
+msgstr "Join to Miningers."
+
+msgid "not_member"
+msgstr "Are you new?"
+
+msgid "register_comment1"
+msgstr "Welcome to Miningers"
+
+msgid "register_comment2"
+msgstr "All what is happening in the world of mining!"
+
+msgid "register_comment3"
+msgstr "Miningers helps you see now in the mining, geology, metallurgy and related industries, what's going on and always stay connected with the people and organizations that are important for you."
+
+msgid "post_help1"
+msgstr "Press Enter key to send."
+
+msgid "post_help2"
+msgstr " characters remaining."
+
+msgid "home"
+msgstr "Home"
+
+msgid "new_post"
+msgstr "Mineet"
+
+msgid "my_profile"
+msgstr "Profile"
+
+msgid "help"
+msgstr "Help center"
+
+msgid "setting"
+msgstr "Settings"
+
+msgid "about"
+msgstr "About "
+
+msgid "download_mobile_ver"
+msgstr "Mobile App"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "ads_requset"
+msgstr "Advertise With Us"
+
+msgid "groups"
+msgstr "Groups"
+
+msgid "selections"
+msgstr "Favorites"
+
+msgid "full_screen"
+msgstr "Full screen"
+
+msgid "add_to_favorite_posts"
+msgstr "Add to favorites"
+
+msgid "my_post"
+msgstr "MINEETS"
+
+msgid "post"
+msgstr "Mineets"
+
+msgid "follow"
+msgstr "FOLLOW"
+
+msgid "add_link"
+msgstr "Add Link"
+
+msgid "save_post_success"
+msgstr "Your mineet sent successfully."
+
+msgid "save_post_notsuccess"
+msgstr "Failed to send your mineet."
+
+msgid "close"
+msgstr "Close"
+
+msgid "message"
+msgstr "Messages"
+
+msgid "send"
+msgstr "Send"
+
+msgid "send_email"
+msgstr "Send email"
+
+msgid "send_message"
+msgstr "Private message"
+
+msgid "add_link"
+msgstr "Add Link"
+
+msgid "add"
+msgstr "Add"
+
+msgid "exist_link"
+msgstr "Exist links"
+
+msgid "enter_post"
+msgstr "Share new mineet ..."
+
+msgid "exist_image"
+msgstr "Exist image"
+
+msgid "user_list"
+msgstr "Members"
+
+msgid "follow"
+msgstr "FOLLOW"
+
+msgid "not_follow"
+msgstr "Following"
+
+msgid "can_not_follow"
+msgstr "دنبال کردن انجام نشد"
+
+msgid "can_not_cancel_follow"
+msgstr "دنبال نکردن انجام نشد"
+
+msgid "save_cover_image_success"
+msgstr "Cover image changed successfully."
+
+msgid "save_cover_image_notsuccess"
+msgstr "Cover image unchanged."
+
+msgid "save_image_success"
+msgstr "Profile picture changed successfully."
+
+msgid "save_image_notsuccess"
+msgstr "Profile picture unchanged."
+
+msgid "edit_profile_successfull"
+msgstr "Profile was successfully updated."
+
+msgid "edit_profile_notsuccessfull"
+msgstr "Profile update failed. Please try again."
+
+msgid "edit_email_successfull"
+msgstr "Email was successfully changed. Please refer to the email address you entered and confirmed it."
+
+msgid "edit_email_notsuccessfull"
+msgstr "Email update has failed. Please Try again"
+
+msgid "edit_password_successfull"
+msgstr "Password change was successful."
+
+msgid "edit_password_notsuccessfull"
+msgstr "Change password has failed. Please try again."
+
+msgid "not_valid_password"
+msgstr "Password is not valid."
+
+msgid "send_message_to"
+msgstr "Send a private message to "
+
+msgid "message_content"
+msgstr "Text message"
+
+msgid "send_message_successfully"
+msgstr "Message has been sent successfully."
+
+msgid "send_message_not_successfully"
+msgstr "The message was not sent. Please try again."
+
+msgid "the_user_block_you"
+msgstr "This user has blocked you."
+
+msgid "block_success"
+msgstr "Block success."
+
+msgid "can_not_block"
+msgstr "Block failed. Please try again."
+
+msgid "block_user_exist"
+msgstr "This user has been blocked."
+
+msgid "add_comment_success"
+msgstr "Reply sent successfully."
+
+msgid "add_comment_notsuccess"
+msgstr "Reply don't sent. Please try again."
+
+msgid "not_found_address"
+msgstr "Address not found."
+
+msgid "save_info_successfully"
+msgstr "Information saved successfully"
+
+msgid "save_info_not_successfully"
+msgstr "Information don't save. Please try again."
+
+msgid "setting"
+msgstr "Settings"
+
+msgid "save"
+msgstr "Save"
+
+msgid "add_like_notsuccess"
+msgstr "پسندیدن انجام نشد"
+
+msgid "not_allow_repeat_like"
+msgstr "شما قبلا پسندیده اید"
+
+msgid "not_allow_repeat_ullike"
+msgstr "شما قبلا نپسندیده اید"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "are_you_sure"
+msgstr "Are you sure you want to delete this mineet?"
+
+msgid "warning"
+msgstr "Warning"
+
+msgid "delete_message_success"
+msgstr "Message was successfully deleted."
+
+msgid "delete_message_not_success"
+msgstr "Message was not removed. Try again."
+
+msgid "enter_name"
+msgstr "Enter your full name."
+
+msgid "enter_user_name"
+msgstr "Enter your username."
+
+msgid "enter_email"
+msgstr "Enter your email."
+
+msgid "enter_valid_email"
+msgstr "Please enter a valid email."
+
+msgid "enter_password"
+msgstr "Enter your password"
+
+msgid "enter_valid_length"
+msgstr "Your password must be at least 6 characters."
+
+msgid "not_valid_repassword"
+msgstr "Entered passwords are not the same. Please re-enter."
+
+msgid "send_pass_successfully"
+msgstr "Password has been successfully sent to your email address."
+
+msgid "send_pass_not_successfully"
+msgstr "Password not sent. Try again."
+
+msgid "selected_max_user"
+msgstr "به بیش از 5 نفر نمی توانید پیام ارسال کنید"
+
+msgid "not_repeated_user_to_send_message"
+msgstr "کاربر تکراری را نمی توانید انتخاب کنید"
+
+msgid "block"
+msgstr "Block"
+
+msgid "unblock"
+msgstr "Unblock"
+
+msgid "unblock_success"
+msgstr "Unblock success."
+
+msgid "can_not_unblock"
+msgstr "Can not unblock."
+
+msgid "not_allow_repeated_share"
+msgstr "You've already shared this mineet."
+
+msgid "share_post_success"
+msgstr "This mineet has been shared successfully"
+
+msgid "share_post_notsuccess"
+msgstr "Sharing Failed. Please try again."
+
+msgid "not_find_share"
+msgstr "اشتراک گذاری برای این پست یافت نشد"
+
+msgid "unshare_post_success"
+msgstr "Unshare mineet success."
+
+msgid "unshare_post_notsuccess"
+msgstr "Unshare mineet notsuccess."
+
+msgid "edit_privacy_successfull"
+msgstr "Privacy changed successfully."
+
+msgid "edit_privacy_notsuccessfull"
+msgstr "Privacy has not changed. Please try again."
+
+msgid "allow_privacy_for_chaser"
+msgstr "Only followers allow access to this section."
+
+msgid "allow_privacy_for_follow_payee"
+msgstr "Only following allow access to this section."
+
+msgid "allow_privacy_for_chaser_follow_payee"
+msgstr "Only followers and following allow access to this section."
+
+msgid "not_allow_privacy"
+msgstr "No one is allowed to access this section."
+
+msgid "post_deleted_successfully"
+msgstr "Mineet deleted successfully."
+
+msgid "post_deleted_notsuccessfully"
+msgstr "Mineet was not removed."
+
+msgid "active_account"
+msgstr "Activate account"
+
+msgid "send_password"
+msgstr "Send password"
+
+msgid "your_password"
+msgstr "Current password"
+
+msgid "edit_all_info"
+msgstr "Edit Profile"
+
+msgid "edit_account_info"
+msgstr "Account Settings"
+
+msgid "edit_email"
+msgstr "Change Email"
+
+msgid "edit_pasword"
+msgstr "Change Password"
+
+msgid "privacy"
+msgstr "Privacy Settings"
+
+msgid "follow_payees"
+msgstr "Following"
+
+msgid "chasers"
+msgstr "Followers"
+
+msgid "messages"
+msgstr "Private Message"
+
+msgid "new_message"
+msgstr "New Message"
+
+msgid "this_post_with"
+msgstr "Shared by "
+
+msgid "shared"
+msgstr "Shared by"
+
+msgid "character_extant"
+msgstr " characters remaining."
+
+msgid "user_type"
+msgstr "نوع کاربر"
+
+msgid "single"
+msgstr "فرد "
+
+msgid "user_name"
+msgstr "Username"
+
+msgid "not_exist"
+msgstr "not exist."
+
+msgid "edit_info"
+msgstr "Edit Profile"
+
+msgid "write_new_post"
+msgstr "Share new mineet ..."
+
+msgid "character"
+msgstr "Character"
+
+msgid "users"
+msgstr "Members"
+
+msgid "companies"
+msgstr "Companies"
+
+msgid "job_chances"
+msgstr "Careers"
+
+msgid "rules"
+msgstr "Terms & Conditions"
+
+msgid "mobile"
+msgstr "Mobile App"
+
+msgid "comment_privacy"
+msgstr "The following people are allowed to reply to me in mineet:"
+
+msgid "everyone"
+msgstr "Everybody"
+
+msgid "followers"
+msgstr "Followers"
+
+msgid "follow_payees"
+msgstr "Following"
+
+msgid "followers_and_follow_payee"
+msgstr "Followers & Following"
+
+msgid "no_one"
+msgstr "Nobody"
+
+msgid "share_privacy"
+msgstr "The following people are allowed to share my mineet:"
+
+msgid "message_privacy"
+msgstr "The following people are allowed to send private message:"
+
+msgid "updates"
+msgstr "Update"
+
+msgid "follower"
+msgstr "Followers"
+
+msgid "follow_payee"
+msgstr "Following"
+
+msgid "industry_category"
+msgstr "Industries"
+
+msgid "all"
+msgstr "All Industries"
+
+msgid "people"
+msgstr "Members"
+
+msgid "change_password"
+msgstr "Change Password"
+
+msgid "old_password"
+msgstr "Current password"
+
+msgid "new_password"
+msgstr "New password"
+
+msgid "repeat_new_password"
+msgstr "Confirm new password"
+
+msgid "change_email"
+msgstr "Change Email"
+
+msgid "old_email"
+msgstr "Current email"
+
+msgid "new_email"
+msgstr "New email"
+
+msgid "repeate_new_email"
+msgstr "Confirm new email"
+
+msgid "company"
+msgstr "Company"
+
+msgid "edit_account"
+msgstr "Account Settings"
+
+msgid "sex"
+msgstr "Gender"
+
+msgid "woman"
+msgstr "Female"
+
+msgid "man"
+msgstr "Male"
+
+msgid "email_privacy_comment"
+msgstr "Let others find me by my email address."
+
+msgid "edit_cover"
+msgstr "Update Cover Photo"
+
+msgid "cover_size"
+msgstr "(ابعاد توصیه شده 250×700 پیکسل)"
+
+msgid "edit_profile_image"
+msgstr "Update Profile Picture"
+
+msgid "profile_image_size"
+msgstr " اين عكس شناسايى شما در معدنر است و همراه با خبر‌هاى شما ظاهر مى‌شود.(ابعاد توصیه شده 200×200 پیکسل)"
+
+msgid "name_help"
+msgstr "Enter full name"
+
+msgid "full_name"
+msgstr "Full Name"
+
+msgid "industry"
+msgstr "Industry"
+
+msgid "industry_help"
+msgstr "Select your industry."
+
+msgid "location"
+msgstr "Location"
+
+msgid "location_help"
+msgstr "Write your city name."
+
+msgid "web_site"
+msgstr "Web"
+
+msgid "web_site_help"
+msgstr "Enter your blog or website."
+
+msgid "letter_of_introduction"
+msgstr "Short Bio"
+
+msgid "char_detail1"
+msgstr "Introduce yourself maximum at "
+
+msgid "char_detail2"
+msgstr " characters. (Optional)"
+
+msgid "enter_text"
+msgstr "You have not entered any text!"
+
+msgid "image_added"
+msgstr "Image added."
+
+msgid "link_added"
+msgstr "Link added."
+
+msgid "copmanies"
+msgstr "Copmanies"
+
+msgid "edit_profile_description"
+msgstr "In this section, users can edit their profile."
+
+msgid "edit_account_description"
+msgstr "In this section, you can edit your account."
+
+msgid "edit_email_description"
+msgstr "In this section, you can change your email."
+
+msgid "edit_password_description"
+msgstr "In this section, you can change your password"
+
+msgid "search_description"
+msgstr "In this section, you can search for users."
+
+msgid "loading"
+msgstr "Loading"
+
+msgid "edit_privacy"
+msgstr "Updated Privacy"
+
+msgid "new_recived_message"
+msgstr "پیام های دریافتی جدید"
+
+msgid "new_follows"
+msgstr "جدیدترین دنبال کننده ها"
+
+msgid "enter_valid_user_name"
+msgstr "Username entered is not valid- You can only use a-z and A-Z, and 0-9 and _ characters in writing your username."
+
+msgid "send_email_setting"
+msgstr "Email Notifications"
+
+msgid "edit_send_email_setting"
+msgstr "Email Notifications"
+
+msgid "send_email_help"
+msgstr "Control when and how often Miningers sends emails to you."
+
+msgid "send_email_info"
+msgstr "Activity related to you and your Mineets"
+
+msgid "send_email_for_me_on"
+msgstr "Email me when"
+
+msgid "send_email_forme_onshared"
+msgstr "My mineets are shared."
+
+msgid "send_email_forme_oncomment"
+msgstr " My mineets get a reply or I'm mentioned in a Post. "
+
+msgid "send_email_forme_onfollow"
+msgstr "I'm followed by someone new."
+
+msgid "send_email_forme_onmessage"
+msgstr "I'm received a private message."
+
+msgid "edit_send_email_setting_successfull"
+msgstr "Email notification was changed successfully"
+
+msgid "edit_send_email_setting_notsuccessfull"
+msgstr "Email notification did not change."
+
+msgid "sharing_post"
+msgstr " shared your mineet."
+
+msgid "comment_on_your_post"
+msgstr " replied to one of your mineet!"
+
+msgid "follow_with_you"
+msgstr "توسط شما دنبال شده است"
+
+msgid "message_for_you"
+msgstr " has sent you a private message on Miningers!"
+
+msgid "dear_user"
+msgstr "Dear User"
+
+msgid "share_your_post"
+msgstr " shared your mineet."
+
+msgid "change_setting"
+msgstr "change settings of your "
+
+msgid "send_comment_on_your_post"
+msgstr " replied to your mineet:"
+
+msgid "follow_you_with"
+msgstr " is now following you on Miningers."
+
+msgid "send_message_for_you"
+msgstr " has sent you a private message:"
+
+msgid "save_blog_successfull"
+msgstr "اطلاعات با موفقیت ذخیره شد"
+
+msgid "save_blog_notsuccessfull"
+msgstr "اطلاعات ذخیره نشد"
+
+msgid "please_enter_valid_username_and_password"
+msgstr "لطفا نام کاربری و رمز عبور معتبر را وارد کنید"
+
+msgid "can_not_login_in_admin"
+msgstr "شما نمیتوانید وارد قسمت مدیریت شوید"
+
+msgid "please_login_with_your_email_and_password"
+msgstr "لطفا با پست الکترونيکي و رمز عبور وارد پنل شويد"
+
+msgid "insert_information"
+msgstr "اطلاعات را وارد کنيد"
+
+msgid "insert_captcha"
+msgstr "Insert captcha image"
+
+msgid "dashboard"
+msgstr "داشبورد"
+
+msgid "industry_managment"
+msgstr "مدیریت صنایع"
+
+msgid "permision_and_users"
+msgstr "سطح دسترسی و کاربران"
+
+msgid "role_managment"
+msgstr "مدیریت نقش ها"
+
+msgid "role_parivacy_managment"
+msgstr "مدیریت دسترسی نقش ها"
+
+msgid "user_managment"
+msgstr "مدیریت کاربران"
+
+msgid "base_info"
+msgstr "اطلاعات پایه"
+
+msgid "records_per_page"
+msgstr "تعداد رکورد ها در صفحه"
+
+msgid "roles"
+msgstr "نقش ها"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "edit"
+msgstr "ويرايش"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "id"
+msgstr "شماره"
+
+msgid "role"
+msgstr "نقش"
+
+msgid "status"
+msgstr "وضعيت"
+
+msgid "created"
+msgstr "تاريخ ايجاد"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "inactive"
+msgstr "غير فعال"
+
+msgid "action"
+msgstr "عمليات"
+
+msgid "next"
+msgstr "بعدي"
+
+msgid "prev"
+msgstr "قبلي"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "save_change"
+msgstr "ذخیره تغییرات"
+
+msgid "cancel"
+msgstr "انصراف"
+
+msgid "the_role_has_been_saved"
+msgstr "نقش با موفقیت ذخیره شد"
+
+msgid "the_role_could_not_be_saved"
+msgstr "نقش ذخیره نشد ، دوباره تلاش کنید"
+
+msgid "enter_the_role"
+msgstr "نقش را وارد کنید"
+
+msgid "edit_role"
+msgstr "ویرایش نقش"
+
+msgid "invalid_id_for_role"
+msgstr "نقش نامعتبر می باشد"
+
+msgid "r_u_sure"
+msgstr "آیا مطمئن هستید؟"
+
+msgid "delete_role_success"
+msgstr "نقش با موفقیت حذف شد"
+
+msgid "permision"
+msgstr "دسترسی"
+
+msgid "invalid_permision"
+msgstr "شما حق دسترسي به اين قسمت را نداريد!"
+
+msgid "add_permission_notsuccess"
+msgstr "ایجاد دسترسی انجام نشد"
+
+msgid "delete_permission_notsuccess"
+msgstr "دسترسی برداشته نشد"
+
+msgid "part"
+msgstr "بخش"
+
+msgid "action"
+msgstr "عمل"
+
+msgid "title_per"
+msgstr "عنوان فارسی"
+
+msgid "title_eng"
+msgstr "عنوان انگلیسی"
+
+msgid "industries"
+msgstr "لیست صنایع"
+
+msgid "add_industry"
+msgstr "افزودن صنعت"
+
+msgid "the_industry_has_been_saved"
+msgstr "صنعت با موفقیت ذخیره شد"
+
+msgid "the_industry_could_not_be_saved"
+msgstr "صنعت ذخیره نشد"
+
+msgid "edit_industry"
+msgstr "ویرایش صنعت"
+
+msgid "invalid_id_for_industry"
+msgstr "صنعت نا معتبر است"
+
+msgid "delete_industry_success"
+msgstr "حذف صنعت با موفقیت انجام شد"
+
+msgid "visit_site"
+msgstr "دیدن سایت"
+
+msgid "add_user"
+msgstr "افزودن کاربر"
+
+msgid "invalid_id_for_user"
+msgstr "کاربر نا معتبر است"
+
+msgid "delete_user_success"
+msgstr "کاربر با موفقیت حذف شد"
+
+msgid "delete_user_not_success"
+msgstr "کاربر حذف نشد"
+
+msgid "delete_role_not_success"
+msgstr "نقش حذف نشد"
+
+msgid "delete_industry_not_success"
+msgstr "صنعت حذف نشد"
+
+msgid "cant_delete_first_delete_post"
+msgstr "نمیتوانید این کاربر را حذف کنید ، ابتدا پست های کاربر را حذف نمایید"
+
+msgid "cant_delete_first_delete_blog"
+msgstr "نمیتوانید این کاربر را حذف کنید ، ابتدا بلاگ کاربر را حذف نمایید"
+
+msgid "managment_item"
+msgstr "اطلاعات سمت مدیریت سایت"
+
+msgid "blog_managment"
+msgstr "مدیریت بلاگ"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "blogs"
+msgstr "لیست بلاگها"
+
+msgid "add_blog"
+msgstr "افزودن بلاگ"
+
+msgid "add_per_blog"
+msgstr "افزودن بلاگ فارسی"
+
+msgid "add_eng_blog"
+msgstr "افزودن بلاگ انگلیسی"
+
+msgid "edit_blog"
+msgstr "ویرایش بلاگ"
+
+msgid "edit_per_blog"
+msgstr "ویرایش بلاگ فارسی"
+
+msgid "edit_eng_blog"
+msgstr "ویرایش بلاگ انگلیسی"
+
+msgid "tag"
+msgstr "Tagline"
+
+msgid "separate_with_sharp"
+msgstr "با # جدا کنيد"
+
+msgid "the_blog_has_been_saved"
+msgstr "بلاگ با موفقيت ذخيره شد"
+
+msgid "invalid_id_for_blog"
+msgstr "بلاگ مورد نظر اشتباه است"
+
+msgid "the_blog_could_not_be_saved"
+msgstr "بلاگ ذخيره نشد"
+
+msgid "delete_blog_success"
+msgstr "بلاگ با موفقيت حذف شد"
+
+msgid "delete_blog_not_success"
+msgstr "بلاگ حذف نشد"
+
+msgid "edit_user"
+msgstr "ویرایش کاربر"
+
+msgid "profile_image"
+msgstr "تصویر پروفایل"
+
+msgid "profile_cover_image"
+msgstr "تصویر رویه پروفایل"
+
+msgid "the_user_has_been_saved"
+msgstr "کاربر با موفقیت ذخیره شد"
+
+msgid "the_user_not_saved"
+msgstr "کاربر ذخیره نشد"
+
+msgid "invalid_2_password"
+msgstr "رمزهای عبور وارد شده با هم تطابق ندارند"
+
+msgid "repeated_user_name"
+msgstr "نام کاربری تکراری است"
+
+msgid "total_members"
+msgstr "تعداد کاربران"
+
+msgid "today_members"
+msgstr "کاربر امروز ثبت نام کرده اند"
+
+msgid "total_posts"
+msgstr "پست هاي کاربران"
+
+msgid "today_posts"
+msgstr "پست امروز ارسال شده است"
+
+msgid "managment_info"
+msgstr "اطلاعات مدير"
+
+msgid "new_members"
+msgstr "جديدترين کاربران"
+
+msgid "weekly_info"
+msgstr "آمار هفبرچسبي"
+
+msgid "new_registers"
+msgstr "ثبت نامي هاي جديد"
+
+msgid "new_folows"
+msgstr "جديدترين دنبال کننده ها"
+
+msgid "new_posts"
+msgstr "جديدترين پست"
+
+msgid "new_comments"
+msgstr "جديدترين کامنت"
+
+msgid "inbound_links"
+msgstr "وروديهاي سايت"
+
+msgid "site_viewed_chart"
+msgstr "نمودار بازديد سايت"
+
+msgid "invalid_user_name"
+msgstr "Username entered is not valid- You can only use a-z and A-Z, and 0-9 and _ characters in writing your username."
+
+msgid "invalid_industry"
+msgstr "Select your industry"
+
+msgid "invalid_name"
+msgstr "Enter your full name."
+
+msgid "welcome_to_madaner"
+msgstr "Welcome to Miningers"
+
+msgid "rdt1"
+msgstr "Welcome to "
+
+msgid "rdt2"
+msgstr "Miningers"
+
+msgid "rdt3"
+msgstr "- The Fastest Growing Mining, Geology, Metallurgy, Geotechnics, Oil & Gas Professional Network"
+
+msgid "rdt4"
+msgstr "If you are not yet a member of Miningers, please click on the link below to verify your email address in Miningers and your account to be activated:"
+
+msgid "rdt5"
+msgstr "If you want to set up another email address as your email address, You can login and change your email address. notifications, newsletters and other email will be sent to new address."
+
+msgid "madaner_patronage_team"
+msgstr "Miningers Support Team"
+
+msgid "body"
+msgstr "مطلب"
+
+msgid "cbody"
+msgstr "ادامه مطلب"
+
+msgid "blog_title"
+msgstr "بلاگ سایت"
+
+msgid "blog_continuance"
+msgstr "ادامه مطلب"
+
+msgid "share_in_madaner"
+msgstr "Share on Miningers"
+
+msgid "share_in_facebook"
+msgstr "Share on Facebook"
+
+msgid "share_in_twitter"
+msgstr "Share on Twitter"
+
+msgid "writer"
+msgstr "نویسنده"
+
+msgid "viewed"
+msgstr "بازدید"
+
+msgid "blog_dt1"
+msgstr "شما خبرنگار ما باشید"
+
+msgid "blog_dt2"
+msgstr "این متن پس از تایید با اسم شما در بلاگ سایت ثبت خواهد شد."
+
+msgid "enter_text_for_blog"
+msgstr "چیزی بنویسید"
+
+msgid "error"
+msgstr "خطا"
+
+msgid "not_valid_blog"
+msgstr "بلاگ نامعتبر است"
+
+msgid "search_blog_with_tag"
+msgstr "جستجوی بلاگ بر اساس برچسب"
+
+msgid "search_in_archive"
+msgstr "جستجو در آرشیو"
+
+msgid "year"
+msgstr "سال"
+
+msgid "month"
+msgstr "ماه"
+
+msgid "part_of_search_text"
+msgstr "بخشی از متن مورد جستجو"
+
+msgid "file_added"
+msgstr "فايل افزوده شد"
+
+msgid "ext_is_doc"
+msgstr "فايل بايد به صورت word باشد"
+
+msgid "the_blog_has_been_saved"
+msgstr "بلاگ با موفقيت ذخيره شد- با تاييد مديريت در سايت قرار مي گيرد"
+
+msgid "the_blog_no_saved"
+msgstr "بلاگ ذخيره نشد"
+
+msgid "file"
+msgstr "فايل"
+
+msgid "attach_file"
+msgstr "فايل دارد"
+
+msgid "not_attach_file"
+msgstr "فايل ندارد"
+
+msgid "get_file"
+msgstr "دريافت فايل"
+
+msgid "blog"
+msgstr "Blog"
+
+msgid "with"
+msgstr "با"
+
+msgid "blog_dt3"
+msgstr "در سایت می توانید مطالب خود را برای ما ارسال فرمایید"
+
+msgid "answer_to"
+msgstr "reply to"
+
+msgid "network_system"
+msgstr "سیستم شبکه"
+
+msgid "post_managment"
+msgstr "مدیریت پست"
+
+msgid "posts"
+msgstr "پست ها"
+
+msgid "add_post"
+msgstr "افزودن پست"
+
+msgid "edit_post"
+msgstr "ویرایش پست"
+
+msgid "link"
+msgstr "لینک"
+
+msgid "image"
+msgstr "عکس"
+
+msgid "the_post_has_been_saved"
+msgstr "پست با موفقیت ذخیره شد"
+
+msgid "the_post_not_saved"
+msgstr "پست ذخیره نشد"
+
+msgid "invalid_id_for_post"
+msgstr "پست معتبر نمی باشد"
+
+msgid "the_post_deleted"
+msgstr "پست با موفقیت حذف شد"
+
+msgid "the_post_not_deleted"
+msgstr "پست حذف نشد"
+
+msgid "file_managment"
+msgstr "مدیریت فایلها"
+
+msgid "site_tags"
+msgstr "برچسب هاي سايت"
+
+msgid "page_managment"
+msgstr "مدیریت صفحات"
+
+msgid "pages"
+msgstr "صفحات"
+
+msgid "the_page_has_been_saved"
+msgstr "صفحه با موفقیت ذخیره شد"
+
+msgid "invalid_id_for_page"
+msgstr "صفحه مورد نظر موجود نمی باشد"
+
+msgid "the_page_could_not_be_saved"
+msgstr "صفحه ذخیره نشد"
+
+msgid "edit_page"
+msgstr "ویرایش صفحه"
+
+msgid "meta"
+msgstr "خلاصه توضیحات"
+
+msgid "keyword"
+msgstr "کلمات کلیدی"
+
+msgid "your_new_password"
+msgstr "Your new password"
+
+msgid "backup_managment"
+msgstr "پشتیبان گیری"
+
+msgid "not_exist_user"
+msgstr "کاربر وجود ندارد"
+
+msgid "edit_profile"
+msgstr "Edit Profile"
+
+msgid "follow_you"
+msgstr " is following you."
+
+msgid "post_for_you"
+msgstr " replied to one of your mineet!"
+
+msgid "share_your_post"
+msgstr " shared one of your mineet!"
+
+msgid "like_your_post"
+msgstr "خبر شما را پسنديد"
+
+msgid "unlike_your_post"
+msgstr "خبر شما را نپسنديد"
+
+msgid "register_key"
+msgstr "کد فعال سازي"
+
+msgid "student"
+msgstr "دانشجو"
+
+msgid "hvyay_work"
+msgstr "جویای شغل"
+
+msgid "employed"
+msgstr "شاغل"
+
+msgid "phd"
+msgstr "دکترا"
+
+msgid "ma"
+msgstr "فوق لیسانس"
+
+msgid "bachelor"
+msgstr "لیسانس"
+
+msgid "diploma"
+msgstr "فوق دیپلم"
+
+msgid "diplom"
+msgstr "دیپلم"
+
+msgid "university_name"
+msgstr "نام دانشگاه"
+
+msgid "job_title"
+msgstr "عنوان شغل"
+
+msgid "company_name"
+msgstr "نام شرکت"
+
+msgid "job_status"
+msgstr "وضعیت شغلی"
+
+msgid "degree"
+msgstr "مقطع تحصیلی"
+
+msgid "add_page"
+msgstr "افزودن صفحه"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "delete_page_success"
+msgstr "حذف صفحه با موفقیت انجام شد"
+
+msgid "delete_page_not_success"
+msgstr "صفحه حذف نشد"
+
+msgid "parent_page"
+msgstr "صفحه والد"
+
+msgid "main_page"
+msgstr "صفحه اصلی"
+
+msgid "not_exist_child_page"
+msgstr "زير صفحه وجود ندارد"
+
+msgid "little_body"
+msgstr "توضيح کوتاه"
+
+msgid "chaser"
+msgstr "Follower"
+
+msgid "select_job_status"
+msgstr "وضعیت شغلی را انتخاب کنید"
+
+msgid "same_follower"
+msgstr "Mutual Follower"
+
+msgid "favorite_post"
+msgstr "Favorites"
+
+msgid "my_favorite_post"
+msgstr "Favorite Mineets"
+
+msgid "favorite_post_success"
+msgstr "Mineet was successfully added to Favorite list."
+
+msgid "favorite_post_notsuccess"
+msgstr "Mineet was not added to Favorite list."
+
+msgid "unfavorite_post_success"
+msgstr "Mineet was removed from Favorites list."
+
+msgid "unfavorite_post_notsuccess"
+msgstr "Mineet was not removed from Favorites list."
+
+msgid "send_infraction_report"
+msgstr "Report Profile"
+
+msgid "reason_for_infraction_report"
+msgstr "Write your reason"
+
+msgid "enter_infraction_report"
+msgstr "Write your reason"
+
+msgid "you_send_infraction_report"
+msgstr "You have already reported."
+
+msgid "send_infraction_report_successfully"
+msgstr "Report has been sent successfully."
+
+msgid "send_infraction_report_not_successfully"
+msgstr "Report could not be sent. Please try again later."
+
+msgid "infraction_report_managment"
+msgstr "مدیریت گزارش خلاف"
+
+msgid "the_infraction_report_deleted"
+msgstr "گزارش حذف شد"
+
+msgid "the_infraction_report_not_deleted"
+msgstr "گزارش حذف نشد"
+
+msgid "report"
+msgstr "Report Mineet"
+
+msgid "infraction_report"
+msgstr "گزارش خلاف"
+
+msgid "infraction_report_post"
+msgstr "گزارش خلاف پست"
+
+msgid "send_infraction_report_post"
+msgstr "Report"
+
+msgid "send_infraction_report_post_hint"
+msgstr "If you believe that the content of this mineet is contrary to the Terms of Service, Please tell us a little about your reason."
+
+msgid "send_infraction_report_hint"
+msgstr "If you believe that the information in this profile is contrary to the Terms of Service, Please tell us a little about your reason."
+
+msgid "send_infraction_report_post_hint1"
+msgstr "Your report will be strictly confidential and helps us to better service to our members."
+
+msgid "from_user"
+msgstr "از طرف"
+
+msgid "search_in_report_content"
+msgstr "جستجو رو متن گزارش"
+
+msgid "disable_account"
+msgstr "غير فعال سازي حساب کاربري"
+
+msgid "user_post_image"
+msgstr "پست های تصویری کاربر"
+
+msgid "newsletter_management"
+msgstr "مدیریت خبرنامه"
+
+msgid "newsletters"
+msgstr "خبرنامه ها"
+
+msgid "add_newsletter"
+msgstr "افزودن خبرنامه"
+
+msgid "the_newsletter_has_been_saved"
+msgstr "خبرنامه با موفقیت ذخیره شد"
+
+msgid "the_newsletter_could_not_be_saved"
+msgstr "خبرنامه ذخیره نشد"
+
+msgid "invalid_id_for_newsletter"
+msgstr "خبرنامه نا معتبر است"
+
+msgid "delete_newsletter_success"
+msgstr "خبرنامه با موفقیت حذف شد"
+
+msgid "delete_newsletter_not_success"
+msgstr "خبرنامه حذف نشد"
+
+msgid "edit_newsletter"
+msgstr "ویرایش خبرنامه"
+
+msgid "send_post_with_sms"
+msgstr "Activate SMS Tool"
+
+msgid "send_post_with_sms_help"
+msgstr "شماره موبایل خود را وارد کرده، و پس از دریافت کد تایید در موبایلتان ان را در باکس دریافت کد تایید وارد کرده و گزینه تایید را کلید گنید."
+
+msgid "mobile_number"
+msgstr "شماره موبایل"
+
+msgid "ok"
+msgstr "تایید"
+
+msgid "not_send_verify_code"
+msgstr "کد تاییده ارسال نشد"
+
+msgid "send_verify_code_successfull"
+msgstr "کد تاییده با موفقیت ارسال شد"
+
+msgid "send_verify_code_notsuccessfull"
+msgstr "کد تاییده ارسال نشد"
+
+msgid "the_mobile_verified_successfull"
+msgstr "شماره موبایل شما با موفقیت تایید شد - برای ارسال خبر به شماره 500020444 پیامک ارسال فرمایید"
+
+msgid "the_mobile_verified_notsuccessfull"
+msgstr "شماره موبایل شما تایید نشد"
+
+msgid "number_sms_help"
+msgstr "برای ارسال خبر به شماره 500020444 پیامک ارسال فرمایید"
+
+msgid "exist_mobile_number"
+msgstr "این شماره موبایل از قبل وجود دارد"
+
+msgid "enter_verify_code"
+msgstr "کد تاييد را وارد کنيد"
+
+msgid "verify_code"
+msgstr "کد تاييد"
+
+msgid "sample_mobile_number"
+msgstr "نمونه شماره موبايل  معتبر : 0912xxxxxxx"
+
+msgid "send_for_you_max_sms"
+msgstr "تعداد دفعاتي که شماره ارسال کرده ايد بيشتر از حد مجاز است"
+
+msgid "social_network"
+msgstr "شبکه اجتماعی"
+
+msgid "join_to_madaner_on_few_minute"
+msgstr "Sign up in just a few seconds"
+
+msgid "madaner_role1"
+msgstr "By clicking on REGISTER, you are agreeing to all the "
+
+msgid "madaner_role2"
+msgstr "Terms of Service"
+
+msgid "madaner_role3"
+msgstr "."
+
+msgid "madaner_news"
+msgstr "News"
+
+msgid "madaner_jobs"
+msgstr "Jobs"
+
+msgid "madaner_events"
+msgstr "Events"
+
+msgid "capital_markets"
+msgstr "Market"
+
+msgid "check_security"
+msgstr "Security check"
+
+msgid "enter_captcha"
+msgstr "Enter the following security code"
+
+msgid "register"
+msgstr "Registration"
+
+msgid "back"
+msgstr "Back"
+
+msgid "chat"
+msgstr "بحث و گفت و گو"
+
+msgid "chat_comment1"
+msgstr "بحث های جذاب ایجاد کنید."
+
+msgid "chat_comment2"
+msgstr "با همه افراد بحث و گفبرچسبو کنید."
+
+msgid "social_network_comment1"
+msgstr "افراد را دنبال کنید!"
+
+msgid "social_network_comment2"
+msgstr "پیام خصوصی ارسال کنید."
+
+msgid "social_network_comment3"
+msgstr "به ارسال‌ها پاسخ دهید و به اشتراک بگذارید."
+
+msgid "news"
+msgstr "News"
+
+msgid "news_comment1"
+msgstr "دسترسی سریع و ارزان به اخبار"
+
+msgid "news_comment2"
+msgstr "دسترسی به اخبار گوناگون معدن"
+
+msgid "news_comment3"
+msgstr "ارسال خبر در معدنر با پیامک"
+
+msgid "relation"
+msgstr "ارتباط"
+
+msgid "relation_comment1"
+msgstr "یافتن مخاطبان جدید و مفید"
+
+msgid "relation_comment2"
+msgstr "ارسال پیام خصوصی برای کاربران"
+
+msgid "relation_comment3"
+msgstr "ایجاد و گسترش ارتباط‌های حرفه ای"
+
+msgid "regard"
+msgstr "نظر سنجی"
+
+msgid "regard_comment1"
+msgstr "شرکت در نظرسنجی‌های معدنر"
+
+msgid "regard_comment2"
+msgstr "طرح سوال و نظرسنجی از افراد شبکه"
+
+msgid "profile"
+msgstr "Profile"
+
+msgid "profile_comment1"
+msgstr "خودتان را کوتاه و مفید معرفی کنید."
+
+msgid "profile_comment2"
+msgstr "در معرض نمایش افراد شبکه باشید."
+
+msgid "profile_comment3"
+msgstr "در جستجوها یافت شوید."
+
+msgid "you_can_send_3email"
+msgstr "شما فقط مي توانيد 3 دعوت نامه ارسال کنيد"
+
+msgid "send_invitation"
+msgstr "Send invitation"
+
+msgid "send_invitation_success"
+msgstr "Invitation was sent successfully."
+
+msgid "invitation_detail1"
+msgstr "Enter your friend's email"
+
+msgid "invitation_detail2"
+msgstr "Remove"
+
+msgid "invitation_titr1"
+msgstr " has invited you to join Miningers."
+
+msgid "invitation_titr2"
+msgstr "Miningers helps you see now in the mining industry, geology, metallurgy, Geotechnics, Oil & Gas what's going on and always stay connected with the people and organizations that are important for you."
+
+msgid "invitation_titr3"
+msgstr "Click here to register at Miningers"
+
+msgid "cant_send_email"
+msgstr "Invitation was not sent."
+
+msgid "send_forget_pass"
+msgstr "Send password"
+
+msgid "send_newsletter"
+msgstr "Miningers personal newsletter"
+
+msgid "new_users"
+msgstr "جدیدترین کاربران"
+
+msgid "active_users"
+msgstr "فعال ترین کاربران"
+
+msgid "max_follower_users"
+msgstr "پرطرفدارترین کاربران"
+
+msgid "max_like"
+msgstr "بیشترین لایک"
+
+msgid "max_sharing"
+msgstr "بیشترین اشتراک گذاری"
+
+msgid "max_post_on_post"
+msgstr "بیشترین پاسخ به پست"
+
+msgid "max_favorite"
+msgstr "بیشترین برگزیده شدن"
+
+msgid "max_response"
+msgstr "بيشتر پاسخ به خبر"
+
+msgid "max_favorite"
+msgstr "بيشترين برگزيده"
+
+msgid "enter_a_email"
+msgstr "Enter your email address"
+
+msgid "news_content"
+msgstr "Mineets"
+
+msgid "invitation_sms_detail1"
+msgstr "دوستان خود را از طریق پيامک دعوت کنید"
+
+msgid "invitation_sms_detail2"
+msgstr "حذف شود"
+
+msgid "sms"
+msgstr "پيامک"
+
+msgid "you_can_send_3sms"
+msgstr "شما فقط ميتوانيد 3 پيامک همزمان ارسال کنيد"
+
+msgid "invitation_sms_content"
+msgstr " has invited you to join Miningers."
+
+msgid "send_invitation_email"
+msgstr "ارسال دعوت نامه ایمیلی"
+
+msgid "send_invitation_sms"
+msgstr "ارسال دعوت نامه پیامکی"
+
+msgid "account_not_active_goto_email"
+msgstr "Your account has not been activated yet. Please refer to your email and activate your account. Activation link has been sent to your email."
+
+msgid "learn_site_top_menu"
+msgstr "آموزش منوی بالای سایت"
+
+msgid "learn_site_top_menu_home"
+msgstr "Review your FOLLOWING mineets and what shared with you."
+
+msgid "home_menu"
+msgstr "Home"
+
+msgid "users_menu"
+msgstr "Members"
+
+msgid "learn_site_top_menu_users"
+msgstr "See what people are members of Miningers. Learn more about them and FOLLOW them."
+
+msgid "learn_site_top_menu_favorite"
+msgstr "See what you Favorite and archive. You can manage your favorites."
+
+msgid "favorite_menu"
+msgstr "My Favorite Mineet"
+
+msgid "newNews_menu"
+msgstr "Mineet"
+
+msgid "learn_site_top_menu_newNews"
+msgstr "Write a mineet and share it with your Followers."
+
+msgid "learn_addpost_newpost_input"
+msgstr "حذف شود"
+
+msgid "addlink"
+msgstr "All URL Link"
+
+msgid "learn_addpost"
+msgstr "حذف شود"
+
+msgid "learn_addpost_addlink"
+msgstr "If your content is from a website, paste the link here."
+
+msgid "addimage"
+msgstr "Add Image"
+
+msgid "learn_addpost_addimage"
+msgstr "Add image to mineet."
+
+msgid "learn_search_box"
+msgstr "Search"
+
+msgid "learn_search_box_detail"
+msgstr "Search members, mineets and tags at Miningers."
+
+msgid "learn_top_help_menu"
+msgstr "Settings"
+
+msgid "learn_top_help_menu_detail"
+msgstr "Access to Edit Profile, Privacy Settings, Help Center and Logout."
+
+msgid "learn_user_box"
+msgstr "اطلاعات کاربری"
+
+msgid "learn_user_box_user_name"
+msgstr "حذف شود"
+
+msgid "learn_user_box_edit_profile"
+msgstr "Edit your profile and change your settings."
+
+msgid "learn_user_box_edit_message_box"
+msgstr "Send private message to FOLLOWERS and FOLLOWING and manage your messages."
+
+msgid "message_box"
+msgstr "Private Message"
+
+msgid "learn_user_box_edit_my_post"
+msgstr "حذف شود"
+
+msgid "learn_user_box_edit_follow_payees"
+msgstr "Who are FOLLOWING by you. See and manage them."
+
+msgid "learn_user_box_edit_chasers"
+msgstr "Who are FOLLOWING you. See and manage them."
+
+msgid "learn_invitation"
+msgstr "Send Invitation"
+
+msgid "learn_invitation_email"
+msgstr "Send an invitation to your friends email and invite them to join Miningers."
+
+msgid "learn_invitation_sms"
+msgstr "حذف شود"
+
+msgid "learn_new_notification"
+msgstr "Based on your profile, we suggest you to follow people or companies. Follow more members to get more mineets."
+
+msgid "learn_notificationBox"
+msgstr "Your notification are here. See who is following you, favorite, reply or share your mineets and mentioned you in a mineet."
+
+msgid "are_you_have_learn_profile"
+msgstr "Do you want to take a tour of Madaner features?"
+
+msgid "learn_profile_menu"
+msgstr "Access Frequently Used"
+
+msgid "learn_profile_menu_detail"
+msgstr "You can send a Private Message to members, Block or Report them."
+
+msgid "learn_profile_follow_btn"
+msgstr "حذف شود"
+
+msgid "learn_profile_follow_btn_detail"
+msgstr "حذف شود"
+
+msgid "learn_this_page"
+msgstr "Miningers Tour Guide"
+
+msgid "learn_post"
+msgstr "Direct Link"
+
+msgid "learn_post_date"
+msgstr "Click on the date of each post, you can go to the direct page of mineet."
+
+msgid "learn_post_favorite"
+msgstr "Add important mineets to your favorite list. you can manage them any time."
+
+msgid "learn_post_facebook"
+msgstr "Share your mineets at Miningers and other Social Network."
+
+msgid "learn_post_comment"
+msgstr "Reply to other mineets to be created a discussion."
+
+msgid "learn_post_share"
+msgstr "Share important mineets with others!"
+
+msgid "learn_post_report"
+msgstr "If this mineet is against the Terms of Service, please report it to the administrator."
+
+msgid "welcome_to_madaner"
+msgstr "Welcome to Miningers"
+
+msgid "follow_5users"
+msgstr "برای شروع کار لطفا 5 کاربر را دنبال کنید."
+
+msgid "location_detail"
+msgstr "شهر محل زندگی شما"
+
+msgid "letter_of_introduction_detail"
+msgstr "عنوان شغلی ، مدرک تحصیلی ، دانشگاه ، مهارت ، ..."
+
+msgid "hot_subject"
+msgstr "Hot Tags (#)"
+
+msgid "all_subject"
+msgstr "All tags"
+
+msgid "send_invitation_email_title"
+msgstr "ارسال دعوتنامه از طریق ایمیل"
+
+msgid "send_invitation_sms_title"
+msgstr "از طريق پيامک"
+
+msgid "users_for_follow"
+msgstr "Who to follow"
+
+msgid "all_users"
+msgstr "View all"
+
+msgid "homeimage_management"
+msgstr "مدیریت تصویر خانه"
+
+msgid "homeimage"
+msgstr "تصویر خانه"
+
+msgid "search_in_title"
+msgstr "جستجو رو عنوان"
+
+msgid "from_date"
+msgstr "از تاریخ"
+
+msgid "to_date"
+msgstr "تا تاریخ"
+
+msgid "add_image"
+msgstr "Add image"
+
+msgid "the_home_image_has_been_saved"
+msgstr "اطلاعات با موفقيت ذخيره شد"
+
+msgid "the_home_image_not_saved"
+msgstr "اطلاعات ذخيره نشد"
+
+msgid "add_home_image"
+msgstr "افزودن تصوير خانه"
+
+msgid "the_home_image_deleted"
+msgstr "اطلاعات حذف شد"
+
+msgid "the_home_image_not_deleted"
+msgstr "اطلاعات حذف نشد"
+
+msgid "invalid_id_for_home_image"
+msgstr "شماره تصوير نامعتبر مي باشد"
+
+msgid "edit_home_image"
+msgstr "ویرایش تصویر خانه"
+
+msgid "go_home"
+msgstr "انتقال به صفحه اصلی"
+
+msgid "userloglogin_management"
+msgstr "آمار لاگين کاربران"
+
+msgid "userloglogins"
+msgstr "آمار کابران"
+
+msgid "sum_login"
+msgstr "تعداد لاگين"
+
+msgid "export_excel"
+msgstr "خروجي اکسل"
+
+msgid "login_count"
+msgstr "تعداد ورود به سايت"
+
+msgid "last_login_date"
+msgstr "آخرين تاريخ ورود به سايت"
+
+msgid "first_login_date"
+msgstr "اولين تاريخ ورود به سايت"
+
+msgid "siteview_management"
+msgstr "مدیریت آمار سایت"
+
+msgid "count_view"
+msgstr "تعداد بازدید"
+
+msgid "siteviews"
+msgstr "آمار بازدید سایت"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "template"
+msgstr "قالب"
+
+msgid "newsletter_info1"
+msgstr "You have received this notification because you have registered as "
+
+msgid "newsletter_info2"
+msgstr " at Miningers."
+
+msgid "cancel_subscription"
+msgstr "Unsubscribe"
+
+msgid "newsletter_info3"
+msgstr "If you have any questions please contact us "
+
+msgid "newsletter_info4"
+msgstr "All rights reserved for "
+
+msgid "newsletter_bodyactive_info1"
+msgstr "You do not have an active profile at Miningers. Please click on the link below, activate your profile and join to Miningers professional network."
+
+msgid "newsletter_bodyactive_info2"
+msgstr "Engineers, professors and many professionals are waiting for you. please complete your profile and follow other people to be seen in Miningers and extend your real professional network at Miningers."
+
+msgid "send_activeemail"
+msgstr "Activate your account and join to Miningers professional network"
+
+msgid "send_email_forme_onlastloginemail"
+msgstr "Tips on getting more out of Miningers"
+
+msgid "send_email_forme_onnewsletteremail"
+msgstr "Personal newsletter"
+
+msgid "deactive_send_active_email_successfull"
+msgstr "غيرفعال کردن ارسال ايميل فعال سازي با موفقيت انجام شد"
+
+msgid "deactive_send_active_email_notsuccessfull"
+msgstr "غير فعال سازي ارسال ايميل فعال سازي انجام نشد"
+
+msgid "can_not_send_email_to_user"
+msgstr "هيچ ايميل فعال سازي به اين کاربر ارسال نشده است"
+
+msgid "deactive_send_active_email"
+msgstr "غير فعال سازي ارسال ايميل فعال سازي"
+
+msgid "send_active_email_to_user_deactive_ago"
+msgstr "غير فعال کردن ارسال ايميل فعال سازي قبلا انجام شده است"
+
+msgid "hello"
+msgstr "سلام"
+
+msgid "last_login_dtl1"
+msgstr "مهندسین، اساتید و متخصصان بسیاری در معدنر منتظر شما هستند. خبرهای بسیاری از معدن در شبکه وجود دارد که شما از آنها بی اطلاع مانده اید. همچنین افراد جدید بسیاری به معدنر آمده اند. آنها را دنبال کنید و شبکه حرفه ای و خبری خود را گسترش دهید."
+
+msgid "hot_talk"
+msgstr "گفتگوهای جذاب"
+
+msgid "hot_talk_dtl1"
+msgstr "این خبرها بیشترین پاسخ را دریافت کرده اند"
+
+msgid "follower_users"
+msgstr "افراد پر طرفدار"
+
+msgid "follower_users_dtl1"
+msgstr "این افراد بیشترین دنبال کننده ها را در این 2 هفته داشته اند"
+
+msgid "hot_tags"
+msgstr "موضوعات داغ 2 هفته گذشته"
+
+msgid "week_fllower"
+msgstr "افراد زیر شما را در این 2 هفته دنبال کرده اند"
+
+msgid "send_last_login"
+msgstr "Tips on getting more out of Miningers"
+
+msgid "update_madaner"
+msgstr "Updates from Miningers"
+
+msgid "census_this_week"
+msgstr "Specific statistics in the last week"
+
+msgid "unread_message"
+msgstr "پیام های خوانده نشده"
+
+msgid "unread_notification"
+msgstr "تعداد نوتیفیکیشن ها"
+
+msgid "view_all_answer"
+msgstr "همه پاسخ ها را ببینید و در گفتگو شرکت کنید"
+
+msgid "private_madaner_newsletter"
+msgstr "خبرنامه اختصاصی معدنر"
+
+msgid "share_in_gplus"
+msgstr "Share on Google Plus"
+
+msgid "person"
+msgstr "نفر"
+
+msgid "four_last_follower"
+msgstr "4 نفر از آخرین  دنبال کننده ها"
+
+msgid "product_category"
+msgstr "دسته بندی محصولات"
+
+msgid "product_managment"
+msgstr "مدیریت محصولات"
+
+msgid "add_product_category"
+msgstr "افزودن دسته بندی محصول"
+
+msgid "add_product_category"
+msgstr "افزودن دسته بندی محصول"
+
+msgid "parent_product_category"
+msgstr "انتخاب دسته بندی والد"
+
+msgid "main_product_category"
+msgstr "دسته بندی اصلی"
+
+msgid "the_product_category_has_been_saved"
+msgstr "دسته بندی محصول با موفقیت ذخیره شد"
+
+msgid "the_product_category_could_not_be_saved"
+msgstr "دسته بندی محصول ذخیره نشد"
+
+msgid "invalid_id_for_product_category"
+msgstr "این دسته بندی وجود ندارد"
+
+msgid "edit_product_category"
+msgstr "ویرایش دسته بندی محصول"
+
+msgid "delete_product_category_success"
+msgstr "حذف دسته بندی محصول با موفقیت انجام شد"
+
+msgid "delete_product_category_not_success"
+msgstr "حذف دسته بندی محصول انجام نشد"
+
+msgid "slug"
+msgstr "عنوان انگلیسی"
+
+msgid "technical_info"
+msgstr "مشخصات فني"
+
+msgid "database_managment"
+msgstr "مديريت پايگاه داده"
+
+msgid "technicalinfo_title"
+msgstr "عنوان اصلي مشخصات فني"
+
+msgid "technicalinfoitem_title"
+msgstr "افزودن مشخصات"
+
+msgid "items"
+msgstr "مشخصات"
+
+msgid "add_row"
+msgstr "افزودن رديف"
+
+msgid "add_technicalinfoitem"
+msgstr "افزودن مشخصات فني"
+
+msgid "the_technicalinfoitem_has_been_saved"
+msgstr "مشخصات فنی با موفقیت ذخیره شد"
+
+msgid "the_technicalinfoitem_not_saved"
+msgstr "مشخصات فنی ذخیره نشد"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "the_technicalinfoitem_deleted"
+msgstr "مشخصات محصول با موفقیت حذف شد"
+
+msgid "the_technicalinfoitem_not_deleted"
+msgstr "مشخصات محصول حذف نشد"
+
+msgid "technicalinfoitem"
+msgstr "مشخصات فنی"
+
+msgid "edit_technicalinfoitem"
+msgstr "ویرایش مشخصات فنی"
+
+msgid "category_title"
+msgstr "عنوان دسته بندی"
+
+msgid "price"
+msgstr "قیمت"
+
+msgid "num"
+msgstr "تعداد"
+
+msgid "view"
+msgstr "بازدید"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "discount"
+msgstr "تخفیف"
+
+msgid "weight"
+msgstr "وزن"
+
+msgid "detail"
+msgstr "توضیحات"
+
+msgid "rate"
+msgstr "امتیاز"
+
+msgid "value"
+msgstr "مقدار"
+
+msgid "product_images"
+msgstr "تصاویر محصول"
+
+msgid "the_product_not_saved"
+msgstr "محصول ذخيره نشد"
+
+msgid "the_product_has_been_saved"
+msgstr "محصول با موفقيت ذخيره شد"
+
+msgid "the_productrate_not_saved"
+msgstr "امتياز محصول ذخيره نشد"
+
+msgid "the_technicalinfoitemvalue_not_saved"
+msgstr "مشخصات فني محصول ذخيره نشد"
+
+msgid "the_tag_not_saved"
+msgstr "تگ ذخيره نشد"
+
+msgid "the_product_tag_not_saved"
+msgstr "تگ محصول ذخيره نشد"
+
+msgid "the_product_image_not_saved"
+msgstr "تصوير محصول ذخيره نشد"
+
+msgid "invalid_id_for_technicalinfoitem"
+msgstr "شماره وارد شده نادرست است"
+
+msgid "invalid_id_for_product"
+msgstr "شماره محصول وارد شده نادرست است"
+
+msgid "the_product_deleted"
+msgstr "محصول با موفقیت حذف شد"
+
+msgid "the_product_not_deleted"
+msgstr "محصول حذف نشد"
+
+msgid "productreview"
+msgstr "نقد و بررسی"
+
+msgid "product_name"
+msgstr "نام محصول"
+
+msgid "the_productreview_could_not_be_saved"
+msgstr "نقد و بررسی محصول ذخیره نشد"
+
+msgid "the_productreview_has_been_saved"
+msgstr "نقد و بررسی محصول ذخیره شد"
+
+msgid "the_productrate_not_valid"
+msgstr "امتياز محصول را درست وارد کنيد"
+
+msgid "category_includes_product_can_not_be_deleted"
+msgstr "دسته بندي شامل محصول مي باشد و قابل حذف نيست"
+
+msgid "resume_file"
+msgstr "فايل رزومه"
+
+msgid "pdf_help"
+msgstr "در اينجا مي توانيد فايل رزومه خود را تا اندازه 2 مگابایت و فرمت pdf آپلود نماييد"
+
+msgid "my_resume"
+msgstr "My Resume"
+
+msgid "not_exist_resume"
+msgstr "There is no resume for download."
+
+msgid "my_posts"
+msgstr "Mineets"
+
+msgid "are_you_sure_for_delete"
+msgstr "Are you sure for delete?"
+
+msgid "delete_image_notsuccess"
+msgstr "Image is not removed."
+
+msgid "delete_image_success"
+msgstr "Image was successfully deleted."
+
+msgid "delete_cover_image_success"
+msgstr "Cover photo was removed successfully."
+
+msgid "delete_cover_image_notsuccess"
+msgstr "Cover photo is not removed."
+
+msgid "the_productreview_could_not_be_saved"
+msgstr "نقد و بررسی ذخیره نشد"
+
+msgid "the_productreviewpdf_not_saved"
+msgstr "فایل پی دی اف ذخیره نشد"
+
+msgid "pdf"
+msgstr "فایل پی دی اف"
+
+msgid "add_productreviewpdf"
+msgstr "افزودن فایل پی دی اف"
+
+msgid "add_file"
+msgstr "افزودن فایل"
+
+msgid "library"
+msgstr "کتابخانه"
+
+msgid "library_managment"
+msgstr "مديريت کتابخانه"
+
+msgid "author"
+msgstr "مولف"
+
+msgid "add_library"
+msgstr "افزودن کتاب"
+
+msgid "the_library_not_saved"
+msgstr "کتابخانه ذخیره نشد"
+
+msgid "the_library_tag_not_saved"
+msgstr "تگ کتابخانه ذخیره نشد"
+
+msgid "the_author_not_saved"
+msgstr "مولف ذخیره نشد"
+
+msgid "the_library_author_not_saved"
+msgstr "مولف ذخیره نشد"
+
+msgid "the_library_has_been_saved"
+msgstr "کتابخانه با موفقیت ذخیره شد"
+
+msgid "delete_pdf"
+msgstr "حذف فایل پی دی اف"
+
+msgid "delete_pdf_success"
+msgstr "رزومه با موفقیت حذف شد"
+
+msgid "the_library_deleted"
+msgstr "کتاب حذف شد"
+
+msgid "the_library_not_deleted"
+msgstr "کتاب حذف نشد"
+
+msgid "ads_post"
+msgstr "Expand your audience!"
+
+msgid "ads_dtl1"
+msgstr "مخاطبین خبرهایتان را گسترش دهید!"
+
+msgid "ads_dtl2"
+msgstr "You can easily expand your audience, so more people will see your mineet in their home. "
+
+msgid "ads_dtl3"
+msgstr "Learn more"
+
+msgid "ads_dtl4"
+msgstr "Audience"
+
+msgid "ads_dtl5"
+msgstr "We believe that advertising should help the member in Miningers and be compatible with the member's expertise. Select your audience based on the tags more carefully."
+
+msgid "ads_dtl51"
+msgstr "See how others have used tags."
+
+msgid "ads_dtl6"
+msgstr "Estimation of your audience"
+
+msgid "ads_dtl7"
+msgstr "audience of"
+
+msgid "ads_dtl8"
+msgstr "audience"
+
+msgid "ads_dtl9"
+msgstr "Budget per audience"
+
+msgid "ads_dtl10"
+msgstr "Show mineet in audience's home"
+
+msgid "ads_dtl11"
+msgstr "نمایش خبر در خانه مخاطبین و ارسال خبر به ایمیل آنها "
+
+msgid "ads_dtl12"
+msgstr "Estimation of your costs"
+
+msgid "rial"
+msgstr "Rls"
+
+msgid "ads_dtl13"
+msgstr "By Clicking on Promote Post button, you accept the "
+
+msgid "ads_dtl14"
+msgstr "Terms of Service"
+
+msgid "and"
+msgstr "and "
+
+msgid "ads_dtl15"
+msgstr "advertise"
+
+msgid "ads_dtl16"
+msgstr "."
+
+msgid "save_ads"
+msgstr "Promote Post"
+
+msgid "select_member_group"
+msgstr "یکی از گروههای مخاطبین را انتخاب کنید"
+
+msgid "question"
+msgstr "سوال"
+
+msgid "the_first_postad_save_success"
+msgstr "اطلاعات اولیه ذخیره شد ، در حال ارسال براي انجام عملیات بانکی ...."
+
+msgid "the_postad_not_save"
+msgstr "اطلاعات تبلیغات ذخیره نشد"
+
+msgid "cancel"
+msgstr "انصراف"
+
+msgid "post_ads"
+msgstr "تبلیغ خبر"
+
+msgid "pay"
+msgstr "پرداخت"
+
+msgid "select_bank"
+msgstr "درگاه بانک را انتخاب کنید"
+
+msgid "getway"
+msgstr "درگاه بانک"
+
+msgid "not_exist_pasy_info"
+msgstr "اطلاعاتی برای پرداخت وجود ندارد"
+
+msgid "end_buy"
+msgstr "اتمام خرید"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "sum_price"
+msgstr "جمع مبالغ"
+
+msgid "other_price"
+msgstr "هزینه پست"
+
+msgid "sum_item"
+msgstr "تعداد کالا"
+
+msgid "online_pay"
+msgstr "پرداخت آنلاین"
+
+msgid "selecting_bank"
+msgstr "بانک انتخابی"
+
+msgid "cant_connect_to_bankmellat_getway"
+msgstr "اتصال به درگاه بانک ملت انجام نشد"
+
+msgid "cant_send_parameters_to_bankmellat_getway"
+msgstr "ارسال اطلاعات به درگاه بانک ملت انجام نگرفت"
+
+msgid "cant_get_response_from_bankmellat_getway"
+msgstr "دریافت اطلاعات از درگاه بانک ملت با خطا مواجه شد"
+
+msgid "cant_update_table"
+msgstr "اطلاعات خرید بروزرسانی نشد"
+
+msgid "buy_successed"
+msgstr "خرید با موفقیت انجام شد"
+
+msgid "approval_of_final_deposit_in_bank_operations_were_performed"
+msgstr "عملیات تایید واریز نهایی در بانک انجام نگردید.با پشتیبانی تماس حاصل فرمایید"
+
+msgid "transaction_needs_to_follow_up"
+msgstr "تراکنش به پيگيري نیاز دارد"
+
+msgid "transaction_id"
+msgstr "شماره تراکنش"
+
+msgid "money_was_paid_back_operation"
+msgstr "عملیات بازگشت پول پرداختی انجام گردید"
+
+msgid "try_again"
+msgstr "عملیات انجام نشد لطفا دوباره تلاش فرمایید"
+
+msgid "connect_to_mellat_bank"
+msgstr "در حال اتصال به درگاه بانک ملت"
+
+msgid "buy_not_successed"
+msgstr "خرید انجام نشد"
+
+msgid "buy_result"
+msgstr "نتیجه خرید"
+
+msgid "back_to_buy_page"
+msgstr "برگشت به صفحه خرید"
+
+msgid "order_id"
+msgstr "شماره سفارش"
+
+msgid "postads_list"
+msgstr "Promotion Management"
+
+msgid "edit_password"
+msgstr "Change Password"
+
+msgid "post_id"
+msgstr "شماره خبر"
+
+msgid "base_amount"
+msgstr "مبلغ پایه"
+
+msgid "select_member"
+msgstr "تعداد افراد"
+
+msgid "refid"
+msgstr "شماره تراکنش"
+
+msgid "bankmessage_id"
+msgstr "خطای دریافتی"
+
+msgid "not_exist_ads"
+msgstr "تبلیغاتی وجود ندارد"
+
+msgid "system_cant_send_your_request"
+msgstr "سیستم قادر به انجام درخواست شما نمی باشد"
+
+msgid "retry_pay"
+msgstr "تلاش دوباره"
+
+msgid "pay_success"
+msgstr "پرداخت انجام شد"
+
+msgid "site_setting_managment"
+msgstr "مدیریت تنظیمات سایت"
+
+msgid "site_setting"
+msgstr "تنظیمات سایت"
+
+msgid "postads_level1_price"
+msgstr "مبلغ تبلیغات خبری بدون ایمیل"
+
+msgid "postads_level2_price"
+msgstr "ممبلغ تبلیغات خبری با ایمیل"
+
+msgid "site_keywords"
+msgstr "کلمات کلیدی سایت"
+
+msgid "site_description"
+msgstr "توضیحات سایت"
+
+msgid "separate_with_simicalon"
+msgstr "با ویرگول (,) جدا کنید"
+
+msgid "the_setting_has_been_saved"
+msgstr "تنظیمات با موفقیت ذخیره شد"
+
+msgid "the_setting_could_not_be_saved"
+msgstr "تنظیمات ذخیره نشد"
+
+msgid "bankmellat_getway"
+msgstr "درگاه بانک ملت"
+
+msgid "ads_managment"
+msgstr "مدیریت تبلیغات"
+
+msgid "ads_managment_setting"
+msgstr "مدیریت تبلیغات پست"
+
+msgid "invalid_id_for_postads"
+msgstr "شماره تبلیغات معتبر نمی باشد"
+
+msgid "the_postads_has_been_saved"
+msgstr "تبلیغات پست با موفقیت ذخیره شد"
+
+msgid "the_postads_not_saved"
+msgstr "تبلیغات پست ذخیره نشد"
+
+msgid "the_postads_deleted"
+msgstr "تبلیغات پست با موفقیت حذف شد"
+
+msgid "the_postads_not_deleted"
+msgstr "تبلیغات پست حذف نشد"
+
+msgid "edit_postdds"
+msgstr "ویرایش تبلیغات پست"
+
+msgid "ads_madaner"
+msgstr "Special Newsletter of Miningers"
+
+msgid "save_post_successfully"
+msgstr "خبر با موفقیت ذخیره شد"
+
+msgid "cant_save_post"
+msgstr "خبر ذخیره نشد"
+
+msgid "the_user_tag_not_saved"
+msgstr "کلمات کليدي ذخيره نشد"
+
+msgid "feedreader_managment"
+msgstr "مدیریت خبرخوان"
+
+msgid "feedreader"
+msgstr "خبر خوان"
+
+msgid "rss_count"
+msgstr "تعداد خبر ها"
+
+msgid "add_feed"
+msgstr "افزودن خبرخوان"
+
+msgid "feed"
+msgstr "خبرخوان"
+
+msgid "feed_url"
+msgstr "لینک های خبرخوان"
+
+msgid "url"
+msgstr "لینک"
+
+msgid "feed_time"
+msgstr "زمان خبرخوان"
+
+msgid "time"
+msgstr "زمان"
+
+msgid "rss_count"
+msgstr "تعداد خواندن خبر"
+
+msgid "the_feed_not_saved"
+msgstr "خبر خوان ذخیره نشد"
+
+msgid "the_feedurl_has_not_been_saved"
+msgstr "لینک های خبرخوان ذخیره نشد"
+
+msgid "the_feedtime_has_not_been_saved"
+msgstr "زمان های خبرخوان ذخیره نشد"
+
+msgid "the_feed_has_been_saved"
+msgstr "خبرخوان با موفقیت ذخیره شد"
+
+msgid "the_feedtime_not_saved"
+msgstr "خبر خوان ذخیره نشد"
+
+msgid "the_feed_deleted"
+msgstr "خبر خوان با موفقیت حذف شد"
+
+msgid "the_feed_not_deleted"
+msgstr "خبرخوان حذف نشد"
+
+msgid "edit_feed"
+msgstr "ويرايش خبرخوان"
+
+msgid "rss_link"
+msgstr "لینک خبر (RSS)"
+
+msgid "rss_time"
+msgstr "زمان خواندن خبر"
+
+msgid "continue"
+msgstr "ادامه"
+
+msgid "the_image_not_saved"
+msgstr "تصوير ذخيره نشد"
+
+msgid "viewd_in_site"
+msgstr "ديده شده در سايت"
+
+msgid "used_your_user_name"
+msgstr "mentioned you in his mineet"
+
+msgid "postads"
+msgstr "Your Promotions"
+
+msgid "not_repeated_select_tag"
+msgstr "You can not choose a duplicate tag."
+
+msgid "add_to_myprofile"
+msgstr "Add to my profile"
+
+msgid "the_usertag_added_sucsses"
+msgstr "tags was successfully added to your profile."
+
+msgid "the_usertag_added_notsucsses"
+msgstr "Tags have been not added to your profile."
+
+msgid "your_tag_is_maxtag"
+msgstr "You can select up to 10 keywords as tags."
+
+msgid "shop"
+msgstr "Shop"
+
+msgid "library"
+msgstr "Library"
+
+msgid "intro_detail1"
+msgstr "The Fastest Growing Mining, Geology, Metallurgy, Geotechnics, Oil & Gas Professional Network"
+
+msgid "login_in_site"
+msgstr "Login"
+
+msgid "register_with_invitation"
+msgstr "Registration is by Invite Only"
+
+msgid "intro_detail2"
+msgstr "Please visit us later, or "
+
+msgid "tell_with_us"
+msgstr "contact us."
+
+msgid "relationship_with_us"
+msgstr "Connect whit us!"
+
+msgid "intro_detail3"
+msgstr "Search the world news of mining, geology, metallurgy & related industries."
+
+msgid "search_all_madaner_event"
+msgstr "Search latest news … "
+
+msgid "post_new"
+msgstr "Mineet"
+
+msgid "about_me"
+msgstr "Short Bio"
+
+msgid "delete_post"
+msgstr "Delete"
+
+msgid "edit_post"
+msgstr "Edit mineet"
+
+msgid "favorite"
+msgstr "Favorite"
+
+msgid "replay"
+msgstr "Reply"
+
+msgid "share"
+msgstr "Share"
+
+msgid "more"
+msgstr "Promote"
+
+msgid "delete_loading"
+msgstr "Deleting mineet ..."
+
+msgid "notfavorite"
+msgstr "Unfavorite"
+
+msgid "notshare"
+msgstr "Undo share"
+
+msgid "not_allow_repeated_favorite"
+msgstr "Once you have favorite this mineet."
+
+msgid "not_find_favorite"
+msgstr "This mineet has been not favorite."
+
+# Notifications
+msgid "events"
+msgstr "Notifications"
+
+msgid "send_post"
+msgstr "Share Mineet"
+
+msgid "type_a_text"
+msgstr "Share new mineet ..."
+
+msgid "invite_your_freinds"
+msgstr "Miningers Is Better With Friends."
+
+msgid "invite_from_friend"
+msgstr "Invite Friends"
+
+msgid "exist_email_invitions"
+msgstr "Entered email is now a member of Miningers."
+
+msgid "send_invite_email_success"
+msgstr "Invitation was sent successfully."
+
+msgid "cant_send_invite_email"
+msgstr "Invitation was not sent. Please try again."
+
+msgid "discover"
+msgstr "Discover"
+
+msgid "enter_your_message_here"
+msgstr "Enter your message here ..."
+
+msgid "not_invite_from_users"
+msgstr "You have not been invited by someone."
+
+msgid "you_invite_from"
+msgstr ""
+
+msgid "invite_you"
+msgstr "has invited you."
+
+msgid "country"
+msgstr "Country"
+
+msgid "add_page_per"
+msgstr "افزودن صفحه فارسی"
+
+msgid "add_page_eng"
+msgstr "افزودن صفحه انگلیسی"
+
+msgid "edit_page_per"
+msgstr "ویرایش صفحه فارسی"
+
+msgid "edit_page_eng"
+msgstr "ویرایش صفحه انگلیسی"
+
+msgid "upload_new_image"
+msgstr "Upload photo"
+
+msgid "delete_image"
+msgstr "Remove"
+
+msgid "save_changed"
+msgstr "Save changes"
+
+msgid "The_file_type_is_not_supported"
+msgstr "This type of file is not supported."
+
+msgid "Could_not_open_GIF_file"
+msgstr "Could not open a GIF file."
+
+msgid "Could_not_open_PNG_file"
+msgstr "Could not open a PNG file."
+
+msgid "Could_not_open_JPG_file"
+msgstr "Could not open a JPG file."
+
+msgid "Could_not_create_new_image_from_source_file"
+msgstr "Failed to create a new image."
+
+msgid "Could_not_crop_the_image_with_the_provided_coordinates"
+msgstr "اندازه های ارسالی برای بریدن تصویر مناسب نیست"
+
+msgid "Could_not_save_GIF_file"
+msgstr "Could not save GIF file."
+
+msgid "Could_not_save_PNG_file"
+msgstr "Could not save PNG file."
+
+msgid "Could_not_save_JPG_file"
+msgstr "Could not save JPG file."
+
+msgid "add_pdf"
+msgstr "Add your resume"
+
+msgid "add_resume_hint"
+msgstr "You can upload a PDF file and max size 2MB."
+
+msgid "edit_and_delete_resume"
+msgstr "Delete and upload new resume"
+
+msgid "upload_resume"
+msgstr "Upload your resume"
+
+msgid "save_pdf_success"
+msgstr "Successfully saved resume."
+
+msgid "save_pdf_notsuccess"
+msgstr "Unable to save the resume. Please try again."
+
+msgid "add_resume"
+msgstr "Add your resume"
+
+msgid "resume_hint"
+msgstr "Share your resume with others and tell more about your details."
+
+msgid "tags"
+msgstr "Tagline"
+
+msgid "tag_hint"
+msgstr "Tag your experiences in 10 keywords"
+
+msgid "add_image_hint"
+msgstr "You can upload a JPG or PNG file. Do not upload pictures containing celebrities, nudity, artwork or copyrighted images. (max size 2MB & min dimension 200 × 200 pixels.)"
+
+msgid "width"
+msgstr "پهنا"
+
+msgid "height"
+msgstr "ارتفاع"
+
+msgid "add_cover_hint"
+msgstr "You can upload a JPG or PNG file and max size 4MB."
+
+msgid "disable_account_dtl1"
+msgstr " Are you sure you don't want to reconsider? Was it something we said? Please tell us. "
+
+msgid "disable_account_dtl2"
+msgstr "Before you deactivate "
+
+msgid "disable_account_dtl3"
+msgstr " know this:"
+
+msgid "disable_account_dtl4"
+msgstr "We absolutely do not store your Miningers information and data will be permanently deleted."
+
+msgid "disable_account_dtl5"
+msgstr "You don't need to deactivate your account to "
+
+msgid "disable_account_dtl6"
+msgstr "change your username"
+
+msgid "disable_account_dtl7"
+msgstr "or"
+
+msgid "disable_account_dtl8"
+msgstr "Miningers URL"
+
+msgid "disable_account_dtl9"
+msgstr ". You can change it on the settings page. All @replies and followers will remain unchanged."
+
+msgid "disable_account_dtl10"
+msgstr "If you want to use this account's username or email address on another Miningers account, "
+
+msgid "disable_account_dtl11"
+msgstr "change it"
+
+msgid "disable_account_dtl12"
+msgstr " before you deactivate. Until the user data is permanently deleted, that information won't be available for use."
+
+msgid "disable_account_dtl13"
+msgstr "Your account will be deleted from Miningers Within a few minutes. But part of the content of your account may be visible on the site until several days after the deactivate account."
+
+msgid "disable_account_dtl14"
+msgstr "We do not have any control over the content indexed by search engines like Google."
+
+msgid "disable_account_dtl15"
+msgstr ""
+
+msgid "enter_the_recipient_name"
+msgstr "Enter the recipient's name."
+
+msgid "register_comment4"
+msgstr "Miningers helps you to see right now in mining, geology, metallurgy, Geotechnics, Oil & Gas what's going on and always stay connected with the people and organizations that are important to you"
+
+msgid "follow_madanr_news"
+msgstr "Follow Miningers News"
+
+msgid "to_be_informed_of_news_mining_and_related_industries"
+msgstr "To be informed of news mining and related industries"
+
+msgid "or"
+msgstr "OR"
+
+msgid "search_all_events_Mine"
+msgstr "Search all events Mine"
+
+msgid "user_tags"
+msgstr "User Tags"
+
+msgid "user_tags"
+msgstr "تگ کاربران"
+
+msgid "add_usertag"
+msgstr "افزودن برچسب کاربر"
+
+msgid "usertags"
+msgstr "برچسب های کاربران"
+
+msgid "edit_usertag"
+msgstr "ویرایش برچسب کاربران"
+
+msgid "usertag"
+msgstr "برچسب کاربر"
+
+msgid "the_usertag_has_been_saved"
+msgstr "تگ با موفقیت ذخیره شد"
+
+msgid "the_usertag_could_not_be_saved"
+msgstr "تگ ذخیره نشد"
+
+msgid "invalid_id_for_usertag"
+msgstr "شماره تگ وارد شده نادرست است"
+
+msgid "delete_usertag_success"
+msgstr "تگ با موفقیت حذف شد"
+
+msgid "delete_usertag_not_success"
+msgstr "تگ حذف نشد"
+
+msgid "the_usertag_exist"
+msgstr "این برچسب وجود دارد"
+
+msgid "the_usertag_uses_from_users"
+msgstr "این برچسب توسط کاربران مورد استفاده قرار گرفته است"
+
+msgid "not_exist_email_to_invite"
+msgstr "Not exist email to invite"
+
+msgid "this_post_has_already_been_promoted"
+msgstr "This mineet has already been promoted"
+
+msgid "promote_post"
+msgstr "Promote"
+
+msgid "promote_post_by"
+msgstr "Promoted by"
+
+msgid "answer_on_post_you_answerd"
+msgstr " replied to the mineet that you've replied."
+
+msgid "iam"
+msgstr "I am a"
+
+msgid "user"
+msgstr "Person"
+
+msgid "contact_info"
+msgstr "Contact info"
+
+msgid "country_help"
+msgstr "Select your country"
+
+msgid "address"
+msgstr "Address"
+
+msgid "address_help"
+msgstr "Enter your office address"
+
+msgid "telephon"
+msgstr "Phon"
+
+msgid "telephon_help"
+msgstr "Enter your phone"
+
+msgid "fax"
+msgstr "Fax"
+
+msgid "follow_dtl1"
+msgstr "First you have to follow some of members to see their news. For following members click "
+
+msgid "here"
+msgstr "here"
+
+msgid "follow_dtl2"
+msgstr ""
+
+msgid "follow_more_users"
+msgstr "Follow more members"
+
+msgid "fax_help"
+msgstr " "
+
+msgid "headline"
+msgstr "Headline"
+
+msgid "headline_help"
+msgstr "Enter your current title or position"
+
+msgid "verify"
+msgstr "Verify"
+
+msgid "by_this_email_address_you_have_registered_on_MADANER_Please_edit_or_verify_it"
+msgstr "By this email address you have registered on Miningers. Can you confirm it?"
+
+msgid "verify_note_email"
+msgstr "Note: You will receive email notifucations, private message and password recovery by your verify email. If your email be incorrect, you may miss important messages from network."
+
+msgid "for_send_post_in_madaner_enter_your_mobile_number"
+msgstr "To send mineet via SMS tool in Miningers, enter your mobile number and confirm"
+
+msgid "edit_mobile"
+msgstr "Send verify code"
+
+msgid "active_infomadan_app"
+msgstr "Activation InfoMadan application"
+
+msgid "infomadan_app_dtl1"
+msgstr "Your company has registered on Miningers successfully. would you like to activate your company on InfoMadan? You can pay 600,000 IRR (including 40% discount) and activate your company on InfoMadan for 2 years. For activation on mobile application please Apply Now."
+
+msgid "infomadan"
+msgstr ""
+
+msgid "infomadan_app_dtl2"
+msgstr "The first mobile application for mining, geological, metallurgical and related industries enables you to reach thousands of qualified mining and related industries will be informed. Now try to activate it."
+
+msgid "infomadan_app_dtl3"
+msgstr "Your company successfully activated on InfoMadan."
+
+msgid "infomadan_app_dtl4"
+msgstr "Your company successfully activated on InfoMadan mobile app. Now complete and update your profile. Your information will be updated in InfoMadan."
+
+msgid "infomadan_app_dtl5"
+msgstr "Follow members and share new mineet about your company with your followers in Miningers. Be active and make your business flourish."
+
+msgid "sale_reference_id"
+msgstr "کد تراکنش :"
+
+msgid "infomadan_app_dtl6"
+msgstr "Your company has activated on InfoMadan mobile application."
+
+msgid "appuser_managment"
+msgstr "کاربران اینفومعدن"
+
+msgid "zoom"
+msgstr "Zoom"
+
+msgid "not_write_details"
+msgstr "still has not written anything about themselves"
+
+msgid "not_send_posts"
+msgstr "Not send any mineet"
+
+msgid "you_not_write_details"
+msgstr "You still have not written anything about yourself"
+
+msgid "not_send_post_send_new_post"
+msgstr "You still did not any mineet. Submit your first mineet."
+
+msgid "madaner"
+msgstr "Miningers"
+
+msgid "events"
+msgstr "Events"
+
+msgid "main_section"
+msgstr "Main Section"
+
+msgid "social_network"
+msgstr "Social Network"
+
+msgid "shop"
+msgstr "Shop"
+
+msgid "library"
+msgstr "Library"
+
+msgid "peoples"
+msgstr "Peoples"
+
+msgid "solutions"
+msgstr "Solutions"
+
+msgid "advertise_whit_us"
+msgstr "Advertise Whit Us"
+
+msgid "premium_membership"
+msgstr "Premium Membership"
+
+msgid "help_center"
+msgstr "Help Center"
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "terms"
+msgstr "Terms"
+
+msgid "follow_us"
+msgstr "Follow Us"
+
+msgid "me"
+msgstr "Me"
+
+msgid "hot_tags_this_week"
+msgstr "برچسب هاي داغ هفته گذشته"
+
+msgid "laste_week_users_registred"
+msgstr "Who are joined to Miningers at last week"
+
+msgid "email_dtl_register"
+msgstr "new member of the miningers"
+
+msgid "all_image_posts"
+msgstr "All minit"
+
+msgid "image_posts"
+msgstr "Photo Album"
+
+msgid "this_url_doesnt_exists"
+msgstr "This url doesnt exists"
+
+msgid "please_enter_link"
+msgstr "Please enter link"
+
+msgid "enter_correct_link"
+msgstr "Enter proper url, with http / https and www Ex: http://www.google.com"
+
+msgid "blog_title"
+msgstr "Blog title"
+
+msgid "channel_managment"
+msgstr "channel managment"
+
+msgid "channels"
+msgstr "channels"
+
+msgid "add_channel"
+msgstr "add channel"
+
+msgid "edit_channel"
+msgstr "edit channel"
+
+msgid "the_channel_has_been_saved"
+msgstr "the channel has been saved"
+
+msgid "the_channel_could_not_be_saved"
+msgstr "the channel could not be saved"
+
+msgid "invalid_id_for_channel"
+msgstr "invalid id for channel"
+
+msgid "delete_channel_success"
+msgstr "delete channel success"
+
+msgid "delete_channel_not_success"
+msgstr "delete channel not success"
+
+msgid "select_max_3_channel"
+msgstr "Select up to 3 channels"
+
+msgid "add_new_blog"
+msgstr "Add new blog"
+
+msgid "the_blog_has_been_saved"
+msgstr "Blog has been saved successfully"
+
+msgid "the_bloh_could_not_be_saved"
+msgstr "New blogs are not saved"
+
+msgid "set_image_to_blog"
+msgstr "You have not selected a photo blog"
+
+msgid "enter_title_for_blog"
+msgstr "Enter the blog tile"
+
+msgid "enter_body_for_blog"
+msgstr "Enter text blog"
+
+msgid "select_channel"
+msgstr "Please select at least one channel"
+
+msgid "are_you_sure_delete_image"
+msgstr "Are you sure you want to delete this picture?"
+
+msgid "image_not_deleted"
+msgstr "Image not deleted"
+
+msgid "are_you_sure_delete_blog"
+msgstr "Are you sure you want to delete this blog?"
+
+msgid "blog_not_deleted"
+msgstr "Blog not deleted"
+
+msgid "blog_preview_not_save"
+msgstr "Blog preview was not saved"
+
+msgid "blog_preview_save"
+msgstr "Blog preview was successfully saved"
+
+msgid "type_a_text_to_blog"
+msgstr "New comment on a blog post"
+
+msgid "send_comment"
+msgstr "Post comment"
+
+msgid "intro_detail4"
+msgstr "Miningers For Smartphones"
+
+msgid "intro_detail5"
+msgstr "You can easily share your Mineet, Join to conversation, Reply to mineets or Remineet them."
+
+msgid "blogcomment_not_deleted"
+msgstr "Blog comment not deleted"
+
+msgid "favorite_blog_success"
+msgstr "Added blog to favorites"
+
+msgid "favorite_blog_notsuccess"
+msgstr "Blogs are not added to favorites"
+
+msgid "unfavorite_blog_success"
+msgstr "Blogs are removed from the favorite list"
+
+msgid "unfavorite_blog_notsuccess"
+msgstr "Blogs were removed from favorites"
+
+msgid "view"
+msgstr "View"
+
+msgid "regdt1"
+msgstr "By clicking on Registration button, you are agreeing to all the Terms"
+
+msgid "regdt2"
+msgstr "Terms of Service"
+
+msgid "regdt3"
+msgstr ""
+
+msgid "are_you_sure_publish_blog"
+msgstr "Are you sure you publish a blog?"
+
+msgid "insert_link_in_box"
+msgstr "Please enter your desired link"
+
+msgid "insert_video_link_in_box"
+msgstr "Please enter a video link"
+
+msgid "enter_valid_iframe"
+msgstr "Enter the link for the video is not correct"
+
+msgid "edit_blog"
+msgstr "Edit blog"
+
+msgid "last_blog"
+msgstr "Last blog"
+
+msgid "published"
+msgstr "Published"
+
+msgid "my_blog"
+msgstr "My blog"
+
+msgid "minits"
+msgstr "Minits"
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "add_new_blog"
+msgstr "+ Add new blog"
+
+msgid "published_blog"
+msgstr "بلاگ را منتشر کرد"
+
+msgid "all_minit"
+msgstr "All minit"
+
+msgid "miningram_festival"
+msgstr "Miningram festival"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

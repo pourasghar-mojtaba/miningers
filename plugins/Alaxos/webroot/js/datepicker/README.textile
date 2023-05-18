@@ -1,0 +1,35 @@
+h1. Unobtrusive datePicker Widgit
+
+An attempt at writing a flexible, framework free, feature-rich and accessible datepicker. 
+
+h2. At a glance
+
+* Keyboard shortcuts adhere to "The DHTML Style Guide Working Group (DSGWG) recommendations":http://dev.aol.com/dhtml_style_guide#datepicker
+* Accessibility enhancements including support for ARIA Roles and States
+* The script can parse and format dates using a subset of the "PHP date":http://www.php.net/date/ conversion specifiers
+* Both upper and lower date limits can be set
+* Bespoke days of the week can be disabled
+* Bespoke dates can be disabled/enabled and wildcards used to stipulate the dates in question
+* Bespoke days of the week can be highlighted  
+* Works with any combination of text inputs or select lists  
+* DOM friendly - the calendar is only added to the DOM when actually required
+* Includes a "smart" localisation option and has been translated into 28 locales
+* Can display an optional status bar and week numbers within the U.I.
+* Can be dragged within the viewport by the user
+* Global configuration parameters can be specified using JSON within the script tag itself
+* The "button" used for popup datepickers can now be styled for default, hover, focus, active and disabled states, be arbitrarily positioned within the DOM and removed from the document tabindex if so desired
+* The "button" updates to show a small cursor should the associated form element contain a valid date
+* Inline datePickers possible (i.e. no button activation is required), are automatically added to the document tabindex and can be arbitrarily positioned within the DOM
+* A bespoke final opacity can be defined and the fade in/out animation effect disabled completely 
+* The entire grid can be filled with dates    
+* The "Today" button can be removed from the U.I.
+* Fully skinnable with CSS
+* Compatible down to IE6 
+
+h2. Demo 
+
+A comprehensive "demo":http://www.frequency-decoder.com/demo/datePicker/ showing most of the available functionality is available. 
+
+h2. More Info
+
+Full info on using the script can be found within the associated "blog post":http://www.frequency-decoder.com/2011/10/11/unobtrusive-accessible-datepicker-widgit-v6

@@ -1,0 +1,2737 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "name"
+msgstr "نام کامل"
+
+msgid "email"
+msgstr "پست الکترونیکی"
+
+msgid "confirm_email"
+msgstr "تکرار پست الکترونیکی"
+
+msgid "password"
+msgstr "رمز عبور"
+
+msgid "confirm_password"
+msgstr "تکرار رمز عبور"
+
+msgid "add_user_successfully"
+msgstr "کاربر با موفقیت ثبت شد"
+
+msgid "add_user_not_successfully"
+msgstr "کاربر ثبت نشد"
+
+msgid "register"
+msgstr "ثبت نام"
+
+msgid "login"
+msgstr "ورود"
+
+msgid "logout"
+msgstr "خروج"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "remember_me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "forget_password"
+msgstr "رمزم را فراموش کرده ام"
+
+msgid "pro_search"
+msgstr "جستجوی پیشرفته"
+
+msgid "search"
+msgstr "جستجو"
+
+msgid "site_title"
+msgstr "شبکه خبري معدن"
+
+msgid "not_valid_login"
+msgstr "پست الکترونیکی یا رمز عبور اشتباه است"
+
+msgid "login_sucsess"
+msgstr "به معدنر خوش آمدید!"
+
+msgid "exist_email"
+msgstr "این پست الکترونيکي قبلا ثبت شده است"
+
+msgid "register_successfully"
+msgstr "ثبت نام شما با موفقیت انجام شد و لینک فعال سازی به ایمیل شما ارسال شده است. لطفا برای فعال سازی حساب کاربری خود در معدنر، به ایمیلتان مراجعه کنید"
+
+msgid "register_not_successfully"
+msgstr "ثبت نام انجام نشد. دوباره تلاش کنید."
+
+msgid "exist_user_name"
+msgstr "اين نام کاربري قبلا گرفته شده است. آن را تغییر دهید."
+
+msgid "correct_email"
+msgstr "اين پست الکترونيکي مورد تاييد است"
+
+msgid "your_account_activation_successfully"
+msgstr "حساب کاربري شما با موفقيت فعال شد"
+
+msgid "your_account_not_activate"
+msgstr "حساب کاربري شما فعال نشد"
+
+msgid "not_exist_register_key"
+msgstr "کد فعال سازي وجود ندارد"
+
+msgid "incorrect_captcha"
+msgstr "تصوير امنيتي نادرست است"
+
+msgid "captcha"
+msgstr "تصوير امنيتي"
+
+msgid "join_to_madaner"
+msgstr " به معدنر بپیوندید"
+
+msgid "not_member"
+msgstr "تازه وارد هستید؟"
+
+msgid "register_comment1"
+msgstr "به معدنر خوش آمدید."
+
+msgid "register_comment2"
+msgstr "همه آنچه که در دنیای معدن اتفاق میافتد "
+
+msgid "register_comment3"
+msgstr "بینید برای افراد و سازمان هایی که برایتان مهم اند چه در حال روی دادن است"
+
+msgid "post_help1"
+msgstr "برای ارسال کلید enter را فشار دهید."
+
+msgid "post_help2"
+msgstr "شناسه باقی مانده است"
+
+msgid "home"
+msgstr "خانه"
+
+msgid "new_post"
+msgstr "خبر جدید"
+
+msgid "my_profile"
+msgstr "پروفایل من"
+
+msgid "help"
+msgstr "راهنما"
+
+msgid "setting"
+msgstr "تنظیمات"
+
+msgid "about"
+msgstr "درباره"
+
+msgid "download_mobile_ver"
+msgstr "موبایل"
+
+msgid "contact"
+msgstr "تماس"
+
+msgid "ads_requset"
+msgstr "تبلیغات"
+
+msgid "groups"
+msgstr "گروه ها"
+
+msgid "selections"
+msgstr "برگزیده ها"
+
+msgid "full_screen"
+msgstr "تمام صفحه"
+
+msgid "add_to_favorite_posts"
+msgstr "افزودن به برگزیده ها"
+
+msgid "my_post"
+msgstr "خبرهای من"
+
+msgid "post"
+msgstr "خبر"
+
+msgid "follow"
+msgstr "دنبال کنید"
+
+msgid "add_link"
+msgstr "افزودن لينک"
+
+msgid "save_post_success"
+msgstr "خبر شما با موفقيت ارسال شد"
+
+msgid "save_post_notsuccess"
+msgstr "خبر شما ارسال نشد"
+
+msgid "close"
+msgstr "بستن"
+
+msgid "message"
+msgstr "پیام"
+
+msgid "send"
+msgstr "ارسال"
+
+msgid "send_email"
+msgstr "ارسال پست الکترونيکي"
+
+msgid "send_message"
+msgstr "پيام خصوصی"
+
+msgid "add_link"
+msgstr "افزودن لينک"
+
+msgid "add"
+msgstr "افزودن"
+
+msgid "exist_link"
+msgstr "لینک وجود دارد"
+
+msgid "enter_post"
+msgstr "متن خبر را وارد کنيد"
+
+msgid "exist_image"
+msgstr "عکس وجود دارد"
+
+msgid "user_list"
+msgstr "ليست افراد"
+
+msgid "follow"
+msgstr "دنبال کنید"
+
+msgid "not_follow"
+msgstr "دنبال نکنید"
+
+msgid "can_not_follow"
+msgstr "دنبال کردن انجام نشد"
+
+msgid "can_not_cancel_follow"
+msgstr "دنبال نکردن انجام نشد"
+
+msgid "save_cover_image_success"
+msgstr "عکس رويه با موفقيت تغيير کرد"
+
+msgid "save_cover_image_notsuccess"
+msgstr "عکس رويه تغيير نکرد"
+
+msgid "save_image_success"
+msgstr "عکس کاربری با موفقيت تغيير کرد"
+
+msgid "save_image_notsuccess"
+msgstr "عکس کاربری تغيير نکرد"
+
+msgid "edit_profile_successfull"
+msgstr "ويرايش پروفايل با موفقيت انجام شد"
+
+msgid "edit_profile_notsuccessfull"
+msgstr "ويرايش پروفايل انجام نشد. دوباره تلاش کنید"
+
+msgid "edit_email_successfull"
+msgstr "ويرايش پست الکترونیکی با موفقيت انجام شد - برای فعال سازی مجدد به پست الکترونیکی که وارد کردید  مراجعه بفرمایید"
+
+msgid "edit_email_notsuccessfull"
+msgstr "ويرايش پست الکترونیکی انجام نشد. دوباره تلاش کنید"
+
+msgid "edit_password_successfull"
+msgstr "ويرايش رمز عبور با موفقيت انجام شد"
+
+msgid "edit_password_notsuccessfull"
+msgstr "ويرايش رمز عبور انجام نشد. دوباره تلاش کنید"
+
+msgid "not_valid_password"
+msgstr "رمز عبور معتبر نمی باشد"
+
+msgid "send_message_to"
+msgstr "ارسال پیام خصوصی به"
+
+msgid "message_content"
+msgstr "متن پیام"
+
+msgid "send_message_successfully"
+msgstr "پیام با موفقیت ارسال شد"
+
+msgid "send_message_not_successfully"
+msgstr "پيام ارسال نشد. دوباره تلاش کنید"
+
+msgid "the_user_block_you"
+msgstr "این کاربر شما را مسدود کرده است"
+
+msgid "block_success"
+msgstr "مسدود کردن با موفقیت انجام شد"
+
+msgid "can_not_block"
+msgstr "مسدود کردن انجام نشد. دوباره تلاش کنید"
+
+msgid "block_user_exist"
+msgstr "این کاربر مسدود شده است"
+
+msgid "add_comment_success"
+msgstr "یادداشت با موفقيت ارسال شد"
+
+msgid "add_comment_notsuccess"
+msgstr "یادداشت ارسال نشد. دوباره یادداشت کنید"
+
+msgid "not_found_address"
+msgstr "آدرس مورد نظر یافت نشد"
+
+msgid "save_info_successfully"
+msgstr "اطلاعات با موفقیت ذخیره شد"
+
+msgid "save_info_not_successfully"
+msgstr "اطلاعات ذخیره نشد. دوباره تلاش کنید"
+
+msgid "setting"
+msgstr "تنظیمات"
+
+msgid "save"
+msgstr "ذخیره"
+
+msgid "add_like_notsuccess"
+msgstr "پسندیدن انجام نشد"
+
+msgid "not_allow_repeat_like"
+msgstr "شما قبلا پسندیده اید"
+
+msgid "not_allow_repeat_ullike"
+msgstr "شما قبلا نپسندیده اید"
+
+msgid "yes"
+msgstr "بله"
+
+msgid "no"
+msgstr "خیر"
+
+msgid "are_you_sure"
+msgstr "از حذف این خبر مطمئن هستید؟"
+
+msgid "warning"
+msgstr "اخطار"
+
+msgid "delete_message_success"
+msgstr "پیام با موفقیت حذف شد"
+
+msgid "delete_message_not_success"
+msgstr "پیام حذف نشد. دوباره تلاش کنید"
+
+msgid "enter_name"
+msgstr "نام کامل را وارد کنيد"
+
+msgid "enter_user_name"
+msgstr "نام کاربري را وارد کنيد"
+
+msgid "enter_email"
+msgstr "پست الکترونيکي را وارد کنيد"
+
+msgid "enter_valid_email"
+msgstr "پست الکترونيکي صحيح را وارد کنيد"
+
+msgid "enter_password"
+msgstr "رمز عبور را وارد کنيد"
+
+msgid "enter_valid_length"
+msgstr "رمز عبور بايد بيشتر از 6 کاراکتر باشد"
+
+msgid "not_valid_repassword"
+msgstr "رمز هاي عبور وارد شده يکسان نيستند. دوباره وارد کنید."
+
+msgid "send_pass_successfully"
+msgstr "رمز عبور با موفقيت ارسال شد"
+
+msgid "send_pass_not_successfully"
+msgstr "رمز عبور ارسال نشد. دوباره تلاش کنید."
+
+msgid "selected_max_user"
+msgstr "به بیش از 5 نفر نمی توانید پیام ارسال کنید"
+
+msgid "not_repeated_user_to_send_message"
+msgstr "کاربر تکراری را نمی توانید انتخاب کنید"
+
+msgid "block"
+msgstr "مسدود کردن"
+
+msgid "unblock"
+msgstr "از مسدودی در آوردن"
+
+msgid "unblock_success"
+msgstr "رفع مسدودی با موفقیت انجام شد"
+
+msgid "can_not_unblock"
+msgstr "رفع مسدودی انجام نشد"
+
+msgid "not_allow_repeated_share"
+msgstr "این خبر را قبلا به اشتراک گذاشته اید"
+
+msgid "share_post_success"
+msgstr "این خبر با موفقیت به اشتراک گذاشته شد"
+
+msgid "share_post_notsuccess"
+msgstr "این خبر به اشتراک گذاشته نشد"
+
+msgid "not_find_share"
+msgstr "اشتراک گذاری برای این پست یافت نشد"
+
+msgid "unshare_post_success"
+msgstr "اشتراک گذاری با موفقیت برداشته شد"
+
+msgid "unshare_post_notsuccess"
+msgstr "اشتراک گذاری برداشته نشد"
+
+msgid "edit_privacy_successfull"
+msgstr "حريم خصوصي با موفقيت تغيير کرد"
+
+msgid "edit_privacy_notsuccessfull"
+msgstr "حريم خصوصي تغيير نکرد"
+
+msgid "allow_privacy_for_chaser"
+msgstr " فقط برای دنبال کننده ها در این بخش اجازه دسترسی داده است"
+
+msgid "allow_privacy_for_follow_payee"
+msgstr " فقط برای دنبال شونده ها در این بخش اجازه دسترسی  داده است"
+
+msgid "allow_privacy_for_chaser_follow_payee"
+msgstr " فقط برای دنبال شونده ها و دنبال کننده ها در این بخش اجازه دسترسی  داده است"
+
+msgid "not_allow_privacy"
+msgstr " در این بخش به هیچ کسی اجازه دسترسی نداده است"
+
+msgid "post_deleted_successfully"
+msgstr "خبر با موفقیت حذف شد"
+
+msgid "post_deleted_notsuccessfully"
+msgstr "خبر حذف نشد"
+
+msgid "active_account"
+msgstr "فعال سازی حساب کاربری"
+
+msgid "send_password"
+msgstr "ارسال رمز عبور "
+
+msgid "your_password"
+msgstr "رمز عبور شما:"
+
+msgid "edit_all_info"
+msgstr "ویرایش پروفایل"
+
+msgid "edit_account_info"
+msgstr "ویرایش حساب کاربری"
+
+msgid "edit_email"
+msgstr "تغییر پست الکترونیکی "
+
+msgid "edit_pasword"
+msgstr "تغییر رمز عبور"
+
+msgid "privacy"
+msgstr "حریم خصوصی"
+
+msgid "follow_payees"
+msgstr "دنبال شونده ها "
+
+msgid "chasers"
+msgstr "دنبال کننده ها"
+
+msgid "messages"
+msgstr "پیام های خصوصی"
+
+msgid "new_message"
+msgstr "پیام جدید "
+
+msgid "this_post_with"
+msgstr "اشتراک گذاشته شده توسط"
+
+msgid "shared"
+msgstr "اشتراک از"
+
+msgid "character_extant"
+msgstr "شناسه باقی مانده است"
+
+msgid "user_type"
+msgstr "نوع کاربر"
+
+msgid "single"
+msgstr "فرد "
+
+msgid "user_name"
+msgstr "نام کاربری"
+
+msgid "not_exist"
+msgstr "وجود ندارد"
+
+msgid "edit_info"
+msgstr "ویرایش پروفایل"
+
+msgid "write_new_post"
+msgstr "چه خبر از معدن؟"
+
+msgid "character"
+msgstr "شناسه"
+
+msgid "users"
+msgstr "کاربران"
+
+msgid "companies"
+msgstr "شرکت ها"
+
+msgid "job_chances"
+msgstr "فرصت های شغلی"
+
+msgid "rules"
+msgstr "شرایط خدمات"
+
+msgid "mobile"
+msgstr "موبایل"
+
+msgid "comment_privacy"
+msgstr "به افراد زیر اجازه می دهم تا به خبرهای من پاسخ دهند"
+
+msgid "everyone"
+msgstr "همه"
+
+msgid "followers"
+msgstr "دنبال کننده ها"
+
+msgid "follow_payees"
+msgstr "دنبال شونده ها"
+
+msgid "followers_and_follow_payee"
+msgstr "دنبال کننده ها و دنبال شونده ها"
+
+msgid "no_one"
+msgstr "هیچ کس"
+
+msgid "share_privacy"
+msgstr "به افراد زیر اجازه می دهم تا خبرهای من را با شبکه خود به اشتراک بگذارند"
+
+msgid "message_privacy"
+msgstr "به افراد زیر اجازه می دهم تا برای من پیام مستقیم ارسال کنند"
+
+msgid "updates"
+msgstr "بروزرسانی"
+
+msgid "follower"
+msgstr "دنبال کننده ها"
+
+msgid "follow_payee"
+msgstr "دنبال شونده ها"
+
+msgid "industry_category"
+msgstr "دسته بندی صنعت ها"
+
+msgid "all"
+msgstr "همه"
+
+msgid "people"
+msgstr "افراد"
+
+msgid "change_password"
+msgstr "تغییر رمز عبور "
+
+msgid "old_password"
+msgstr "رمز عبور قبلی"
+
+msgid "new_password"
+msgstr "رمز عبور جدید"
+
+msgid "repeat_new_password"
+msgstr "تکرار رمز عبور جدید"
+
+msgid "change_email"
+msgstr "تغییر پست الکترونیکی"
+
+msgid "old_email"
+msgstr "آدرس پست الکترونیکی قبلی"
+
+msgid "new_email"
+msgstr "آدرس پست الکترونیکی جدید"
+
+msgid "repeate_new_email"
+msgstr "تکرار آدرس پست الکترونیکی جدید"
+
+msgid "company"
+msgstr "شرکت"
+
+msgid "edit_account"
+msgstr "ویرایش حساب کاربری"
+
+msgid "sex"
+msgstr "جنسیت"
+
+msgid "woman"
+msgstr "زن"
+
+msgid "man"
+msgstr "مرد"
+
+msgid "email_privacy_comment"
+msgstr "اجازه می دهم دیگران من را از طریق نشانی ایمیلم پیدا کنند"
+
+msgid "edit_cover"
+msgstr "ویرایش عکس رویه"
+
+msgid "cover_size"
+msgstr "(ابعاد توصیه شده 250×700 پیکسل)"
+
+msgid "edit_profile_image"
+msgstr "ویرایش عکس کاربری"
+
+msgid "profile_image_size"
+msgstr " اين عكس شناسايى شما در معدنر است و همراه با خبر‌هاى شما ظاهر مى‌شود.(ابعاد توصیه شده 200×200 پیکسل)"
+
+msgid "name_help"
+msgstr "نام واقعی تان را وارد کنید. در نتیجه افرادی که شما را می شناسند می توانند شما را شناسایی کنند"
+
+msgid "full_name"
+msgstr "نام کامل"
+
+msgid "industry"
+msgstr "صنعت"
+
+msgid "industry_help"
+msgstr "زمینه فعالیت حرفه ای شما کدام است؟"
+
+msgid "location"
+msgstr "مکان"
+
+msgid "location_help"
+msgstr "کجای ایران هستید؟ نام شهرتان را بنویسید."
+
+msgid "web_site"
+msgstr "وبسایت"
+
+msgid "web_site_help"
+msgstr "وبسایت یا وبلاگی دارید؟ نام آن را وارد کنید. "
+
+msgid "letter_of_introduction"
+msgstr "درباره من"
+
+msgid "char_detail1"
+msgstr "خودتان را حداکثر با"
+
+msgid "char_detail2"
+msgstr "شناسه معرفی کنید. (بصورت موردی)"
+
+msgid "enter_text"
+msgstr "شما هیچ متنی وارد نکرده اید!"
+
+msgid "image_added"
+msgstr "عکس"
+
+msgid "link_added"
+msgstr "لینک"
+
+msgid "copmanies"
+msgstr "شرکت ها"
+
+msgid "edit_profile_description"
+msgstr "در این بخش کاربران می توانند پروفایل خود را ویرایش نماییند"
+
+msgid "edit_account_description"
+msgstr "در این بخش می توانید حساب کاربری خود را ویرایش نمایید"
+
+msgid "edit_email_description"
+msgstr "در این قسمت می توان پست الکترنیکی را ویرایش نمود"
+
+msgid "edit_password_description"
+msgstr "در این قسمت رمز عبئر را می توان ویرایش نمود"
+
+msgid "search_description"
+msgstr "در این قسمت می توان کاربران درون شبکه را جستجو کرد"
+
+msgid "loading"
+msgstr "در حال بارگزاري"
+
+msgid "edit_privacy"
+msgstr "ویرایش حریم خصوصی"
+
+msgid "new_recived_message"
+msgstr "پیام های دریافتی جدید"
+
+msgid "new_follows"
+msgstr "جدیدترین دنبال کننده ها"
+
+msgid "enter_valid_user_name"
+msgstr " نام کاربری صحیح را وارد کنید ، از کاراکتر های a تا z و A تا Z و _ و 0 تا 9 میتوانبد استفاده کنید"
+
+msgid "send_email_setting"
+msgstr "آگاه سازی ایمیلی"
+
+msgid "edit_send_email_setting"
+msgstr "ویرایش آگاه سازی ایمیلی"
+
+msgid "send_email_help"
+msgstr "ایمیل هایی که معدنر برای تان ارسال می کند را کنترل کنید."
+
+msgid "send_email_info"
+msgstr "فعالیت های مرتبط به شما و خبرهایتان"
+
+msgid "send_email_for_me_on"
+msgstr "ارسال ایمیل به من وقتی"
+
+msgid "send_email_forme_onshared"
+msgstr "خبرهای من به اشتراک گذاشته می شوند."
+
+msgid "send_email_forme_oncomment"
+msgstr "خبرهای من یادداشت دریافت کرده اند."
+
+msgid "send_email_forme_onfollow"
+msgstr "توسط فردی جدید دنبال شدم."
+
+msgid "send_email_forme_onmessage"
+msgstr "پیام خصوصی دریافت کرده ام."
+
+msgid "edit_send_email_setting_successfull"
+msgstr "ویرایش آگاه سازی ایمیل با موفقیت انجام شد"
+
+msgid "edit_send_email_setting_notsuccessfull"
+msgstr "ویرایش آگاه سازی ایمیل انجام نشد"
+
+msgid "sharing_post"
+msgstr "اشتراک گذاری خبر شما"
+
+msgid "comment_on_your_post"
+msgstr "پاسخ به خبر شما"
+
+msgid "follow_with_you"
+msgstr "توسط شما دنبال شده است"
+
+msgid "message_for_you"
+msgstr "ارسال پیام خصوصی براي شما"
+
+msgid "dear_user"
+msgstr "کاربر گرامی"
+
+msgid "share_your_post"
+msgstr "خبر شما را به اشتراک گذاشته است."
+
+msgid "change_setting"
+msgstr "تغییر تنظیمات"
+
+msgid "send_comment_on_your_post"
+msgstr "درباره خبر شما یادداشت نوشته است."
+
+msgid "follow_you_with"
+msgstr "شما را در معدنر دنبال می کند."
+
+msgid "send_message_for_you"
+msgstr "برای شما یک پیام خصوصی ارسال کرده است."
+
+msgid "save_blog_successfull"
+msgstr "اطلاعات با موفقیت ذخیره شد"
+
+msgid "save_blog_notsuccessfull"
+msgstr "اطلاعات ذخیره نشد"
+
+msgid "please_enter_valid_username_and_password"
+msgstr "لطفا نام کاربری و رمز عبور معتبر را وارد کنید"
+
+msgid "can_not_login_in_admin"
+msgstr "شما نمیتوانید وارد قسمت مدیریت شوید"
+
+msgid "please_login_with_your_email_and_password"
+msgstr "لطفا با پست الکترونيکي و رمز عبور وارد پنل شويد"
+
+msgid "insert_information"
+msgstr "اطلاعات را وارد کنيد"
+
+msgid "insert_captcha"
+msgstr "تصوير امنيتي را وارد کنيد"
+
+msgid "dashboard"
+msgstr "داشبورد"
+
+msgid "industry_managment"
+msgstr "مدیریت صنایع"
+
+msgid "permision_and_users"
+msgstr "سطح دسترسی و کاربران"
+
+msgid "role_managment"
+msgstr "مدیریت نقش ها"
+
+msgid "role_parivacy_managment"
+msgstr "مدیریت دسترسی نقش ها"
+
+msgid "user_managment"
+msgstr "مدیریت کاربران"
+
+msgid "base_info"
+msgstr "اطلاعات پایه"
+
+msgid "records_per_page"
+msgstr "تعداد رکورد ها در صفحه"
+
+msgid "roles"
+msgstr "نقش ها"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "edit"
+msgstr "ويرايش"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "id"
+msgstr "شماره"
+
+msgid "role"
+msgstr "نقش"
+
+msgid "status"
+msgstr "وضعيت"
+
+msgid "created"
+msgstr "تاريخ ايجاد"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "inactive"
+msgstr "غير فعال"
+
+msgid "action"
+msgstr "عمليات"
+
+msgid "next"
+msgstr "بعدي"
+
+msgid "prev"
+msgstr "قبلي"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "save_change"
+msgstr "ذخیره تغییرات"
+
+msgid "cancel"
+msgstr "انصراف"
+
+msgid "the_role_has_been_saved"
+msgstr "نقش با موفقیت ذخیره شد"
+
+msgid "the_role_could_not_be_saved"
+msgstr "نقش ذخیره نشد ، دوباره تلاش کنید"
+
+msgid "enter_the_role"
+msgstr "نقش را وارد کنید"
+
+msgid "edit_role"
+msgstr "ویرایش نقش"
+
+msgid "invalid_id_for_role"
+msgstr "نقش نامعتبر می باشد"
+
+msgid "r_u_sure"
+msgstr "آیا مطمئن هستید؟"
+
+msgid "delete_role_success"
+msgstr "نقش با موفقیت حذف شد"
+
+msgid "permision"
+msgstr "دسترسی"
+
+msgid "invalid_permision"
+msgstr "شما حق دسترسي به اين قسمت را نداريد!"
+
+msgid "add_permission_notsuccess"
+msgstr "ایجاد دسترسی انجام نشد"
+
+msgid "delete_permission_notsuccess"
+msgstr "دسترسی برداشته نشد"
+
+msgid "part"
+msgstr "بخش"
+
+msgid "action"
+msgstr "عمل"
+
+msgid "title_per"
+msgstr "عنوان فارسی"
+
+msgid "title_eng"
+msgstr "عنوان انگلیسی"
+
+msgid "industries"
+msgstr "لیست صنایع"
+
+msgid "add_industry"
+msgstr "افزودن صنعت"
+
+msgid "the_industry_has_been_saved"
+msgstr "صنعت با موفقیت ذخیره شد"
+
+msgid "the_industry_could_not_be_saved"
+msgstr "صنعت ذخیره نشد"
+
+msgid "edit_industry"
+msgstr "ویرایش صنعت"
+
+msgid "invalid_id_for_industry"
+msgstr "صنعت نا معتبر است"
+
+msgid "delete_industry_success"
+msgstr "حذف صنعت با موفقیت انجام شد"
+
+msgid "visit_site"
+msgstr "دیدن سایت"
+
+msgid "add_user"
+msgstr "افزودن کاربر"
+
+msgid "invalid_id_for_user"
+msgstr "کاربر نا معتبر است"
+
+msgid "delete_user_success"
+msgstr "کاربر با موفقیت حذف شد"
+
+msgid "delete_user_not_success"
+msgstr "کاربر حذف نشد"
+
+msgid "delete_role_not_success"
+msgstr "نقش حذف نشد"
+
+msgid "delete_industry_not_success"
+msgstr "صنعت حذف نشد"
+
+msgid "cant_delete_first_delete_post"
+msgstr "نمیتوانید این کاربر را حذف کنید ، ابتدا پست های کاربر را حذف نمایید"
+
+msgid "cant_delete_first_delete_blog"
+msgstr "نمیتوانید این کاربر را حذف کنید ، ابتدا بلاگ کاربر را حذف نمایید"
+
+msgid "managment_item"
+msgstr "اطلاعات سمت مدیریت سایت"
+
+msgid "blog_managment"
+msgstr "مدیریت بلاگ"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "blogs"
+msgstr "لیست بلاگها"
+
+msgid "add_blog"
+msgstr "افزودن بلاگ"
+
+msgid "add_per_blog"
+msgstr "افزودن بلاگ فارسی"
+
+msgid "add_eng_blog"
+msgstr "افزودن بلاگ انگلیسی"
+
+msgid "edit_blog"
+msgstr "ویرایش بلاگ"
+
+msgid "edit_per_blog"
+msgstr "ویرایش بلاگ فارسی"
+
+msgid "edit_eng_blog"
+msgstr "ویرایش بلاگ انگلیسی"
+
+msgid "tag"
+msgstr "برچسب"
+
+msgid "separate_with_sharp"
+msgstr "با # جدا کنيد"
+
+msgid "the_blog_has_been_saved"
+msgstr "بلاگ با موفقيت ذخيره شد"
+
+msgid "invalid_id_for_blog"
+msgstr "بلاگ مورد نظر اشتباه است"
+
+msgid "the_blog_could_not_be_saved"
+msgstr "بلاگ ذخيره نشد"
+
+msgid "delete_blog_success"
+msgstr "بلاگ با موفقيت حذف شد"
+
+msgid "delete_blog_not_success"
+msgstr "بلاگ حذف نشد"
+
+msgid "edit_user"
+msgstr "ویرایش کاربر"
+
+msgid "profile_image"
+msgstr "تصویر پروفایل"
+
+msgid "profile_cover_image"
+msgstr "تصویر رویه پروفایل"
+
+msgid "the_user_has_been_saved"
+msgstr "کاربر با موفقیت ذخیره شد"
+
+msgid "the_user_not_saved"
+msgstr "کاربر ذخیره نشد"
+
+msgid "invalid_2_password"
+msgstr "رمزهای عبور وارد شده با هم تطابق ندارند"
+
+msgid "repeated_user_name"
+msgstr "نام کاربری تکراری است"
+
+msgid "total_members"
+msgstr "تعداد کاربران"
+
+msgid "today_members"
+msgstr "کاربر امروز ثبت نام کرده اند"
+
+msgid "total_posts"
+msgstr "پست هاي کاربران"
+
+msgid "today_posts"
+msgstr "پست امروز ارسال شده است"
+
+msgid "managment_info"
+msgstr "اطلاعات مدير"
+
+msgid "new_members"
+msgstr "جديدترين کاربران"
+
+msgid "weekly_info"
+msgstr "آمار هفبرچسبي"
+
+msgid "new_registers"
+msgstr "ثبت نامي هاي جديد"
+
+msgid "new_folows"
+msgstr "جديدترين دنبال کننده ها"
+
+msgid "new_posts"
+msgstr "جديدترين پست"
+
+msgid "new_comments"
+msgstr "جديدترين کامنت"
+
+msgid "inbound_links"
+msgstr "وروديهاي سايت"
+
+msgid "site_viewed_chart"
+msgstr "نمودار بازديد سايت"
+
+msgid "invalid_user_name"
+msgstr "نام کاربری وارد شده معتبر نمی باشد - از حروف a-z و A-Z و 0-9 و _ می توانید استفاده کنید"
+
+msgid "invalid_industry"
+msgstr "صنعت را انتخاب کنید"
+
+msgid "invalid_name"
+msgstr "نام کامل را وارد کنید"
+
+msgid "welcome_to_madaner"
+msgstr "به سایت معدنر خوش آمدید"
+
+msgid "rdt1"
+msgstr "به جمع اعضای "
+
+msgid "rdt2"
+msgstr "شبکه خبری معدن"
+
+msgid "rdt3"
+msgstr "خوش آمدید."
+
+msgid "rdt4"
+msgstr "لطفا با کلیک بر روی لینک زیر، این آدرس پست الکترونیکی را در معدنر تایید کنید:"
+
+msgid "rdt5"
+msgstr "سایر افراد نیز احتمالا شما را با این آدرس پست الکترونیکی، در شبکه خبری معدنر جستجو خواهند کرد. همچنین اگر بخواهید می توانید آدرس پست الکترونیکی دیگری را بعنوان آدرس پست الکترونیکی تان تنظیم کنید تا اطلاعیه ها، خبرنامه ها و سایر نامه های الکترونیکی به آن آدرس برایتان ارسال شود:"
+
+msgid "madaner_patronage_team"
+msgstr "تیم پشتیبانی معدنر"
+
+msgid "body"
+msgstr "مطلب"
+
+msgid "cbody"
+msgstr "ادامه مطلب"
+
+msgid "blog_title"
+msgstr "بلاگ سایت"
+
+msgid "blog_continuance"
+msgstr "ادامه مطلب"
+
+msgid "share_in_madaner"
+msgstr "اشتراک گذاری در معدنر"
+
+msgid "share_in_facebook"
+msgstr "اشتراک گذاری در فیسبوک"
+
+msgid "share_in_twitter"
+msgstr "اشتراک گذاری در توئیتر"
+
+msgid "writer"
+msgstr "نویسنده"
+
+msgid "viewed"
+msgstr "بازدید"
+
+msgid "blog_dt1"
+msgstr "شما خبرنگار ما باشید"
+
+msgid "blog_dt2"
+msgstr "این متن پس از تایید با اسم شما در بلاگ سایت ثبت خواهد شد."
+
+msgid "enter_text_for_blog"
+msgstr "چیزی بنویسید"
+
+msgid "error"
+msgstr "خطا"
+
+msgid "not_valid_blog"
+msgstr "بلاگ نامعتبر است"
+
+msgid "search_blog_with_tag"
+msgstr "جستجوی بلاگ بر اساس برچسب"
+
+msgid "search_in_archive"
+msgstr "جستجو در آرشیو"
+
+msgid "year"
+msgstr "سال"
+
+msgid "month"
+msgstr "ماه"
+
+msgid "part_of_search_text"
+msgstr "بخشی از متن مورد جستجو"
+
+msgid "file_added"
+msgstr "فايل افزوده شد"
+
+msgid "ext_is_doc"
+msgstr "فايل بايد به صورت word باشد"
+
+msgid "the_blog_has_been_saved"
+msgstr "بلاگ با موفقيت ذخيره شد- با تاييد مديريت در سايت قرار مي گيرد"
+
+msgid "the_blog_no_saved"
+msgstr "بلاگ ذخيره نشد"
+
+msgid "file"
+msgstr "فايل"
+
+msgid "attach_file"
+msgstr "فايل دارد"
+
+msgid "not_attach_file"
+msgstr "فايل ندارد"
+
+msgid "get_file"
+msgstr "دريافت فايل"
+
+msgid "blog"
+msgstr "بلاگ سايت"
+
+msgid "with"
+msgstr "با"
+
+msgid "blog_dt3"
+msgstr "در سایت می توانید مطالب خود را برای ما ارسال فرمایید"
+
+msgid "answer_to"
+msgstr "پاسخ به"
+
+msgid "network_system"
+msgstr "سیستم شبکه"
+
+msgid "post_managment"
+msgstr "مدیریت پست"
+
+msgid "posts"
+msgstr "پست ها"
+
+msgid "add_post"
+msgstr "افزودن پست"
+
+msgid "edit_post"
+msgstr "ویرایش پست"
+
+msgid "link"
+msgstr "لینک"
+
+msgid "image"
+msgstr "عکس"
+
+msgid "the_post_has_been_saved"
+msgstr "پست با موفقیت ذخیره شد"
+
+msgid "the_post_not_saved"
+msgstr "پست ذخیره نشد"
+
+msgid "invalid_id_for_post"
+msgstr "پست معتبر نمی باشد"
+
+msgid "the_post_deleted"
+msgstr "پست با موفقیت حذف شد"
+
+msgid "the_post_not_deleted"
+msgstr "پست حذف نشد"
+
+msgid "file_managment"
+msgstr "مدیریت فایلها"
+
+msgid "site_tags"
+msgstr "برچسب هاي سايت"
+
+msgid "page_managment"
+msgstr "مدیریت صفحات"
+
+msgid "pages"
+msgstr "صفحات"
+
+msgid "the_page_has_been_saved"
+msgstr "صفحه با موفقیت ذخیره شد"
+
+msgid "invalid_id_for_page"
+msgstr "صفحه مورد نظر موجود نمی باشد"
+
+msgid "the_page_could_not_be_saved"
+msgstr "صفحه ذخیره نشد"
+
+msgid "edit_page"
+msgstr "ویرایش صفحه"
+
+msgid "meta"
+msgstr "خلاصه توضیحات"
+
+msgid "keyword"
+msgstr "کلمات کلیدی"
+
+msgid "your_new_password"
+msgstr "رمز عبور جدید شما"
+
+msgid "backup_managment"
+msgstr "پشتیبان گیری"
+
+msgid "not_exist_user"
+msgstr "کاربر وجود ندارد"
+
+msgid "edit_profile"
+msgstr "ویرایش پروفایل"
+
+msgid "follow_you"
+msgstr "شما را دنبال کرده است"
+
+msgid "post_for_you"
+msgstr "به خبر شما پاسخ داد"
+
+msgid "share_your_post"
+msgstr "خبر شما را به اشتراک گذاشت"
+
+msgid "like_your_post"
+msgstr "خبر شما را پسنديد"
+
+msgid "unlike_your_post"
+msgstr "خبر شما را نپسنديد"
+
+msgid "register_key"
+msgstr "کد فعال سازي"
+
+msgid "student"
+msgstr "دانشجو"
+
+msgid "hvyay_work"
+msgstr "جویای شغل"
+
+msgid "employed"
+msgstr "شاغل"
+
+msgid "phd"
+msgstr "دکترا"
+
+msgid "ma"
+msgstr "فوق لیسانس"
+
+msgid "bachelor"
+msgstr "لیسانس"
+
+msgid "diploma"
+msgstr "فوق دیپلم"
+
+msgid "diplom"
+msgstr "دیپلم"
+
+msgid "university_name"
+msgstr "نام دانشگاه"
+
+msgid "job_title"
+msgstr "عنوان شغل"
+
+msgid "company_name"
+msgstr "نام شرکت"
+
+msgid "job_status"
+msgstr "وضعیت شغلی"
+
+msgid "degree"
+msgstr "مقطع تحصیلی"
+
+msgid "add_page"
+msgstr "افزودن صفحه"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "delete_page_success"
+msgstr "حذف صفحه با موفقیت انجام شد"
+
+msgid "delete_page_not_success"
+msgstr "صفحه حذف نشد"
+
+msgid "parent_page"
+msgstr "صفحه والد"
+
+msgid "main_page"
+msgstr "صفحه اصلی"
+
+msgid "not_exist_child_page"
+msgstr "زير صفحه وجود ندارد"
+
+msgid "little_body"
+msgstr "توضيح کوتاه"
+
+msgid "chaser"
+msgstr "دنبال کننده"
+
+msgid "select_job_status"
+msgstr "وضعیت شغلی را انتخاب کنید"
+
+msgid "same_follower"
+msgstr "دنبال کننده یکسان"
+
+msgid "favorite_post"
+msgstr "خبر های برگزیده"
+
+msgid "my_favorite_post"
+msgstr "خبر های برگزیده من"
+
+msgid "favorite_post_success"
+msgstr "خبر به لیست برگزیده ها اضافه شد"
+
+msgid "favorite_post_notsuccess"
+msgstr "خبر به لیست برگزیده ها اضافه نشد"
+
+msgid "unfavorite_post_success"
+msgstr "خبر از لیست برگزیده ها برداشته شد"
+
+msgid "unfavorite_post_notsuccess"
+msgstr "خبر از لیست برگزیده ها  برداشته نشد"
+
+msgid "send_infraction_report"
+msgstr "ارسال گزارش خلاف"
+
+msgid "reason_for_infraction_report"
+msgstr "دلیلتان را بنویسید"
+
+msgid "enter_infraction_report"
+msgstr "دلیلتان را وارد کنید"
+
+msgid "you_send_infraction_report"
+msgstr "شما قبلا یک بار گزارش ارسال کرده اید"
+
+msgid "send_infraction_report_successfully"
+msgstr "گزارش خلاف با موفقیت ارسال شد"
+
+msgid "send_infraction_report_not_successfully"
+msgstr "گزارش خلاف ارسال نشد"
+
+msgid "infraction_report_managment"
+msgstr "مدیریت گزارش خلاف"
+
+msgid "the_infraction_report_deleted"
+msgstr "گزارش حذف شد"
+
+msgid "the_infraction_report_not_deleted"
+msgstr "گزارش حذف نشد"
+
+msgid "report"
+msgstr "گزارش"
+
+msgid "infraction_report"
+msgstr "گزارش خلاف"
+
+msgid "infraction_report_post"
+msgstr "گزارش خلاف پست"
+
+msgid "send_infraction_report_post"
+msgstr "گزارش"
+
+msgid "send_infraction_report_post_hint"
+msgstr "اگر شما معتقدید که محتوای این خبر  بر خلاف قوانین و شرایط  خدمات معدنر است . لطفا در مورد ان کمی توضیح دهید"
+
+msgid "send_infraction_report_hint"
+msgstr "اگر شما معتقدید که اطلاعات این پروفایل  بر خلاف قوانین و شرایط  خدمات معدنر است . لطفا در مورد ان کمی توضیح دهید"
+
+msgid "send_infraction_report_post_hint1"
+msgstr "گزارش شما کاملا محرمانه تلقی می شود و در راستای خدمت رسانی بهتر شبکه به کاربران خود می باشد"
+
+msgid "from_user"
+msgstr "از طرف"
+
+msgid "search_in_report_content"
+msgstr "جستجو رو متن گزارش"
+
+msgid "disable_account"
+msgstr "غير فعال سازي حساب کاربري"
+
+msgid "user_post_image"
+msgstr "پست های تصویری کاربر"
+
+msgid "newsletter_management"
+msgstr "مدیریت خبرنامه"
+
+msgid "newsletters"
+msgstr "خبرنامه ها"
+
+msgid "add_newsletter"
+msgstr "افزودن خبرنامه"
+
+msgid "the_newsletter_has_been_saved"
+msgstr "خبرنامه با موفقیت ذخیره شد"
+
+msgid "the_newsletter_could_not_be_saved"
+msgstr "خبرنامه ذخیره نشد"
+
+msgid "invalid_id_for_newsletter"
+msgstr "خبرنامه نا معتبر است"
+
+msgid "delete_newsletter_success"
+msgstr "خبرنامه با موفقیت حذف شد"
+
+msgid "delete_newsletter_not_success"
+msgstr "خبرنامه حذف نشد"
+
+msgid "edit_newsletter"
+msgstr "ویرایش خبرنامه"
+
+msgid "send_post_with_sms"
+msgstr "فعال سازی پیامک معدنر "
+
+msgid "send_post_with_sms_help"
+msgstr "شماره موبایل خود را وارد کرده، و پس از دریافت کد تایید در موبایلتان ان را در باکس دریافت کد تایید وارد کرده و گزینه تایید را کلید گنید."
+
+msgid "mobile_number"
+msgstr "شماره موبایل"
+
+msgid "ok"
+msgstr "تایید"
+
+msgid "not_send_verify_code"
+msgstr "کد تاییده ارسال نشد"
+
+msgid "send_verify_code_successfull"
+msgstr "کد تاییده با موفقیت ارسال شد"
+
+msgid "send_verify_code_notsuccessfull"
+msgstr "کد تاییده ارسال نشد"
+
+msgid "the_mobile_verified_successfull"
+msgstr "شماره موبایل شما با موفقیت تایید شد - برای ارسال خبر به شماره 500020444 پیامک ارسال فرمایید"
+
+msgid "the_mobile_verified_notsuccessfull"
+msgstr "شماره موبایل شما تایید نشد"
+
+msgid "number_sms_help"
+msgstr "برای ارسال خبر به شماره 500020444 پیامک ارسال فرمایید"
+
+msgid "exist_mobile_number"
+msgstr "این شماره موبایل از قبل وجود دارد"
+
+msgid "enter_verify_code"
+msgstr "کد تاييد را وارد کنيد"
+
+msgid "verify_code"
+msgstr "کد تاييد"
+
+msgid "sample_mobile_number"
+msgstr "نمونه شماره موبايل  معتبر : 0912xxxxxxx"
+
+msgid "send_for_you_max_sms"
+msgstr "تعداد دفعاتي که شماره ارسال کرده ايد بيشتر از حد مجاز است"
+
+msgid "social_network"
+msgstr "شبکه اجتماعی"
+
+msgid ""
+msgstr "افراد را دنبال کنید!"
+
+msgid "join_to_madaner_on_few_minute"
+msgstr "تنهادر چند ثانیه عضو معدنر شوید"
+
+msgid "madaner_role1"
+msgstr "با کلیک بر روی عضويت شما با"
+
+msgid "madaner_role2"
+msgstr "قوانین و شرایط خدمات معدنر"
+
+msgid "madaner_role3"
+msgstr "موافقت می کنید"
+
+msgid "madaner_news"
+msgstr "معدنر خبری"
+
+msgid "madaner_jobs"
+msgstr "معدنر فرصت های شغلی"
+
+msgid "madaner_events"
+msgstr "معدنر رویدادها"
+
+msgid "capital_markets"
+msgstr "معدنر بازار سرمایه"
+
+msgid "check_security"
+msgstr "بررسی امنیتی"
+
+msgid "enter_captcha"
+msgstr "عبارت امنیتی زیر را وارد کنید "
+
+msgid "register"
+msgstr "عضویت"
+
+msgid "back"
+msgstr "بازگشت"
+
+msgid "chat"
+msgstr "بحث و گفت و گو"
+
+msgid "chat_comment1"
+msgstr "بحث های جذاب ایجاد کنید."
+
+msgid "chat_comment2"
+msgstr "با همه افراد بحث و گفبرچسبو کنید."
+
+msgid "social_network_comment1"
+msgstr "افراد را دنبال کنید!"
+
+msgid "social_network_comment2"
+msgstr "پیام خصوصی ارسال کنید."
+
+msgid "social_network_comment3"
+msgstr "به ارسال‌ها پاسخ دهید و به اشتراک بگذارید."
+
+msgid "news"
+msgstr "اخبار"
+
+msgid "news_comment1"
+msgstr "دسترسی سریع و ارزان به اخبار"
+
+msgid "news_comment2"
+msgstr "دسترسی به اخبار گوناگون معدن"
+
+msgid "news_comment3"
+msgstr "ارسال خبر در معدنر با پیامک"
+
+msgid "relation"
+msgstr "ارتباط"
+
+msgid "relation_comment1"
+msgstr "یافتن مخاطبان جدید و مفید"
+
+msgid "relation_comment2"
+msgstr "ارسال پیام خصوصی برای کاربران"
+
+msgid "relation_comment3"
+msgstr "ایجاد و گسترش ارتباط‌های حرفه ای"
+
+msgid "regard"
+msgstr "نظر سنجی"
+
+msgid "regard_comment1"
+msgstr "شرکت در نظرسنجی‌های معدنر"
+
+msgid "regard_comment2"
+msgstr "طرح سوال و نظرسنجی از افراد شبکه"
+
+msgid "profile"
+msgstr "پروفایل"
+
+msgid "profile_comment1"
+msgstr "خودتان را کوتاه و مفید معرفی کنید."
+
+msgid "profile_comment2"
+msgstr "در معرض نمایش افراد شبکه باشید."
+
+msgid "profile_comment3"
+msgstr "در جستجوها یافت شوید."
+
+msgid "you_can_send_3email"
+msgstr "شما فقط مي توانيد 3 دعوت نامه ارسال کنيد"
+
+msgid "send_invitation"
+msgstr "ارسال دعوت نامه"
+
+msgid "send_invitation_success"
+msgstr "دعوت نامه با موفقيت ارسال شد"
+
+msgid "invitation_detail1"
+msgstr "دوستان خود را از طریق ایمیل دعوت کنید"
+
+msgid "invitation_detail2"
+msgstr "نشانی ایمیل را با , جدا کنید"
+
+msgid "invitation_titr1"
+msgstr "شما را برای پیوستن به معدنر دعوت کرده است!"
+
+msgid "invitation_titr2"
+msgstr "معدنر به شما کمک می کند تا ببینید در حال حاضر در صنعت معدن و صنایع وابسته معدنی چه خبر است و همیشه با افراد و سازمان هایی که برایتان مهم‌اند در ارتباط بمانید."
+
+msgid "invitation_titr3"
+msgstr " برای عضویت در شبکه خبری معدن، لطفا کلیک کنید:"
+
+msgid "cant_send_email"
+msgstr "دعوت نامه ارسال نشد"
+
+msgid "send_forget_pass"
+msgstr "ارسال رمز عبور"
+
+msgid "send_newsletter"
+msgstr "خبرنامه اختصاصی معدنر"
+
+msgid "new_users"
+msgstr "جدیدترین کاربران"
+
+msgid "active_users"
+msgstr "فعال ترین کاربران"
+
+msgid "max_follower_users"
+msgstr "پرطرفدارترین کاربران"
+
+msgid "max_like"
+msgstr "بیشترین لایک"
+
+msgid "max_sharing"
+msgstr "بیشترین اشتراک گذاری"
+
+msgid "max_post_on_post"
+msgstr "بیشترین پاسخ به پست"
+
+msgid "max_favorite"
+msgstr "بیشترین برگزیده شدن"
+
+msgid "max_response"
+msgstr "بيشتر پاسخ به خبر"
+
+msgid "max_favorite"
+msgstr "بيشترين برگزيده"
+
+msgid "enter_a_email"
+msgstr "ايميل را وارد کنيد"
+
+msgid "news_content"
+msgstr "متن خبر"
+
+msgid "invitation_sms_detail1"
+msgstr "دوستان خود را از طریق پيامک دعوت کنید"
+
+msgid "invitation_sms_detail2"
+msgstr "شماره موبايل را با , جدا کنيد"
+
+msgid "sms"
+msgstr "پيامک"
+
+msgid "you_can_send_3sms"
+msgstr "شما فقط ميتوانيد 3 پيامک همزمان ارسال کنيد"
+
+msgid "invitation_sms_content"
+msgstr "، شما را برای پیوستن به معدنر- بزرگترین شبکه اجتماعی معدن دعوت کرده است !  www.madaner.ir"
+
+msgid "send_invitation_email"
+msgstr "ارسال دعوت نامه ایمیلی"
+
+msgid "send_invitation_sms"
+msgstr "ارسال دعوت نامه پیامکی"
+
+msgid "account_not_active_goto_email"
+msgstr "هنوز حساب کاربری شما فعال نشده است. لطفا به ایمیلتان مراجعه کنید و حساب کاربری تان را فعال کنید. لینک فعال سازی به ایمیل شما ارسال شده است"
+
+msgid "learn_site_top_menu"
+msgstr "آموزش منوی بالای سایت"
+
+msgid "learn_site_top_menu_home"
+msgstr "ببینید دنبال شوند های شما، چه خبرهایی را با شما به اشتراک گذاشته اند"
+
+msgid "home_menu"
+msgstr "منوی خانه"
+
+msgid "users_menu"
+msgstr "منوی افراد"
+
+msgid "learn_site_top_menu_users"
+msgstr "ببینید چه کسانی عضو معدنر هستند. درباره آنها بیشتر بدانید و آنها را دنبال کنید."
+
+msgid "learn_site_top_menu_favorite"
+msgstr "ببینید چه خبرهایی را برگزیده اید و آرشیو کرده اید. می توانیدخبرهای برگزیده تان را مدیریت کنید."
+
+msgid "favorite_menu"
+msgstr "منوی پست های برگزیده من"
+
+msgid "newNews_menu"
+msgstr "منوی افزودن خبر"
+
+msgid "learn_site_top_menu_newNews"
+msgstr "خبرها و مطالب جدیدتان را بنویسید و با دنبال کننده هایتان به اشتراک بگذارید. "
+
+msgid "learn_addpost_newpost_input"
+msgstr "خبرها و مطالب تان را (حداکثر 500 کاراکتر) در اینجا بنویسید!"
+
+msgid "addlink"
+msgstr "افزودن لينک"
+
+msgid "learn_addpost"
+msgstr "افزودن خبر"
+
+msgid "learn_addpost_addlink"
+msgstr "اگر مطلب تان از یک وبسایت دیگر است، لینک آن را در این قسمت اضافه کنید!"
+
+msgid "addimage"
+msgstr "افزودن تصوير"
+
+msgid "learn_addpost_addimage"
+msgstr "عکس مربوط به خبرتان را اضافه کنید و خبرتان را ارسال کنید."
+
+msgid "learn_search_box"
+msgstr "جستجو در سايت"
+
+msgid "learn_search_box_detail"
+msgstr "افراد، اخبار و موضوعات مورد نظرتان را جستجو کنید!"
+
+msgid "learn_top_help_menu"
+msgstr "منوي تنظيمات"
+
+msgid "learn_top_help_menu_detail"
+msgstr "منوی دسترسی به ویرایش پروفایل، حریم خصوصی و تنظیمات، راهنما و خروج از حساب کاربری"
+
+msgid "learn_user_box"
+msgstr "اطلاعات کاربری"
+
+msgid "learn_user_box_user_name"
+msgstr "روی نام کاربری یا تصویر خودتان کلیک کنید تا به صفحه پروفایل تان بروید."
+
+msgid "learn_user_box_edit_profile"
+msgstr "اطلاعات پروفایل، حساب کاربری و سایر تنظیمات را ویرایش کنید."
+
+msgid "learn_user_box_edit_message_box"
+msgstr "برای دنبال کننده ها و دنبال شونده های خود پیام خصوصی ارسال کنید و پیام های دریافتی تان را مدیریت کنید."
+
+msgid "message_box"
+msgstr "پیام خصوصی"
+
+msgid "learn_user_box_edit_my_post"
+msgstr "تعداد خبرهایی که با دیگران به اشتراک گذاشته اید را نشان می دهد. به صفحه خبرهایتان بروید و آنها را مدیریت کنید."
+
+msgid "learn_user_box_edit_follow_payees"
+msgstr "ببینید شما چه کسانی را دنبال می کنید و آنها را مدیریت کنید."
+
+msgid "learn_user_box_edit_chasers"
+msgstr "ببینید چه کسانی شما را دنبال کرده اند تا اخبار شما را ببینند. "
+
+msgid "learn_invitation"
+msgstr "آموزش دعوتنامه"
+
+msgid "learn_invitation_email"
+msgstr "یک ایمیل خصوصی به آدرس ایمیل دوستانتان ارسال کنید و آنها را دعوت کنید تا به معدنر بپیوندند! "
+
+msgid "learn_invitation_sms"
+msgstr "یک پیامک خصوصی به شماره موبایل دوستانتان ارسال کنید و آنها را دعوت کنید تا به معدنر بپیوندند! "
+
+msgid "learn_new_notification"
+msgstr "معدنر بر اساس اطلاعات پروفایل شما، افرادی را برای دنبال کردن به شما پیشنهاد می کند. دنبال شونده هایتان را گسترش دهید تا خبرهای بیشتری از صنعت معدن دریافت کنید!"
+
+msgid "learn_notificationBox"
+msgstr "اطلاعیه های مربوط به شبکه خبری تان را در اینجا ببینید. ببینید چه کسانی شما را دنبال کرده اند، خبر شما را پسندیده اند؟ به خبر شما پاسخ داده اند و یا آن را به اشتراک گذاشته اند؟"
+
+msgid "are_you_have_learn_profile"
+msgstr "آیا مایل هستید آموزش صفحه پروفایل رو ببینید؟"
+
+msgid "learn_profile_menu"
+msgstr "آموزش منوی پروفایل"
+
+msgid "learn_profile_menu_detail"
+msgstr "این منو به شما کمک می کند تا بتوانید:1- برای کاربر مورد نظر پیام خصوصی ارسال کنید!2- کاربر مورد نظر را مسدود کنید تا نتواند شما را دنبال کند، به خبرهایتان پاسخ دهد و آنها را به اشتراک بگذارد.3- اگر مطالب این پروفایل، خلاف قوانین و شرایط استفاده از سایت معدنر است، آن را به مدیریت سایت گزارش کنید."
+
+msgid "learn_profile_follow_btn"
+msgstr "آموزش دنبال کردن"
+
+msgid "learn_profile_follow_btn_detail"
+msgstr "با کلیک برروی این دکمه می توانید کاربر را دنبال کنید و یا دنبال نکنید"
+
+msgid "learn_this_page"
+msgstr "آموزش اين صفحه"
+
+msgid "learn_post"
+msgstr "خبر"
+
+msgid "learn_post_date"
+msgstr "با کلیک بر روی تاریخ هر خبر، می توانید به صفحه اختصاصی آن خبر بروید."
+
+msgid "learn_post_favorite"
+msgstr "خبرهای جذاب و مهم را به لیست 'خبرهای برگزیده من' اضافه کنید و آنها را آرشیو کنید!"
+
+msgid "learn_post_facebook"
+msgstr "خبرهای شبکه خبری تان را در فیس بوک به اشتراک بگذارید!"
+
+msgid "learn_post_comment"
+msgstr "به خبرها و مطالب افراد شبکه پاسخ دهید تا یک گفتگو ایجاد شود."
+
+msgid "learn_post_share"
+msgstr "خبرهای جذاب و مهم را با سایرین به اشتراک بگذارید!"
+
+msgid "learn_post_report"
+msgstr "اگر مطالب این پست، خلاف قوانین و شرایط استفاده از سایت معدنر است، آن را به مدیریت سایت گزارش کنید."
+
+msgid "welcome_to_madaner"
+msgstr "به معدنر خوش آمدید"
+
+msgid "follow_5users"
+msgstr "برای شروع کار لطفا 5 کاربر را دنبال کنید."
+
+msgid "location_detail"
+msgstr "شهر محل زندگی شما"
+
+msgid "letter_of_introduction_detail"
+msgstr "عنوان شغلی ، مدرک تحصیلی ، دانشگاه ، مهارت ، ..."
+
+msgid "hot_subject"
+msgstr "موضوعات داغ (#)"
+
+msgid "all_subject"
+msgstr "همه موضوعات"
+
+msgid "send_invitation_email_title"
+msgstr "از طريق ايميل"
+
+msgid "send_invitation_sms_title"
+msgstr "از طريق پيامک"
+
+msgid "users_for_follow"
+msgstr "افرادی برای دنبال کردن"
+
+msgid "all_users"
+msgstr "همه افراد"
+
+msgid "homeimage_management"
+msgstr "مدیریت تصویر خانه"
+
+msgid "homeimage"
+msgstr "تصویر خانه"
+
+msgid "search_in_title"
+msgstr "جستجو رو عنوان"
+
+msgid "from_date"
+msgstr "از تاریخ"
+
+msgid "to_date"
+msgstr "تا تاریخ"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_home_image_has_been_saved"
+msgstr "اطلاعات با موفقيت ذخيره شد"
+
+msgid "the_home_image_not_saved"
+msgstr "اطلاعات ذخيره نشد"
+
+msgid "add_home_image"
+msgstr "افزودن تصوير خانه"
+
+msgid "the_home_image_deleted"
+msgstr "اطلاعات حذف شد"
+
+msgid "the_home_image_not_deleted"
+msgstr "اطلاعات حذف نشد"
+
+msgid "invalid_id_for_home_image"
+msgstr "شماره تصوير نامعتبر مي باشد"
+
+msgid "edit_home_image"
+msgstr "ویرایش تصویر خانه"
+
+msgid "go_home"
+msgstr "انتقال به صفحه اصلی"
+
+msgid "userloglogin_management"
+msgstr "آمار لاگين کاربران"
+
+msgid "userloglogins"
+msgstr "آمار کابران"
+
+msgid "sum_login"
+msgstr "تعداد لاگين"
+
+msgid "export_excel"
+msgstr "خروجي اکسل"
+
+msgid "login_count"
+msgstr "تعداد ورود به سايت"
+
+msgid "last_login_date"
+msgstr "آخرين تاريخ ورود به سايت"
+
+msgid "first_login_date"
+msgstr "اولين تاريخ ورود به سايت"
+
+msgid "siteview_management"
+msgstr "مدیریت آمار سایت"
+
+msgid "count_view"
+msgstr "تعداد بازدید"
+
+msgid "siteviews"
+msgstr "آمار بازدید سایت"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "template"
+msgstr "قالب"
+
+msgid "newsletter_info1"
+msgstr "شما این آگاه سازی را دریافت کردید زیرا شما به عنوان "
+
+msgid "newsletter_info2"
+msgstr "در معدنر ثبت نام کرده اید"
+
+msgid "cancel_subscription"
+msgstr "لغو اشتراک"
+
+msgid "newsletter_info3"
+msgstr "در صورت داشتن هرگونه سوال با ما تماس بگیرید"
+
+msgid "newsletter_info4"
+msgstr "کلیه حقوق برای معدنر محفوظ است"
+
+msgid "newsletter_bodyactive_info1"
+msgstr "شما هنوز پروفایل تان را در معدنر فعال نکرده اید. لطفا با کلیک بر روی لینک زیر، پروفایلتان را در معدنر فعال کنید:"
+
+msgid "newsletter_bodyactive_info2"
+msgstr "مهندسین، اساتید و متخصصان بسیاری در معدنر منتظر شما هستند. پروفایلتان را کامل کنید و سایر افراد شبکه را دنبال کنید تا در معدنر دیده شوید. شبکه حرفه ای و خبری خود را در معدنر گسترش دهید."
+
+msgid "send_activeemail"
+msgstr "حساب کاربری خود را فعال کنید"
+
+msgid "send_email_forme_onlastloginemail"
+msgstr "نکته هایی برای بهره مندی بیشتر از معدنر"
+
+msgid "send_email_forme_onnewsletteremail"
+msgstr "خبرنامه اختصاصی"
+
+msgid "deactive_send_active_email_successfull"
+msgstr "غيرفعال کردن ارسال ايميل فعال سازي با موفقيت انجام شد"
+
+msgid "deactive_send_active_email_notsuccessfull"
+msgstr "غير فعال سازي ارسال ايميل فعال سازي انجام نشد"
+
+msgid "can_not_send_email_to_user"
+msgstr "هيچ ايميل فعال سازي به اين کاربر ارسال نشده است"
+
+msgid "deactive_send_active_email"
+msgstr "غير فعال سازي ارسال ايميل فعال سازي"
+
+msgid "send_active_email_to_user_deactive_ago"
+msgstr "غير فعال کردن ارسال ايميل فعال سازي قبلا انجام شده است"
+
+msgid "hello"
+msgstr "سلام"
+
+msgid "last_login_dtl1"
+msgstr "مهندسین، اساتید و متخصصان بسیاری در معدنر منتظر شما هستند. خبرهای بسیاری از معدن در شبکه وجود دارد که شما از آنها بی اطلاع مانده اید. همچنین افراد جدید بسیاری به معدنر آمده اند. آنها را دنبال کنید و شبکه حرفه ای و خبری خود را گسترش دهید."
+
+msgid "hot_talk"
+msgstr "گفتگوهای جذاب"
+
+msgid "hot_talk_dtl1"
+msgstr "این خبرها بیشترین پاسخ را دریافت کرده اند"
+
+msgid "follower_users"
+msgstr "افراد پر طرفدار"
+
+msgid "follower_users_dtl1"
+msgstr "این افراد بیشترین دنبال کننده ها را در این 2 هفته داشته اند"
+
+msgid "hot_tags"
+msgstr "موضوعات داغ 2 هفته گذشته"
+
+msgid "week_fllower"
+msgstr "افراد زیر شما را در این 2 هفته دنبال کرده اند"
+
+msgid "send_last_login"
+msgstr "نکته هایی برای بهره مندی بیشتر از معدنر"
+
+msgid "update_madaner"
+msgstr "بروزرسانی هایی از معدنر"
+
+msgid "census_this_week"
+msgstr "آمار اختصاصی شما در 2 هفته گذشته"
+
+msgid "unread_message"
+msgstr "پیام های خوانده نشده"
+
+msgid "unread_notification"
+msgstr "تعداد نوتیفیکیشن ها"
+
+msgid "view_all_answer"
+msgstr "همه پاسخ ها را ببینید و در گفتگو شرکت کنید"
+
+msgid "private_madaner_newsletter"
+msgstr "خبرنامه اختصاصی معدنر"
+
+msgid "share_in_gplus"
+msgstr "اشتراک گذاری در گوگل پلاس"
+
+msgid "person"
+msgstr "نفر"
+
+msgid "four_last_follower"
+msgstr "4 نفر از آخرین  دنبال کننده ها"
+
+msgid "product_category"
+msgstr "دسته بندی محصولات"
+
+msgid "product_managment"
+msgstr "مدیریت محصولات"
+
+msgid "add_product_category"
+msgstr "افزودن دسته بندی محصول"
+
+msgid "add_product_category"
+msgstr "افزودن دسته بندی محصول"
+
+msgid "parent_product_category"
+msgstr "انتخاب دسته بندی والد"
+
+msgid "main_product_category"
+msgstr "دسته بندی اصلی"
+
+msgid "the_product_category_has_been_saved"
+msgstr "دسته بندی محصول با موفقیت ذخیره شد"
+
+msgid "the_product_category_could_not_be_saved"
+msgstr "دسته بندی محصول ذخیره نشد"
+
+msgid "invalid_id_for_product_category"
+msgstr "این دسته بندی وجود ندارد"
+
+msgid "edit_product_category"
+msgstr "ویرایش دسته بندی محصول"
+
+msgid "delete_product_category_success"
+msgstr "حذف دسته بندی محصول با موفقیت انجام شد"
+
+msgid "delete_product_category_not_success"
+msgstr "حذف دسته بندی محصول انجام نشد"
+
+msgid "slug"
+msgstr "عنوان انگلیسی"
+
+msgid "technical_info"
+msgstr "مشخصات فني"
+
+msgid "database_managment"
+msgstr "مديريت پايگاه داده"
+
+msgid "technicalinfo_title"
+msgstr "عنوان اصلي مشخصات فني"
+
+msgid "technicalinfoitem_title"
+msgstr "افزودن مشخصات"
+
+msgid "items"
+msgstr "مشخصات"
+
+msgid "add_row"
+msgstr "افزودن رديف"
+
+msgid "add_technicalinfoitem"
+msgstr "افزودن مشخصات فني"
+
+msgid "the_technicalinfoitem_has_been_saved"
+msgstr "مشخصات فنی با موفقیت ذخیره شد"
+
+msgid "the_technicalinfoitem_not_saved"
+msgstr "مشخصات فنی ذخیره نشد"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "the_technicalinfoitem_deleted"
+msgstr "مشخصات محصول با موفقیت حذف شد"
+
+msgid "the_technicalinfoitem_not_deleted"
+msgstr "مشخصات محصول حذف نشد"
+
+msgid "technicalinfoitem"
+msgstr "مشخصات فنی"
+
+msgid "edit_technicalinfoitem"
+msgstr "ویرایش مشخصات فنی"
+
+msgid "category_title"
+msgstr "عنوان دسته بندی"
+
+msgid "price"
+msgstr "قیمت"
+
+msgid "num"
+msgstr "تعداد"
+
+msgid "view"
+msgstr "بازدید"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "discount"
+msgstr "تخفیف"
+
+msgid "weight"
+msgstr "وزن"
+
+msgid "detail"
+msgstr "توضیحات"
+
+msgid "rate"
+msgstr "امتیاز"
+
+msgid "value"
+msgstr "مقدار"
+
+msgid "product_images"
+msgstr "تصاویر محصول"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_product_not_saved"
+msgstr "محصول ذخيره نشد"
+
+msgid "the_product_has_been_saved"
+msgstr "محصول با موفقيت ذخيره شد"
+
+msgid "the_productrate_not_saved"
+msgstr "امتياز محصول ذخيره نشد"
+
+msgid "the_technicalinfoitemvalue_not_saved"
+msgstr "مشخصات فني محصول ذخيره نشد"
+
+msgid "the_tag_not_saved"
+msgstr "تگ ذخيره نشد"
+
+msgid "the_product_tag_not_saved"
+msgstr "تگ محصول ذخيره نشد"
+
+msgid "the_product_image_not_saved"
+msgstr "تصوير محصول ذخيره نشد"
+
+msgid "invalid_id_for_technicalinfoitem"
+msgstr "شماره وارد شده نادرست است"
+
+msgid "invalid_id_for_product"
+msgstr "شماره محصول وارد شده نادرست است"
+
+msgid "the_product_deleted"
+msgstr "محصول با موفقیت حذف شد"
+
+msgid "the_product_not_deleted"
+msgstr "محصول حذف نشد"
+
+msgid "productreview"
+msgstr "نقد و بررسی"
+
+msgid "product_name"
+msgstr "نام محصول"
+
+msgid "the_productreview_could_not_be_saved"
+msgstr "نقد و بررسی محصول ذخیره نشد"
+
+msgid "the_productreview_has_been_saved"
+msgstr "نقد و بررسی محصول ذخیره شد"
+
+msgid "the_productrate_not_valid"
+msgstr "امتياز محصول را درست وارد کنيد"
+
+msgid "category_includes_product_can_not_be_deleted"
+msgstr "دسته بندي شامل محصول مي باشد و قابل حذف نيست"
+
+msgid "resume_file"
+msgstr "فايل رزومه"
+
+msgid "pdf_help"
+msgstr "در اينجا مي توانيد فايل رزومه خود را تا اندازه 2 مگابایت و فرمت pdf آپلود نماييد"
+
+msgid "my_resume"
+msgstr "رزومه من"
+
+msgid "not_exist_resume"
+msgstr "رزومه اي براي دانلود وجود ندارد"
+
+msgid "my_posts"
+msgstr "خبرهاي من"
+
+msgid "are_you_sure_for_delete"
+msgstr "آیا مطمئن هستید؟"
+
+msgid "delete_image_notsuccess"
+msgstr "حذف تصویر انجام نشد"
+
+msgid "delete_image_success"
+msgstr "حذف تصویر با موفقیت انجام شد"
+
+msgid "delete_cover_image_success"
+msgstr "تصوير رويه با موفقيت حذف شد"
+
+msgid "delete_cover_image_notsuccess"
+msgstr "تصوير رويه حذف نشد"
+
+msgid "the_productreview_could_not_be_saved"
+msgstr "نقد و بررسی ذخیره نشد"
+
+msgid "the_productreviewpdf_not_saved"
+msgstr "فایل پی دی اف ذخیره نشد"
+
+msgid "pdf"
+msgstr "فایل پی دی اف"
+
+msgid "add_productreviewpdf"
+msgstr "افزودن فایل پی دی اف"
+
+msgid "add_file"
+msgstr "افزودن فایل"
+
+msgid "library"
+msgstr "کتابخانه"
+
+msgid "library_managment"
+msgstr "مديريت کتابخانه"
+
+msgid "author"
+msgstr "مولف"
+
+msgid "add_library"
+msgstr "افزودن کتاب"
+
+msgid "the_library_not_saved"
+msgstr "کتابخانه ذخیره نشد"
+
+msgid "the_library_tag_not_saved"
+msgstr "تگ کتابخانه ذخیره نشد"
+
+msgid "the_author_not_saved"
+msgstr "مولف ذخیره نشد"
+
+msgid "the_library_author_not_saved"
+msgstr "مولف ذخیره نشد"
+
+msgid "the_library_has_been_saved"
+msgstr "کتابخانه با موفقیت ذخیره شد"
+
+msgid "delete_pdf"
+msgstr "حذف فایل پی دی اف"
+
+msgid "delete_pdf_success"
+msgstr "رزومه با موفقیت حذف شد"
+
+msgid "the_library_deleted"
+msgstr "کتاب حذف شد"
+
+msgid "the_library_not_deleted"
+msgstr "کتاب حذف نشد"
+
+msgid "ads_post"
+msgstr "تبلیغ"
+
+msgid "ads_dtl1"
+msgstr "مخاطبین خبرهایتان را گسترش دهید!"
+
+msgid "ads_dtl2"
+msgstr "شما می‌توانید به آسانی مخاطبین خبرهایتان را افزایش دهید تا افراد بیشتری آن را در خانه خود ببینند. "
+
+msgid "ads_dtl3"
+msgstr "بیشتر بدانید"
+
+msgid "ads_dtl4"
+msgstr "مخاطبین"
+
+msgid "ads_dtl5"
+msgstr "افراد براساس گروه‌هایی که شما انتخاب می‌کنید"
+
+msgid "ads_dtl6"
+msgstr "تخمین مخاطبین خبر شما"
+
+msgid "ads_dtl7"
+msgstr "نفر از"
+
+msgid "ads_dtl8"
+msgstr "نفر"
+
+msgid "ads_dtl9"
+msgstr "تعیین بودجه به ازای هر نفر"
+
+msgid "ads_dtl10"
+msgstr "نمایش خبر در خانه مخاطبین "
+
+msgid "ads_dtl11"
+msgstr "نمایش خبر در خانه مخاطبین و ارسال خبر به ایمیل آنها "
+
+msgid "ads_dtl12"
+msgstr "تخمین هزینه تبلیغ خبر شما"
+
+msgid "rial"
+msgstr "ريال"
+
+msgid "ads_dtl13"
+msgstr "من با کلیک بر روی دکمه افزایش مخاطبین، "
+
+msgid "ads_dtl14"
+msgstr "شرایط خدمات"
+
+msgid "and"
+msgstr " و "
+
+msgid "ads_dtl15"
+msgstr "راهنمای تبلیغات "
+
+msgid "ads_dtl16"
+msgstr "معدنر را می پذیرم. "
+
+msgid "save_ads"
+msgstr "ثبت تبلیغات"
+
+msgid "select_member_group"
+msgstr "یکی از گروههای مخاطبین را انتخاب کنید"
+
+msgid "question"
+msgstr "سوال"
+
+msgid "the_first_postad_save_success"
+msgstr "اطلاعات اولیه ذخیره شد ، در حال ارسال براي انجام عملیات بانکی ...."
+
+msgid "the_postad_not_save"
+msgstr "اطلاعات تبلیغات ذخیره نشد"
+
+msgid "cancel"
+msgstr "انصراف"
+
+msgid "post_ads"
+msgstr "تبلیغ خبر"
+
+msgid "pay"
+msgstr "پرداخت"
+
+msgid "select_bank"
+msgstr "درگاه بانک را انتخاب کنید"
+
+msgid "getway"
+msgstr "درگاه بانک"
+
+msgid "not_exist_pasy_info"
+msgstr "اطلاعاتی برای پرداخت وجود ندارد"
+
+msgid "end_buy"
+msgstr "اتمام خرید"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "sum_price"
+msgstr "جمع مبالغ"
+
+msgid "other_price"
+msgstr "هزینه پست"
+
+msgid "sum_item"
+msgstr "تعداد کالا"
+
+msgid "online_pay"
+msgstr "پرداخت آنلاین"
+
+msgid "selecting_bank"
+msgstr "بانک انتخابی"
+
+msgid "cant_connect_to_bankmellat_getway"
+msgstr "اتصال به درگاه بانک ملت انجام نشد"
+
+msgid "cant_send_parameters_to_bankmellat_getway"
+msgstr "ارسال اطلاعات به درگاه بانک ملت انجام نگرفت"
+
+msgid "cant_get_response_from_bankmellat_getway"
+msgstr "دریافت اطلاعات از درگاه بانک ملت با خطا مواجه شد"
+
+msgid "cant_update_table"
+msgstr "اطلاعات خرید بروزرسانی نشد"
+
+msgid "buy_successed"
+msgstr "خرید با موفقیت انجام شد"
+
+msgid "approval_of_final_deposit_in_bank_operations_were_performed"
+msgstr "عملیات تایید واریز نهایی در بانک انجام نگردید.با پشتیبانی تماس حاصل فرمایید"
+
+msgid "transaction_needs_to_follow_up"
+msgstr "تراکنش به پيگيري نیاز دارد"
+
+msgid "transaction_id"
+msgstr "شماره تراکنش"
+
+msgid "money_was_paid_back_operation"
+msgstr "عملیات بازگشت پول پرداختی انجام گردید"
+
+msgid "try_again"
+msgstr "عملیات انجام نشد لطفا دوباره تلاش فرمایید"
+
+msgid "connect_to_mellat_bank"
+msgstr "در حال اتصال به درگاه بانک ملت"
+
+msgid "buy_not_successed"
+msgstr "خرید انجام نشد"
+
+msgid "buy_result"
+msgstr "نتیجه خرید"
+
+msgid "back_to_buy_page"
+msgstr "برگشت به صفحه خرید"
+
+msgid "order_id"
+msgstr "شماره سفارش"
+
+msgid "postads_list"
+msgstr "ليست تبليغات"
+
+msgid "edit_password"
+msgstr "تغيير رمز عبور"
+
+msgid "post_id"
+msgstr "شماره خبر"
+
+msgid "base_amount"
+msgstr "مبلغ پایه"
+
+msgid "select_member"
+msgstr "تعداد افراد"
+
+msgid "refid"
+msgstr "شماره تراکنش"
+
+msgid "bankmessage_id"
+msgstr "خطای دریافتی"
+
+msgid "not_exist_ads"
+msgstr "تبلیغاتی وجود ندارد"
+
+msgid "system_cant_send_your_request"
+msgstr "سیستم قادر به انجام درخواست شما نمی باشد"
+
+msgid "retry_pay"
+msgstr "تلاش دوباره"
+
+msgid "pay_success"
+msgstr "پرداخت انجام شد"
+
+msgid "site_setting_managment"
+msgstr "مدیریت تنظیمات سایت"
+
+msgid "site_setting"
+msgstr "تنظیمات سایت"
+
+msgid "postads_level1_price"
+msgstr "مبلغ تبلیغات خبری بدون ایمیل"
+
+msgid "postads_level2_price"
+msgstr "ممبلغ تبلیغات خبری با ایمیل"
+
+msgid "site_keywords"
+msgstr "کلمات کلیدی سایت"
+
+msgid "site_description"
+msgstr "توضیحات سایت"
+
+msgid "separate_with_simicalon"
+msgstr "با ویرگول (,) جدا کنید"
+
+msgid "the_setting_has_been_saved"
+msgstr "تنظیمات با موفقیت ذخیره شد"
+
+msgid "the_setting_could_not_be_saved"
+msgstr "تنظیمات ذخیره نشد"
+
+msgid "bankmellat_getway"
+msgstr "درگاه بانک ملت"
+
+msgid "ads_managment"
+msgstr "مدیریت تبلیغات"
+
+msgid "ads_managment_setting"
+msgstr "مدیریت تبلیغات پست"
+
+msgid "invalid_id_for_postads"
+msgstr "شماره تبلیغات معتبر نمی باشد"
+
+msgid "the_postads_has_been_saved"
+msgstr "تبلیغات پست با موفقیت ذخیره شد"
+
+msgid "the_postads_not_saved"
+msgstr "تبلیغات پست ذخیره نشد"
+
+msgid "the_postads_deleted"
+msgstr "تبلیغات پست با موفقیت حذف شد"
+
+msgid "the_postads_not_deleted"
+msgstr "تبلیغات پست حذف نشد"
+
+msgid "edit_postdds"
+msgstr "ویرایش تبلیغات پست"
+
+msgid "ads_madaner"
+msgstr "خبر ویژه معدنر"
+
+msgid "save_post_successfully"
+msgstr "خبر با موفقیت ذخیره شد"
+
+msgid "cant_save_post"
+msgstr "خبر ذخیره نشد"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

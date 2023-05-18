@@ -1,0 +1,84 @@
+@import "global.less";
+.profileCover
+{
+	text-align:center;
+	height:350px;
+	/*overflow:hidden;*/
+	margin-top:65px;
+	width:100%;
+	.ax
+	{
+		height:350px;
+		width:auto;
+		margin:0 -1000px;
+	}
+}
+.profileData 
+{
+	&.profileImageContainer
+	{
+		text-align:center;
+	}
+	.profileImage
+	{
+		display:inline-block;
+			width:200px;
+		margin:-90px auto 10px auto;
+		.ax
+		{
+			width:200px;
+			height:200px;
+			.drop-shadow (@x:0, @y: 1px, @blur: 2px, @spread: 0, @alpha: 0.25);
+			border-radius: 4px;
+		}
+		.Name
+		{
+			text-align:center;
+			margin:10px 0;
+		}
+	}
+	.otherData
+	{
+		display:inline-block;
+		vertical-align:top;
+		margin:10px;
+		line-height:200%;
+		h1
+		{
+			font-size: 24px;
+			margin:5px 5px 10px 5px;
+		}
+		.detail
+		{
+			font-size:17px;
+			color:#666;
+		}
+		.location
+		{
+			color:#999;
+			font-size:13px;
+		}
+		.web
+		{
+			font-size:13px;
+			color:#999;
+		}
+	}
+	
+}
+.firstPanel
+{
+	.tile
+	{
+		display:block;
+	}
+}
+
+
+@media (orientation: portrait) {
+}
+
+.post_image{
+	margin:10px;
+}	
+

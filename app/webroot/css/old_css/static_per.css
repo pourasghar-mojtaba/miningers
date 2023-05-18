@@ -1,0 +1,121 @@
+/* CSS Document */
+#content .mainData
+{
+	float:right;
+	position:relative;
+	width:70%;
+	background:#FDF9F9;
+	/*border-radius:10px;*/
+	box-shadow:0 0 5px rgba(0,0,0,0.5);
+}
+#content .mainData h1
+{
+	font-size:16px;
+	margin:10px 10px 0 10px;
+	padding-bottom:10px;
+	color:rgba(51,51,51,1);
+	border-bottom:1px solid rgba(255,255,255,1);
+}
+#content .mainData h1 img
+{
+	width:32px;
+	height:32px;
+	margin-left:5px;
+	margin-bottom:-5px;
+}
+#content .mainData h2
+{
+	font-size:14px;
+	color:rgba(102,102,102,1);
+	margin:0 10px 0 10px;
+	padding:10px;
+	text-shadow:-1px 1px 2px #FFFFFF;
+	border-top:1px solid rgba(0,0,0,0.1);
+}
+#content .mainData ul.content_list
+{
+	color:#50aff2;
+	margin:5px 20px 20px 0;
+	list-style:url(../img/icons/label_162.png) inside;
+}
+#content .mainData ul.content_list li
+{
+	margin:5px 0 5px 0;
+}
+#content .mainData header
+{
+	color:#50aff2;
+	font-weight:bold;
+	margin:0;
+	padding:10px;
+}
+#content .mainData header a
+{
+	padding-bottom:5px;
+	border-bottom:1px dotted #50aff2;
+}
+#content .mainData header a:hover
+{
+	text-decoration:none;
+	color:#1B64BE;
+}
+#content .mainData article
+{
+	font-family: "B Homa" ,Tahoma, Geneva, sans-serif;
+	color:rgba(102,102,102,1);
+	margin:10px;
+	padding-bottom:10px;
+	border-bottom:1px dotted #999999;
+	text-align:justify;
+	line-height:30px;
+}
+#content .mainData article a
+{
+	color:#50aff2;
+	padding:0 5px 0 5px;
+}
+#content .mainData article img
+{
+	max-width:600px;
+	height:auto;
+	max-height:800px;
+	margin:20px;
+	border:3px solid #fff;
+	box-shadow:0 0 7px rgba(0,0,0,0.5);
+	display:block;
+	opacity:0.5;
+}
+.rightPanel
+{
+	-moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #CCCCCC;
+    height: auto;
+    padding: 5px;
+    position: relative;
+    width: 250px;
+	float: right;
+	margin: 5px 15px 5px 15px; 
+}
+.rightPanel ul.helpIcon
+{
+	margin:10px;
+	color:rgba(102,102,102,1);
+}
+.rightPanel ul.helpIcon li
+{
+	margin-bottom:10px;
+	color:rgba(102,102,102,1);
+}
+.rightPanel ul.helpIcon li:hover,
+.rightPanel ul.helpIcon li.active
+{
+	cursor:pointer;
+	color:#50aff2;
+}
+.rightPanel ul.helpIcon li img
+{
+	width:16px;
+	height:16px;
+	margin:0 0 -4px 5px;
+}
+

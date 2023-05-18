@@ -1,0 +1,67 @@
+table.calendar_month
+{
+	margin:0px auto;
+	width: 100%;
+	border-bottom: solid 1px #888;
+    border-right: solid 1px #888;
+}
+table.calendar_month td
+{
+	border-top: solid 1px #888;
+	border-left: solid 1px #888;
+	width:100px;
+	height:100px;
+	padding:0px;
+	vertical-align: top;
+}
+table.calendar_month td.day_of_week
+{
+	height:20px;
+	padding:3px 0px;
+	text-align:center;
+}
+td.other_month
+{
+	background-color:#eee;
+	color:#888;
+}
+td.other_month .day_number
+{
+    text-align: right;
+    padding:3px;
+    background-color:#eee;
+}
+td.current_month .day_number
+{
+	text-align: right;
+	padding:3px;
+	background-color:#ddd;
+	border-bottom: solid 1px #888;
+}
+.content
+{
+	padding:5px;
+}
+.event
+{
+	margin:5px;
+	padding:5px;
+	background-color:#B48AFE;
+	border: solid 1px #bbb;
+	-webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+}
+.event a
+{
+	color:#49238C;
+}
+.event .title
+{
+    font-size: 90%;
+    font-weight: bold;
+}
+.event .description
+{
+    font-size: 80%;
+}
